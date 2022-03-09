@@ -159,6 +159,12 @@ class MapGrid(object):
         self.name_places()
         self.path_cache = {}
         self.fill_path_cache(self.big_cities)
+    
+    def print_self(self):
+        print('Cities:', self.cities)
+        print('City names:', self.city_names)
+        print('Region names:', self.region_names)
+        
 
     @property
     def big_cities(self):

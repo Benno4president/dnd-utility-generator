@@ -1,13 +1,16 @@
 from terrain import MapGrid
-
+import os
 
 options = ['shore', 'island', 'mountain', 'desert']
+path = os.path.dirname(__file__)
 
 def new_map():
     for op in options:
-        print(f'~~~~~ Beginning to generate a/an{op}. ~~~~~')
+        print(f'~~~~~ Beginning to generate a/an {op}. ~~~~~')
         m = MapGrid(op)
-        filename = f"./{op}.png"
+        m.print_self()
+        filename = f"{path}/{op}.png"
+        print('.PNG stored at', filename)
         m.plot(filename)
     return filename 
 
