@@ -141,14 +141,21 @@ background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
     padding: 2px;
     border-radius: 2px; /*you can remove this to avoid rounded corners on the form*/
     z-index: 1;
-    cursor: pointer;
+    position: absolute;
+    opacity: 65%;
 }
 .img-event-button:hover {
-    background: #777555;
+    background: #fff892;
+    border-radius: 50%;
     cursor: pointer;
 }
-input {
+.img-event-button input {
     flex-grow: 2;
     border: none;
     border-radius: 50px;
-  }
+    background-color: rgb(252, 255, 53);
+}
+.img-event-button input:hover {
+    opacity: 100%;
+    background-color: rgb(255, 29, 86);
+    }

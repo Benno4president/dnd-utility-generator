@@ -15,13 +15,14 @@ def show_map():
     
     print(request.method)
     mid = (57.057007632597355, 10.177105367389393)
-    
+    print('lat:', mid[0]*1E7,'lon:', mid[1]*1E7)
+    print(int(round(mid[0]*1E7))/1E7, int(round(mid[1]*1E7))/1E7)
     coortest = [
-        {'symbol':'$', 'x':100, 'y':100},
-        {'symbol':'&', 'x':50, 'y':50},
-        {'symbol':'£', 'x':10, 'y':20}
+        {'event_id':1, 'symbol':'$', 'x':30, 'y':30},
+        {'event_id':2, 'symbol':'&', 'x':50, 'y':50},
+        {'event_id':3, 'symbol':'£', 'x':10, 'y':10}
         ]
-    return render_template('index.html', image='/static/images/test_map.png', world=coortest, req=req)
+    return render_template('index.html', image='static/world_folder/world1/world1_map.png', world=coortest, req=req)
 
 if __name__ == '__main__':
     app.run(debug=True)

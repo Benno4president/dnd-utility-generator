@@ -4,15 +4,23 @@
     {% for event in world %}
     
     {% set x = event['x'] | float() %}
+    {% set y = event['y'] | float() %}
     <form method="post" action="/map" name="event">
-        <div class="img-holder img-event-button">
+        <div id="{{event['event_id']}}" class="img-holder img-event-button">
             <input type="submit" value="{{event['symbol']}}" name="event" />
         </div>
     </form>
-    
+    <script>
+        var element = document.getElementById("{{event['event_id']}}");
+        /*element.style.position = "absolute"*/
+        element.style.top = "{{ x }}%";
+        element.style.left = "{{ y }}%";
+    </script>    
+    {% endfor %}
     <img class="img-holder" src="{{ image }}" />
-  {% endfor %}
 
 </div>
 <p>{{req}}</p>
+
 {% endblock %}
+
