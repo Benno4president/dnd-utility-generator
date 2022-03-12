@@ -1,0 +1,154 @@
+
+body{
+    background-color: #cfcbb0;
+    margin: 0vh;
+}
+h1{
+    font-size: 100%;
+    margin: 0vh;
+}
+header a {
+    color: black;
+    text-decoration: none;
+    font: 1em sans-serif;
+    padding: auto; 
+    transition-duration: .2s;
+}
+header{
+    position: absolute;
+    font-size: 3vh;
+    width: 40vh;
+    height: 99%;
+    border-color: #24231e;
+    border-style: solid;
+    border-left: 2cm;
+}
+header img{
+    position: relative;
+    max-width: 100%;
+
+}
+
+#posts{
+    padding-top: 3vh;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header a:hover{
+    font-size: 3.5vh
+}
+.content{
+    margin: 0vh;
+    margin-left: 40vh;
+    position: relative;
+    text-align: left;
+    height: 100%;
+    outline: none;
+}
+.content h1{
+    text-align: center;
+    font-size: 2vw;
+    margin-bottom: 3vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*
+.content img{
+    margin-top: 5vh;
+    max-width: 50%;
+}
+*/
+.content .button{
+    margin-top: 3vh;
+    align-items: center;
+    appearance: none;
+    background-color: #FCFCFD;
+    border-radius: 4px;
+    border-width: 0;
+    box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #36395A;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 4.8vh;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 1.8vh;
+  }
+  
+.content button:focus {
+box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+}
+
+.content button:hover {
+box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+transform: translateY(-2px);
+}
+
+.content button:active {
+transform: translateY(2px);
+}
+
+.content select{
+outline: none;
+width: 100%;
+min-width: 15vh;
+max-width: 60vh;
+border: 1px solid var(--select-border);
+border-radius: 0.25em;
+padding: 0.25em 0.5em;
+font-size: 1em;
+cursor: pointer;
+line-height: 1.1;
+background-color: #fff;
+background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
+}
+
+.img-holder {
+    width: 100vh;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+  }
+  .img-holder img {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+
+.img-holder .img-event-button {
+    display:block;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    /*border: 1px solid grey;*/
+    padding: 2px;
+    border-radius: 2px; /*you can remove this to avoid rounded corners on the form*/
+    z-index: 1;
+    cursor: pointer;
+}
+.img-event-button:hover {
+    background: #777555;
+    cursor: pointer;
+}
+input {
+    flex-grow: 2;
+    border: none;
+    border-radius: 50px;
+  }

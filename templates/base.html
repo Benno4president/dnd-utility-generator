@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{% block title %} {% endblock %}</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='stylesheet/style.css') }}"
+    />
+    <link rel="stylesheet" href="../static/stylesheet/style.css" />
+  </head>
+  <body>
+    <header>
+      <img src="../static/images/page_logo.png" />
+      <div id="posts">
+        <a href="/">Home</a>
+      </div>
+      <div id="posts"><a href="/plots">See status of data</a></div>
+      <div id="posts"><a href="/choosedata">example of fall data</a></div>
+      <div id="posts"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">never gonna give you up</a></div>
+    </header>
+    <div class="content">{% block content %} {% endblock %}</div>
+  </body>
+</html>

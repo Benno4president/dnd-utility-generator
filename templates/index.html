@@ -1,0 +1,18 @@
+{% extends 'base.html' %} {% block content %}
+<div class="img-holder">
+    
+    {% for event in world %}
+    
+    {% set x = event['x'] | float() %}
+    <form method="post" action="/map" name="event">
+        <div class="img-holder img-event-button">
+            <input type="submit" value="{{event['symbol']}}" name="event" />
+        </div>
+    </form>
+    
+    <img class="img-holder" src="{{ image }}" />
+  {% endfor %}
+
+</div>
+<p>{{req}}</p>
+{% endblock %}
