@@ -13,14 +13,11 @@ def show_map():
         event = request.form.get('event')
         req = event
     
-    print(request.method)
-    mid = (57.057007632597355, 10.177105367389393)
-    print('lat:', mid[0]*1E7,'lon:', mid[1]*1E7)
-    print(int(round(mid[0]*1E7))/1E7, int(round(mid[1]*1E7))/1E7)
+    
     coortest = [
-        {'event_id':1, 'symbol':'$', 'x':30, 'y':30},
-        {'event_id':2, 'symbol':'&', 'x':50, 'y':50},
-        {'event_id':3, 'symbol':'£', 'x':10, 'y':10}
+        #{'event_id':1, 'symbol':'$', 'x':97, 'y':97},
+        #{'event_id':2, 'symbol':'&', 'x':0, 'y':0},
+        {'event_id':3, 'symbol':'£', 'x':50, 'y':50}
         ]
     return render_template('index.html', image='static/world_folder/world1/world1_map.png', world=coortest, req=req)
 
