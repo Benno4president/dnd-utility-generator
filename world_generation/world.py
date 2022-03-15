@@ -1,8 +1,8 @@
 from world_generation.map_generator.generate_map import generate_map_and_cities
 from world_generation.event import Event
-import utm
 from math import radians, sin, cos, asin, tan
 import numpy as np
+import utm
 
 class World:
     def __init__(self, Config):
@@ -24,7 +24,7 @@ class World:
 
 
 def calc_placement(point, mid_point, dist):
-    map_dist = dist + 2 * (dist * tan(16)) # what the fuck
+    map_dist = dist
     
     u = utm.from_latlon(*mid_point)
     u = (u[0]-map_dist/2,u[1]+map_dist/2,u[2],u[3])
@@ -54,6 +54,5 @@ def calculate_spherical_distance(lat1, lon1, lat2, lon2, r=6371):
          np.square(sin((lambda2-lambda1)/2)))
     d = 2*r*asin(np.sqrt(a))
     return d
-    
     
     

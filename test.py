@@ -81,9 +81,23 @@ print('West:', llw)
 """  THIS IS TRUE BUT THE VALS ARE FUCKED """
 print('SE corner', llw[0], lln[1])
 print('NW corner', lle[0], lls[1])
+# NSEW
+bbox = (lle[0], llw[0], lln[1], lls[1])
 
+def get_bbox_custom(point, xy_dist=400)
+    u = utm.from_latlon(*point)
+    nw = (u[0]-dist/2,u[1]+dist/2,u[2],u[3])
+    se = (u[0]+dist/2,u[1]-dist/2,u[2],u[3])
+    llnw = utm.to_latlon(*nw)
+    llse = utm.to_latlon(*se)
+    cbbox = (llnw[0], llse[0], llnw[1], llse[1])
+    return cbbox
+
+print(bbox)
+# both function work
 print('Distance between N S:', haversine(*lln, *lls), 'km')
 print('Distance between E W:', haversine(*lle, *llw), 'km')
+print('Distance between E W:', calculate_spherical_distance(*lle, *llw), 'km')
 # print('Testing', utm.to_latlon(u[0]+dist,u[1],u[2],u[3]))
 
 

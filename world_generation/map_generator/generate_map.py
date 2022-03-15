@@ -4,6 +4,8 @@ from pprint import pprint
 import world_generation.map_generator.osmnx_utils as oxutil
 import matplotlib.pyplot as plt
 import random
+import utm
+
 
 def OLD_new_map(Filename=None):
     filename = './out/' + (Filename or 'generated_map.png')
@@ -80,13 +82,31 @@ def OLD_new_map(Filename=None):
     
     return filename, data_dict
 
+def get_bbox_custom(point, distance=1000):
+    dist = distance
+    u = utm.from_latlon(*point)
+    nw = (u[0]-dist/2,u[1]+dist/2,u[2],u[3])
+    se = (u[0]+dist/2,u[1]-dist/2,u[2],u[3])
+    llnw = utm.to_latlon(*nw)
+    llse = utm.to_latlon(*se)
+    cbbox = (llnw[0], llse[0], llnw[1], llse[1])
+    print('ccbox =', cbbox)
+    return cbbox
 
-def generate_new_map(filename, coordinates=None, distance=1200):
+def generate_new_map(filename, coordinates=None, dist=1200, use_bbox=True):
     # Specify the name that is used to seach for the data
     point = coordinates or (56.69142216428653, 14.605520381219193)#(57.05652920976395, 10.177341401778113)
-    dist = distance
+    
+
     # Fetch OSM street network from the location
-    graph = ox.graph_from_point(point, dist=dist, network_type='all')
+    if use_bbox:
+        bb = ox.utils_geo.bbox_from_point(point, dist)
+        print('bb:', bb)
+        bbox = get_bbox_custom(point, dist)
+        graph = ox.graph_from_bbox(*bb, network_type='all', retain_all=True, clean_periphery=False)
+    else:
+        graph = ox.graph_from_point(point, dist=dist, network_type='all')
+    
     # Plot the streets
     fig, ax = ox.plot_graph(graph, node_size=0, bgcolor='#e6d9ae')
     # Retrieve nodes and edges
@@ -194,7 +214,7 @@ def generate_map_and_cities(config):
     geo_items = generate_new_map(
         filename=config['save_file_dir']+'/world1/world1_map.png',
         coordinates=config['root_point'],
-        distance=config['dist']
+        dist=config['dist']
         )
     event_spots = discover_event_spots(geo_items)
     

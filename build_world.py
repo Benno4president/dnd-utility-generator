@@ -9,7 +9,7 @@ def new_world():
         'root_dir': ROOT_FOLDER_PATH,
         'save_file_dir': ROOT_FOLDER_PATH + '/static/world_folder',
         'root_point': (57.142050216802865, 10.225257399553259), 
-        'dist': 300
+        'dist': 1000
     }
 
     world = World(config)
