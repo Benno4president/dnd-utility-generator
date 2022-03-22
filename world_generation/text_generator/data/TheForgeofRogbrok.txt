@@ -1,0 +1,161 @@
+This is a small adventure for 1st-level characters, created entirely using the D&D Basic Rules. It should give a group of four 1st level characters enough experience points to advance to second level. By adding or removing a few monsters, it could probably be a good challenge for more or fewer characters.
+
+Should you need, you can use the pre-generated characters found here.
+Background
+
+At a local tavern, the adventurers run into an old, drunken dwarven miner, Skirvir, boasting about having located an old dwarven mine, he is sure belonged to the long lost Jarmhammar  clan. In fact, he is sure he has found the location of the lost halls of Gwandatholir itself.
+
+The old dwarf has not found the halls of Gwandatholir, but the mines he has found did once belong to a dwarf of the Jarnhammar clan; Rogbrok Jarnhammar - a bit of a renegade and outcast of the Jarnhammars. Rogbrok was thrown out of the clan, and wandered the lands for years, until he settled for a while in the Rust hills, where he built an iron mine and a forge, before he moved on to do great heroic deeds, now sung about in ballads.
+
+A few drinks, and a successful Charisma (persuasion) DC 12, will loosen Skirvir's tongue, and he will let slip the location of the mines. He can also be persuaded to show the players the location of the mine entrance, and even accompany them in (though he is mostly useless in a fight), but in such case he will demand his own cut of any treasures found.
+
+Rust Hill
+If the players choose to go to the mines, give them opportunity to stock up in town for anything they might need. Skirvir (if asked) will suggest various mining supplies, such as a good light source, pick axes, shovels, plenty of rope, a canary and a ten foot pole.
+
+Rust Hill lies about one half day's march away from the town where the players met Skirvir. Getting there should be fairly uneventful, though to spice things up, the DM could roll for a random encounter on the way if desired.
+
+Finding the entrance to the cave shouldn't be too difficult, depending on how much information they managed to get out of Skirvir the evening before. If he is with them, Skirvir will lead the players more or less directly to the mine entrance, otherwise have the players roll a Wisdom (Perception or Survival) or Intelligence (Nature) DC 13. On a failure, they end up spending a few more hours searching for the entrance before they find it (with the possibility of another random encounter).
+
+A small stone shed stood where the entrance to the mines used to be. The shed is now nothing but ruins, and just a faint trace of the foundations remain. The entrance itself is a gaping hole in the hillside leading down into the earth. 
+
+Suggested random encounters in the Rust Hills (roll 2d6):
+
+Roll       Creature (number appearing)
+   2            Ogre (1)
+   3            Worg (2)
+   4            Goblin (3)
+   5            Kobold (5)
+   6            Giant Weasels (4)
+   7            Wolf (2)
+   8            Blood Hawk (4)
+   9            Bandit (5)
+  10           Giant Wolf Spider (3)
+  11           Orc (2)
+  12           Giant Boar (1)
+
+Mines Description
+The mines have been abandoned for a long time, its resources having been spent. Recently however a small band of Kobolds have entered the mines, with the hope of finding some ore.
+
+Except when noted, there are no light sources inside. The ceiling is supported by old, but sturdy beams, and was solidly built, and there should generally not be any danger of collapse. Except for the forge (area 3 and 4) the walls and floor is roughly hewn, with pebbles and rocks strewn about. This does not create difficult terrain, except when noted.
+
+Since the mines were built for dwarves, the ceiling in the corridors is quite low (between 5 and 7 feet). Anyone fighting with large swung weapons here, does so with disadvantage. The chambers are more spacious though, and there are no penalties for using large weapon here.
+	
+1. Bear Cave
+The tunnel from the surface descends steeply into the first chamber of the mine, where a large Brown Bear has made its lair. Anyone searching can make a DC12 Wisdom (Perception) to notice large tracks around the entrance, and a DC13 Intelligence (Nature) will identify the tracks as bear tracks.
+
+The descent might look deceptively easy, but anyone going down without taking any precautions must make a DC12 Dexterity save, or slip and slide down to the bottom, taking 1d6-3 points of damage (where 0 or less means the character takes no damage). A character can choose to slide down voluntarily, taking only 1d4-3 damage. If a character takes any damage this way, he or she will fall prone at the bottom.
+
+Anyone can make a DC 5 Strength (Athletics) or Dexterity (Acrobatics) to climb down without any problems, and using a rope gives advantage to this check.
+
+The Brown Bear will however not be very happy with intruders to its lair, and will attack. Should the players find alternative ways of getting the bear out of its lair, without killing it (such as luring it away with food, or smoking it out with fire), award full XP (200) for the encounter. Just be aware that the bear might be bck in its lair by the time the players want to leave the mines.
+
+2. High vaulted cave
+The ceiling is very high in this chamber, nearly 20 feet, and the room is dimly lit by small cracks in the roof (unless it's night time, in which case the cracks are invisible). These cracks are used by four Stirges to gain access to the outside. Sensing blood, the Stirges will attack anyone entering the room.
+ 
+Almost in the center of the room, a rusty, but still sturdy iron rung ladder leads further down into the mines. A faint glow can be seen from below (from the Giant Fire Beetles that live there), and with a successful Wisdom (Perception) check DC 15, the characters can hear the faint sound of pickaxes on stone, from the Kobolds in area 8.
+
+3. Beetle Cavern.
+The ladder from area 2 leads down into this chamber. The strange light noticed from above emanates from five GiantFire Beetles that inhabit the room. Initially the beetles will not show any interest in the characters.
+
+The ceiling in this chamber is a full 30 feet high. Just as the first character climbing down the ladder is about two thirds way down, a hungry Giant Centipede will start climbing up the ladder from below to attack. The centipede will catch the climber by surprise, unless he succeeds a Wisdom (Perception) check DC 12.
+
+The character on the ladder can try to fight from the ladder, climb up or jump down.  Fighting from the ladder is difficult, giving the character disadvantage on attack rolls for the character. The centipede does not suffer this penalty. Climbing up might work, but with a climb speed of 30 ft. the Giant Centipede is likely to catch up with the character. Finally, jumping down the last 10 feet will cause normal falling damage (1d6 bludgeoning damage). In addition, if the character jumps down among the Giant Fire Beetles, they panic, and start attacking any intruders.
+
+If the characters mange to fight off the Giant Centipede on the ladder, or lure it with them back up to area 2 the Giant Fire Beetles will remain calm and placid even if the characters move through the room, as long as they do so carefully and quietly. Any loud noises or sudden large movements will cause a panic, making the beetles attack anyone in the room.
+
+As noted, each Giant Fire Beetle has two glowing glands, which will continue to emit light for 1d6 days after the beetle has been killed. This can be used a light source. In addition, if they manage to get any of the glands back to civilization before the lights go out, they can sell the glands to a local alchemist for 5gp each. 
+
+To the east a corridor slopes gently downward towards area 6,while on the opposite side of the room another corridor leads on to the entrance to Rogbrok's forge (area 4 and 5).
+
+4. Entrance to Forge
+The rough mine corridor abruptly ends in a sheer, smoothly hewn wall inscribed with dwarven runes. Investigation reveals that the wall shows signs of moving up and down, and a careful search (a Wisdom (Perception) DC 14 check) of the walls around, reveals a small lever carefully hidden in the wall.
+
+ Pulling the lever will cause the stone door to slide downward about an inch or two and then stop with a loud thud, while odd rumbles and grinding noises can be heard from the ground under the door for a few seconds afterwards.
+
+The mechanism opening the door has become jammed, the door won't open without the obstruction being removed. This can only be done by accessing the inner mechanism from area 10.
+
+Any character with Stonecunning (i.e. a dwarf) will realize the door is jammed, and that nothing will seemingly budge it. While it could be hacked trough with pickaxes, it seems to be massive, and such activity would probably take a very long time. Should the players choose to do so, the kobolds below will eventually come to investigate
+
+The players are free to examine and try what they want here, but to stop players from spending too much time without getting anywhere, the DM should feel free to hint that they should probably move on for now. 
+
+5. Forge
+This is Rogbrok's forge and workshop, where Rogbrok made some of his legendary items. Unfortunately for the characters, Rogbrok took most of these items with him when he left, to seek his fortune in the world. Some minor things still remain however.
+
+The room is fitted like a smithy, with a large fireplace with a large bellows, an anvil and racks of  tools, such as tongues, hammers and pokers. A large pile of coal is stacked in one corner of the room, and some weapons and pieces of armor can be seen within the room.
+
+Rogbrok did not leave his workshop unguarded however. In fact, upon entering, a full piece of plate mail will come alive as an Animated Armor, and the large hammer on the anvil by the forge will fly up as a Flying Hammer (a modified flying sword dealing bludgeoning damage), both trying to repel any intruders.
+
+Treasure
+The suit of armor that attacked the players is a dwarven sized half plate. While damaged in the battle it can be sold on, earning the player about 250 gold pieces. Alternatively the armor can be repaired and refitted to a dwarf. A character proficient with smith's tools who has access to a smithy (the characters should be standing in one) can spend two weeks and 75 gp to repair and adjust the armor. Alternatively, if taken to a smith, he will be able to do the same job for the player, but will charge 150 gp for the job (materials included in the price). Refitting the armor to a non-dwarf will not be possible.
+
+Additionally the room contains several finely crafted weapons (2 war hammers, 2 battle axes, 2 long swords and 2 short swords). While they are not magical in any way, their craftsmanship is so good that they can be sold on without any problem. In fact a dwarven smith or armorer will give full gp value for the weapons (100 gp).
+
+6. Upper Trolley room
+The band of Kobolds that currently inhabit the mines use this area as their main sleeping, feeding and living area. Currently four Kobolds are in the room, unloading ore from a trolley in the far corner of the room. Unless the characters have made a lot of noise in area 3 or 4, the kobolds probably won't expect intruders, though to surprise them, the party must still succeed a Dexterity (Stealth) check against their passive Perception of 8.
+
+Searching the room will reveal that there are probably more kobolds in the mines, evident by the number of sleeping spaces in the room. Exactly how many, will however be difficult to determine. Searching the room will reveal that the kobolds have had little luck in their mining, and only a few trinkets of value can be found.
+
+The trolley in the far corner is used to haul ore up from the level below. It runs on a rail along a slope down to the level below. A winch is used to pull the trolley up from the level below on a long metal chain, or to lower it back down. The winch is in remarkably good condition, despite the years of disuse.
+
+A lever next to the drum with the chain, can be switched to determine whether the trolley can be hoisted or lowered by the winch. Furthermore, a third setting, will release the chain, sending the trolley hurtling down the slope at full speed.
+
+Treasure
+Hidden among the bedrolls, sacks and gear are the kobolds accumulated treasure - a rather meager 23 cp, 10 sp, 15 ep and 9 gp. In addition the kobolds have small glass bottle with a potion of healing stashed away here.
+
+7. Lower Trolley room
+The trolley from area 6 will come to an end in this chamber. The kobolds gather anything they mine in this room and load it onto the trolley to be hauled up. Currently four Kobolds and two Giant Badgers are in this room waiting for the trolley to be lowered again. The giant badgers are the kobolds' pets, and will fight with them.
+
+The kobolds are expecting the trolley to be lowered normally into the room, and if doing so, a few characters can hide in the trolley to surprise the kobolds. The trolley can hold two medium sized characters (or four small sized characters). At least one character is needed to operate the winch to lower the trolley.
+
+If the trolley is just simply released while someone sits in it, it will roll down, then come to an abrupt stop, dealing 1d4 points of damage to anyone inside. This will also alert the denizens in the room that something is amiss, ruining any element of surprise.
+
+If the characters spend a lot of time in area 6 lowering or hoisting the trolley, the kobolds in the room will get suspicious, and they might try to launch their own ambush, either by hiding within this chamber, or even climbing into the trolley to attack the players as the trolley is pulled up again.
+
+Off to the south rhythmic hammering and tapping can be heard from a tunnel leading of that direction, while another tunnel leads north.
+
+8. Mines
+If the characters move down this corridor, the hammering noise becomes louder. As the corridor curves round, it opens up into a larger chamber, with several tunnels leading off in different directions. In the center of the room the players can see a Giant Lizard with two large baskets across its back. The lizard is used by the kobolds to carry off ore from the mines to the main chamber.
+
+Upon seeing the characters, the lizard will growl loudly, alerting the four Kobolds working in the tunnels, and then charge. The kobolds will arrive after one round, and attack from the various tunnels, preferring ranged attacks.
+
+Treasure
+In the bags across the Giant Lizard's back are five nuggets of semi precious metals, that can be sold on for 1 gp a piece, in addition to a large jasper stone, worth 25 gold pieces.
+
+The tunnels beyond are all dead ends, but if you want, and the players insist on exploring them, you can use the following table as the characters progress inwards and downwards:
+
+Tunnel encounters (roll 2d4):
+
+Roll       Feature/Creature (number appearing)
+   2            Ochre Jelly (1)
+   3            Ladder down (roll again for next level)
+   4            Kobolds (1d4+1)
+   5            Dead end
+   6            Giant Centipedes (1d4)
+   7            Valuable stones (worth 2d10 gp in total)
+   8            Cave in (2d6 points of damage from falling rocks, Dex save DC14 for half)
+
+9. Barred Corridor
+This corridor continues only a short way until it stops, having been boarded up. The area proved unsafe, with the roof collapsing, so the dwarves chose to close off the corridor. After the barrier was raised, even more earth and rock has come loose,held back by the barricade.
+
+Anyone carefully inspecting the barrier will, with a DC 10 Wisdom (Perception) check, realizes that it is bulging out at the center, possibly suggesting that some force is pushing on it from the other side. The characters can pry open the barricade using pry bars or similar tools, or hack it open with axes, picks or hammers. Weakening the barrier will however cause the earth and rocks that have piled up on the other side, to come tumbling out in an avalanche. Any character  within 10 feet of the blockade must make a DC13 Dexterity save or take 5 (2d4) points of bludgeoning damage, or half if successful. Characters right next to the barrier will also be partially buried in earth and rocks, effectively being restrained until they use an action to free themselves. Characters more than 5 feet away from the blockade have advantage on their saving throw, and take no damage if successful.
+
+Along with all the earth and rocks, the skeletal remains of two dwarven miners trapped in a rock fall, will come tumbling out, interspersed among the rocks. These will assemble as two Skeletons that will attack anything living on the other side.
+
+10. Access to opening mechanism to forge room.
+Beyond the barricade there doesn't seem to be much of use for the characters. The further corridor beyond has collapsed completely, and without some serious mining, probably taking weeks or months, any further progress is impossible.
+
+However, carefully searching the bit of corridor that was cleared when the characters removed the barrier, a DC 15 Wisdom (Perception) will reveal a square hatch in the ceiling, just big enough for one person to climb into. After ascending about 20 feet, the tunnel opens up into a fairly narrow space, about two feet wide, but six feet long, extending another 10 feet up. This is the mechanism to the door leading into Rogbrok's forge (area 4) that jammed. The characters can make out weighted pulleys on wires, various stone wheels and such that makes the door open. Apparently loose rocks and rubble has jammed the mechanism, stopping the door from opening properly.
+
+Allow the characters the appropriate Intelligence or Wisdom checks, to realize that while they can probably remove the obstructions easily, this will cause the massive stone door, directly above to descend straight onto them. There is no absolute solution to this, but reward players who come up with clever ways of removing the obstructions without getting caught under the door as it opens. (Solutions might include using spells such as Mage Hand while still in the tunnel under the door, or pulling obstructing rocks out using ropes from a safe distance).
+
+Should a character be inside the chamber once the door comes down, he or she must succeed a DC 14 Dexterity save or take 17 (5d6) points of damage, or half on a successful save.
+
+Once the mechanism has been cleared, and the door has opened, the characters can make their way back up again to enter the forge (area 5). 
+
+Concluding the adventure.
+
+While the characters may not leave the mines with quite as many riches, or as many legendary artifacts as they may have wished for, the items left in Rogbrok's forge will still be worth a bit. 
+
+Furthermore, the DM is free to plant hints to further adventures within, such as clues to other, richer mines, monster lairs or clues to where the legendary dwarven hero Rogbrok went after he abandoned his workshop.
+
+In addition, once the mines are cleared, they characters could adopt the forge as a base or safe house. If they do so, they might get a surprise from its former owner. Rogbrok may have been gone for a hundred years, or more, but being a dwarf that only puts him in his middle years, so the legendary hero could still be around...

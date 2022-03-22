@@ -1,0 +1,59 @@
+The party has been placed ashore by Black Lily. Out of a sense of loyalty for saving her and her crew she has not robbed them, but she has stranded them far from civilization. It will take the party several days to reach a nearby town and book passage back to Harken. The ocean voyage is uneventful, for once, and upon arrival they will attempt to seek out the mage Charilus for further information.
+
+However less than a hundred yards away from the docks they will be stopped and accosted. A group of 4 rough looking men will step into the players path and demand all their valuables. Alert players will notice several more men (5) attempting to move in behind them. This group is not particularity interested in talking since they have been hired by Baron Ganth to rob the players. They will resort to violence with little provocation.
+
+8 robbers, male human Ftr4
+
+CR 4; Size M; HD 4d10+8; hp 28; Init +0; Spd 30 ft.; AC 15; Attack +7 melee, or +4 ranged; (long sword 1d8+4, dagger 1d4+2) SV Fort +7, Ref +1, Will +1; AL NE; Str 15, Dex 11, Con 14, Int 10, Wis 11, Cha 10.
+
+Skills and Feats: Intuit direction +1, Spot 0, Swim +7; Improved initiative, 2 Weapon, Ambidex, Weapon Spec (long sword), Weapon Focus (long sword).
+
+EQ: chainmail, longsword, dagger.
+
+Mussa, male human Ftr6
+
+CR 6; Size M (5 ft., 3 in. tall); HD 6d10+12; hp 53; Init +4 (+4 Improved initiative); Spd 30 ft.; AC 16; Attack +8/+3 melee, or +6/+1 ranged (greatsword 2d6+2); SV Fort +9, Ref +2, Will +1; AL NE; Str 14, Dex 11, Con 15, Int 15, Wis 8, Cha 14.
+
+Skills and feats: Handle animal +8, Hide +0, Intimidate +5, Knowledge (nature) +3, Listen +5, Move silently +0, Pick pocket +1, Ride +8, Spellcraft +6, Spot +1, Swim +5, Use rope +4; Alertness, Blind-fight, Cleave, Endurance, Great fortitude, Improved initiative, Power attack, Weapon focus (greatsword).
+
+EQ: banded mail, greatsword
+
+Note: tattoo of black griffon on right forearm (meaningless), pouch with 50 pp.
+
+If their leader goes down or if half are beaten the rest will flee, scattering and running down alleys and such.
+
+After this incident the players make it to the wizard's house unmolested.
+
+The old mage has not softened in their absence, indeed he complains that their journey should have been completed weeks ago! After he tires of complaining he asks to hear their tales of adventure, sarcastically, and to see the masks that they have collected. Charilus will eagerly study the masks and wants to keep the players nearby, perhaps cooking his dinner, so that he can question them.
+
+Describe to the players Charilus frenzied activities-searching old texts, and casting spells on the different masks. He also takes time to find some chores for the players to do while waiting around. Charilus also grudgingly shares some information during the evening meal. It seems the mercenary band who fought the players before, Shar's Marauders, has some rich backers. The Shar has been recruiting laborers, guards, cooks, and various help for some kind of expedition. "Evidently it will involve a lot of digging" Charilus states. They have been recruiting from Laribus, Harken, and several of the large nearby villages.
+
+Charilus is feeling smug however, he has located the exact location of another mask! Indeed he hands the players a hand made map. With even a short glance they can tell that the location on the map- a tomb of some sort is a loooooong way off. Charilus then tells the party the mask is in a tomb belonging to a long dead wizard of the Teng race. He believes the Teng were involved in the creation of the masks and more information on their creation might be found there.
+
+Charilus is feeling quite pleased with himself, and is only mildly annoying and condescending to the players. He also states he has Omar spying on the mercenaries, to discover the location of their dig site.
+
+After dinner, after insisting the players clean up, he will return to examining and testing the mask's powers.
+
+Eventually one of the players will notice a greenish glow near the front of the house. Checking on this reveals a shapeless glow that seems to be forming in the front room. Almost no spells or weapons will harm it. 90% magic resistance (SR 30) and +3 or better weapons to harm (DR 25/+3). This is a partial from of the Arch-magi Xoth, he is attempting to reform a solid body with his dormant powers spread out through the collected masks. The fact that so many of the masks are here together, and Charilus is attempting to manipulate their powers is giving Xoth slight access to this plane of existence.
+
+Fortunately he will be unable to from a physical body but he will come fairly close and will attempt to seize the masks. The glowing form will eventually coalesce into a man sized blob, it then moves toward the location of the nearest mask. It is not solid enough to be blocked by the players. If they do attempt to stop it, Xoth will give a small demonstration of his power. The figure will make a waving gesture (mass telekinesis) and all party members in the room must make a save (DC 25) (2E versus spells) or be tossed through the air as if from a strength score of 20. This will result in 2d6 points of damage to all that were thrown. It will stand about confidently as the party and Charilus attempt to cast spells upon it or strike it with weapons.
+
+Eventually Charilus or a party member must suggest a retreat since Xoth is nearly impossible to hurt in this form. As they flee into the night Xoth will follow, when they reach the street he will summon up 2 gibbering mouthers 3E MM 104. These nightmarish creatures come from a wholly unknown plane of existence so the players will be totally unfamiliar with them. The gibbering mouthers will attack the party immediately, fighting until slain then dissolving into greasy black smoke.
+
+Xoth will gesture impatiently for the masks. Charilus will make a hasty decision and tell the party to "Take the masks and run! Run as fast as possible and find that tomb!" He will then take his staff of power out and prepare to break it in a retributive strike. Even Xoth will be shocked at this action and attempt to flee. The last sight the players will have is a powerful magical explosion that devours both Charilus and the glowing figure.
+
+Note: Neither was actually destroyed here- Xoth was merely forced back off this plane and Charilus has a contingency spell to save his life but he will choose to "play dead" for a while.
+
+The players have just witnessed the seeming death of Charilus and an unknown glowing figure who came for the masks. The players should be somewhat at a loss at this moment.
+
+The glowing figure is gone but no clues remain as to what or who it was. They are left with a map to the tomb of a Teng wizard, and should probably leave since the noise the explosion created will bring the city watch, who may not believe their explanations.
+
+Regardless of what actions they immediately take, the party should eventually decide to leave for the tomb. The map shows that they have a long journey, at least 2 months, over the Goblin's Hold Mountains to the east.
+
+Note:If the players ask about the name tell them that the area is infamous for the huge number of goblin tribes that live in the mountains.
+
+Buying enough provisions and warm clothes for the trip will be no problem. The price for any shovels or tents will be 50% higher since the mercenary expedition has bought up a great number of them already.
+
+Before they leave town one last incident will occur. At the city gates the guard will stop the players and insist on searching them and their packs. The guards will not tell them why initially but if the players cooperate then it will be revealed that they have received a tip of some sort that the players were thieves who had stolen a valuable statuette (looks like a silver elephant). The players will be somewhat confused and rightly so.
+
+The guards have been misled and a search will turn up no elephant statuette. The guards will apologize and let the players go on their way. However one of the guards is in the service of the thief Blackthorn. He will put a small broach made of ivory (10 gp. value) in the pack of one of the players. This is an amulet of inescapable location. Blackthorn will use this item to keep track of the players location. If they discover the amulet they may keep it since it radiates magic. If they try to get rid of it however they will discover the item is cursed to return daily unless a remove curse is placed upon it.

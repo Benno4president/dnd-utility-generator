@@ -35,7 +35,8 @@ Some kind of text generator - back story, whatever?
 - https://github.com/nl253/Computational-Creativity
 - https://github.com/jcolag/AutoStory - ruby
 
-
+campaign/more?
+- https://github.com/EthanChappel/DnD-Campaign-Generator/blob/master/dnd-campaign-generator.ipynb
 
 
 

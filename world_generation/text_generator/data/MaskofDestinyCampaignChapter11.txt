@@ -1,0 +1,122 @@
+With the Teng tomb revealing no information as to other masks or even their creation, the demise of Charilus, and no clue where to go next the party finds themselves in a bind. The only lead they have is that Omar has gone in search of a dig site that is being managed by Shar. Fortunately for them this will suffice. Most likely the PCs will be wise enough to assume Omar will return to Harken, if they forget you might help by reminding them of their friend and his last mission. Either way they will have to stop at Jewel to gain supplies for the trip back.
+
+During the time the PCs were away Omar has scouted the dig site and returned to Harken. With some investigation Omar has surmised that something bad has happened to Charilus and the PCs. With a bit of money and a favor from a priest friend he discovers the party's location through magic quite easily, remember the ivory broach. This all happens after the party has decided where to go from their expedition to the Teng tomb.
+
+Depending where the PCs travel, back to Harken or a stop at Jewel, Omar will meet them there. If they go back to Harken bypassing Jewel they will have to hunt and gather food. Probably being exhausted and hungry when they arrive at Harken from such a long journey. Their trip back from the tomb will be uneventful, except for the drow ambush, but now that the PCs have half of the masks its power is growing. Each mask that can influence its owner will now do so even more. Usually this will be minor things that do not drastically alter a situation but can draw it in a different direction. This only affects the PC while they are wearing them, there is no saving throw.
+
+Examples:
+Mask of Abjuration: user will become more suspicious and cautious of encounters with strangers.
+Mask of Invocation: user will be more hostile toward others.
+Mask of Necromancy: user will be indifferent with the happenings or deaths of others, including innocents.
+
+See fit as to how each situation applies to the masks the PCs have discovered. Eventually they will be a hindrance as they only serve to bring back Xoth.
+
+After meeting up with Omar either at Jewel or at Harken Omar will try to persuade the party take some time, sit, eat, and have a drink at the inn so that they may gather their information together. He will express his sadness in Charilus's loss and that he is relieved the party is alive. Omar knows of Charilus's true demise but will not reveal this to the party. If asked how Omar found the party he will simply say "a few divinations spells, it was quite easy actually" and leave it at that.
+
+Omar will inform the party of his findings about the dig at this time. "Using the Mask of Divination, Shar and her group, have discovered the location of the Mask of Illusion" Omar will explain. "They have many hired hands digging up the earth in search of the mask. I am not sure what or who they expect to find. They also have patrols around the area to keep intruders out. Charilus feared that with the mask of divination they might be able to recover the remaining masks, apparently is seems true." Omar will then reveal a map he has made while scouting the area. It is 5 days travel by horse south of Harken in the Moaning Forest. Omar explains that the forest is know for the type of trees that grow there. A certain tree that grows in the forest has various cavities that create low sounds when the wind passes through them, thus giving the forest its name. On a windy night the forest can give even the most fearless of warriors the chills. Not to many people venture into their due to superstition that more occurs there than seems.
+
+Omar will suggest that perhaps the party should get a good night rest and leave in the morning. Although if the party wants to leave now he will not argue. If the party is a Jewel they will have to travel back to Harken to gain enough horses for the trip. Omar expresses that he does not know how long it will take Shar to get the next mask, if it is there, but that she has been at the dig site about a week.
+
+From the time Blackthorn has placed his gift within the PCs possession he has been tracking them with magic. If the PCs have yet to rid themselves of the ivory broach and have decided to stay the night in Jewel then Blackthorn will attempt to obtain the masks the PCs have. If the PCs have discovered a way to remove the cursed broach or have traveled straight to Harken then Blackthorn will be tracking them from that point on by foot in an attempt to either ambush or steal the masks.
+
+Blackthorn's Steal and Run: The thugs will come into The Jeweled Goblet after the PCs are asleep. 2 will stay downstairs grab the registry and discover which rooms the PCs are staying in. After the initial shock to the innkeeper and the commoners, who protests, one of the men will threaten the innkeeper to keep quiet and the commotion quickly stops. The other 8 will go upstairs and secure the doors to all the PCs room by holding them shut. The remainder will select each PC that has a mask, one at a time, for a quick rush and grab of the mask. They will attempt to hold and pummel the PC into unconsciousness if that PC wakes up. If threatened with weapons or spells they will defend themselves. The idea is to hold the doors closed and assault each PC alone in order to gain the masks. If the PCs are all in one room or paired up the men will take down the weakest of the group or single lodged PCs 1st using one man per person to hold the other PCs doors closed. If the PCs are all in one room then a mass rush will occur as some men hold off the PCs while others go for their masks.
+
+Regardless of the encounter if at any time Blackthorn's life is threatened he will flee with or without the masks. If the PCs manage to defeat all the men and not lose any masks they will find a note daggered to the inn's door stating the following "I will not underestimate you again, turn over the masks and no one's life will be further threatened" signed Blackthorn.
+
+Hired Thugs, 10 humans FTR3
+male human Ftr3: CR 3; Size M (5 ft., 8 in. tall); HD 3d10+3; hp 28; Init +2 (+2 Dex); Spd 30 ft.; AC 12 (+2 Dex); Attack +7 melee, or +5 ranged; SV Fort +4, Ref +3, Will -1; AL N; Str 17, Dex 14, Con 13, Int 10, Wis 7, Cha 11.
+Languages Spoken: Common
+
+Skills and feats: Climb +5, Gather information +2, Hide +2, Listen +2, Move silently +2, Ride +4, Search +1, Spot +1, Exotic weapon proficiency (crossbow, repeating), Mounted combat, Point blank shot, Power attack, Weapon Focus (longsword).
+
+EQ: longsword, chainmail, dagger, buckler, 5 gp.
+
+After the party gets rested and resupplied the will set out for the dig site. Omar will lead them there and offer to hold camp while they explore the dig site. Along the travels to the dig site and through The Moaning Forest Omar will further advise on the setup of the dig site camp, soldiers, workers and the patrols to better prepare the party for any encounters.
+
+Passing through the forest will be not be a problem for the PCs but as the name implies the forest generates many disturbing and unusual sounds. Every night the winds may change (d6: 1-2 not windy, 3-4 moderately windy, 5-6 very windy). On moderately windy nights or very windy nights the trees will resonate a low sound with each breeze that passed through their trunks, or moan as the forest implies. If the party starts a fire it has a 3 in 6 chance of attracting curious forest animals. They will not attack but should be used to put a bit of fear on the party as the animals will watch from a safe distance moving around stepping on branches or dry leaves. If the party members go to sleep one of the animals will try to steal food from the camp, MM 193 3E. Party members can detect the approach of the animals by making a listen check (Non windy nights, DC 10, windy nights, DC 15, very windy nights DC 20). It should take about 5 days to traverse the shady forest to the dig site.
+
+On the 3rd night after a long day the party members will encounter a very beautiful grove clearing in the middle of the forest that they may camp at. It is a heavily wooded area that is not noticable unless you approach it from the entrance. Each PC only needs to make a spot check of DC 5 to notice the entrance. Once found by a PC Omar will exclaim "I must have not noticed this grove before when I passed here, it looks like a good spot to camp" He will walk around it some at state how well hidden it is from the rest of the forest. Inside the trees and branches cover 90% of the sky. There are fruit plants and a small clear pond with some small fish (11' x 8') fed from a nearby stream. The ground is made of soft grass and very comfortable to lie in. A druid would find this place very comforting. Any druid or ranger will be able to tell that the water is clean and the fruits are edible.
+
+The reason why this place is such a paradise is that the trees above are in habited by an intelligent huge Assassin Vine (see below) MM 20 3E. The vine was placed here by an evil druid name Norex of the Black Ivy many decades ago. Norex found the Moaning Forest the perfect place to hide from the world of others. Any intrusion by outsiders into the forest would dealt with by Norex, permanently. Over years of staying in the forest Norex developed a spell to alter the nature of the moaning trees that inhabited the forest. He used this spell to alter the tree's trunk cavity so it would moan louder and keep others out. He also planted more and more of the altered trees to increase the forest's reputation.
+
+Norex made the mistake of killing the son of a noble that was in the forest with his friends. They were doing what boys do, hanging from the trees, playing, laughing, breaking branches for pretend sword fights. Some of the kids got away and told the lord of the land what had happened. The next day a group of nobles (warriers and wizards) searched the forest for the one responsible. They fought Norex over 4 days within the forest before eventually discovering his grove. Here Norex made his final stand and lost. His body slain, Norex's spirit went into the assassin vine in the grove.
+
+The nobles believeing that with the druid dead that all was safe slept in the grove that night. Needless to say they never woke up. Each noble strangled by the assassin vine as they slept. Killed by Norex, ever imprisoned in the assassin vine but aware of all around him.
+
+The assassin vine will only attack when the party goes to sleep. It will strike those on watch first trying to strangle them so they won't scream. Sleeping pary members must make a listen check of DC 20 to wake up from the noise. If the strangled person manages to make some sort of loud noise while held the players may add a +6 circumstance modifier to their roll each round to wake up. If the assassin vine is killed the spirit of Norex will appear for 1 minute floating over the party enraged and twisted. Being part of the plant has made him mad over the years and only fueled his hatred for others. After a minute he will disappear. He does not attack nor can he be destroyed.
+
+If the party digs deep enough (8 feet) in the grove grass they will find remains of animals and of the party of nobles. A jewel encrusted silver longsword will be found bearing the crest of the noble house that rules the land. If this is returned to the proper lords the PCs will be rewarded 1000 gp.
+
+Huge Intelligent Assassin Vine
+Size: H (30' wide); HD 15d8 + 30; hp 105; Init +0; Spd 0 ft; AC 17 (+6 natural, +3 for natural overgrowth of area, -2 size); Attack 4 vines Slam +9 each; Damage: 1d6 + 7; Face/Reach 10', 40' with vines; SA Entangle, improved grab, multiattack, constrict 1d6+7; SQ camouflage, elec. imunity, cold and fire resistance 20, blindsight; SV Fort +12, Ref +0, Will +10; AL Nl Str 20, Dex 10, Con 16, Int 12, Wis 18, Cha 9.
+
+Leaving the Moaning Forest the PCs will easily find the area of the dig site with Omar's help. Before the party gets to the open area of the dig site they might encounter a patrol. Shar has put four 8 man patrols to walk the perimeter of the dig site to discourage intruders from observing what her group is doing. The patrols are instructed to observe those that stumble near the area and only bully them off if needed, in other words if they get too close. The patrol is also instructed to alert the rest of the camp if the intruders know of the dig or if the intruders are the party. Shar has told the patrols to specifically be looking for the PCs.
+
+The party has a 50% chance of encountering a patrol during the day and 25% chance during the night, conduct surprise normally. If the patrol spots the party the leader of the patrol will blow a small horn that will alert the camp that the intruders are armed and aware of the site. On the 4th round of combat 2 other patrols will join the combat. On the 5th round the last patrol will join the combat. If the patrol has half of their members disabled or killed and it seems as if they are losing the combat they will turn and run. If a patrol is eliminated before the other patrols arrive the the party has the standard chance of encountering each patrol as above. If the party hides this chance can be reduced at the DM's discretion.
+
+Patrol, 7 humans FTR2, 1 human FTR5 (4 patrols)
+Leader, male human Ftr5: CR 5; Size M (5 ft., 9 in. tall); HD 5d10+5; hp 34; Init +4 (+4 Improved initiative); Spd 30 ft.; AC 10; Attack +9 melee, or +6 ranged; SV Fort +5, Ref +1, Will +1; AL N; Str 17, Dex 11, Con 12, Int 13, Wis 11, Cha 10.
+
+Languages Spoken: Common, Elven.
+
+Skills and feats: Gather information +2, Handle animal +6, Hide +2, Innuendo +1, Intimidate +6, Jump +7, Listen +0, Move silently +0, Spot +0, Wilderness Lore +3; Expertise, Improved initiative, Improved unarmed strike, Power attack, Weapon focus (longsword), Weapon focus (longbow).
+
+EQ: small horn, longsword, chainmail, dagger, buckler, longbow, 20 arrows 5 gp.
+
+male human Ftr2: CR 2; Size M (5 ft., 8 in. tall); HD 2d10+3; hp 23; Init +1 (+1 Dex); Spd 30 ft.; AC 16 (+1 Dex, +5 armor); Attack +5 melee, or +3 ranged; SV Fort +3, Ref +1, Will +0; AL N; Str 14, Dex 13, Con 13, Int 10, Wis 10, Cha 11.
+
+Languages Spoken: Common
+
+Skills and feats: Climb +5, Gather information +2, Hide +2, Listen +2, Move silently +2, Ride +4, Search +1, Spot +1, Exotic weapon proficiency (crossbow, repeating), Mounted combat, Point blank shot, Power attack, Weapon Focus (longsword).
+
+EQ: longsword, chainmail, dagger, buckler, 5 gp.
+
+No matter the outcome of the patrols the PCs will either investigate the dig site, try to attack the camp, sneak into the dig site, or negotiate with Shar. If she is alerted to their presence by a patrol she will try to capture them by force in the daylight using as many men from the camp as possible and her mercenaries. The idea is to capture the PCs. If the encounter is at night she will lay a trap to capture the PCs as they sneak in. Remember that if Shar is aware the PCs are in the area she will know of whatever they do, remember she does have the mask of divination. Unless the PCs took measures to block this allow her to surprise them in the ambush.
+
+Once captured she will take the masks from the PCs and hold Elan and Omar hostage in a different part of the camp, tent #3. They will both be tied and gagged. Feeling as if she has gotten what she wanted from the PCs she will freely discuss any matter with them, except who she works for. She will explain that the mask of divination has started to reveal the location of the mask of evocation in the last few days. "The divination mask seemed to tell me this information on its own, I did not purposely activate the mask for information. I was wondering the whereabouts of the fire mask though when it happened. From what the dinination mask told apparently the fire mask is not too far from here strangely enough. That's a proper term for it, right?" she will ask a PC wizard, "fire come from evocation magic? Fire mask?" She will continue, "Apparently it is a red demon face, how appropriate."
+
+She will explain to the PCs that they found a dungeon within the dig site and that the PCs are to go down there and retrieve the mask of illusion. If the PCs protest she will explain that they are more experienced than the 2 men already lost to traps within the place. She is aware that she needs her men to watch the PCs and keep order. She also knows that the party is expendable. If need be she will threaten to kill Elan and Omar if the party does not do what she wants, and she will do it too.
+
+If by chance the PCs defeat Shar the rest of the dig site workers and mercenaries will leave seeing as their employer can't pay them anymore. The PCs will have the dig site and the divination mask all to their own.
+
+In the camp there are 6 other patrol leaders and 48 armed men as above. There are also 20 hired dig site workers. The workers will flee from combat or surrender if confronted not wishing to die or fight.
+
+1. Main Tent: Shar and her marauders sleep in her. She has 1/3 of the tent sectioned off for her. Grug, Marne, Reavis, and Proth sleep in the rest of the tent. Shar keeps her belongings in a chest that is is trapped with poison gas (Fort DC: 20, no save: paralyzed, save: violent coughing that alerts others) The trap is DC 35 itself to disarm. The others have chests of their own that only they have the key. Proth is a new member to the group Shar picked up along the way here to replace her former priest.
+
+2. Phantasm's Quarters: Phantasm requested his own quarters and Shar obliged him. Even though he is part of her group she still finds him eerie to be around at times. The tent is adorned with various curtains of different scintillating colors: blue, red, yellow, and green. Each of these are designed to play small illusions on those that peer through them or try to walk around them. Different figures seem to move and shift when entering the tent amidst the shadows of the candlelight and curtains. Phantasm does this to scare away the unwanted or mislead any who would want to harm him. There are 5 different areas in the tent itself. PCs trying to work their way through the tent must save or be confused inside the curtains (Will DC: 25) and only have a 1 in 5 chance of finding the correct curtain that Phantasm is behind. If they succeed the save they can find Phantasm's where abouts within 2 rounds.
+
+3. Supply Tent and Prison: This is normally a supply room but is also where Elan and Omar will be imprisoned if the party is captured. Phantasm will sprinkle a non-detection dust (as spell) in the tent so the PCs will not be able to find them. Both NPCs will be behind a series of crates and barrels to hide them from peering eyes.
+
+The dungeons that the PCs will enter is under the control of the Mask of Illusion. This mask while powerful has an intelligence of its own. Only those worthy of understanding its capabilities may use it. One must defeat the mask before possessing it.
+
+The map only shows the cave that the mask resides in. It is part of a remote collapsed underdark area. A hidden tunnel leads down deeper into the underdark and you may wish to use this as a side adventure. The dungeon itself is an illusion that the mask is creating so it will not be found. As the DM you should create the dungeon as you go insetting traps and creatures to engage and challenge the PCs. Be sure that the dungeon you create fits the open area of the cave.
+
+The idea behind this that eventually the PCs will realize that the whole dungeon is an illusion. As the DM clues should be given to the PCs of this fact. One already has been provided for them being that the mask they are pursuing is the one with the illusionary powers. In the end the someone will see the reality of the dungeon and assist the others in disbelieving the illusion.
+
+Clues to give to players:
+1. Placing monsters in the dungeon that would not normally belong together, orcs being lead by a dragon for example.
+2. When throwing a group of creatures at the PCs have them all look identical in armor, weapons, clothes, or even appearance.
+3. Things such as no footprints in an old dusty corridor that the PCs know is frequented by monsters.
+4. Halls and room changing directions or shapes.
+5. Subtle things that you would find in a dungeon that you do not find here. A waste area, no ventilation system for air, or no foul stench.
+6. Creatures mysteriously appearing behind the party for no reason.
+7. Traps that seem to know their every move.
+8. Things in place for no reason. For example a chest in the middle of an empty room.
+9. Endless monsters and no lair for them.
+10. If a player dies they will have no wounds or injuries. They died from the illusions affecting their mind. This also applies to the two corpses that will be found that were Shar's men.
+
+Using the only these type of traps below will perhaps assist in having the PCs realize that the whole dungeon does not exist.
+
+Use these traps for the illusions:
+1. poison needle (Fort DC 17 or die)
+2. gas trap (Fort DC 17, or be paralyzed)
+3. pitfall (Fort DC 17, 20' deep spiked 5d6 damage)
+4. spear trap (Fort DC 17, 2d8 damage)
+5. fireball trap (Fort DC 17, 6d6 fireball)
+6. lightning bolt trap (Fort DC 17, 6d6 lightning bolt)
+
+1. The Entrance: This is the entrance to the cave. It will look like a dungeon entrance to the PCs with 2 simple huge closed stone doors (illusions). They are trapped with a lightning bolt trap as above.
+
+2. The Cave: This is where the illusionary dungeon will try to kill the PCs.
+
+3. The Mask of Illusion and Company: The only part of the dungeon that is real is where the mask is. It is the lair of a male and female basilisk (HP: 50, 52) MM 23 3E. A long time ago when this cave was open to the outside a small earth tremor occurred, removing the outside opening and collapsing part of a natural wall revealing the underdark. The basilisks lost their connection to the outside only to find new food in the underdark. Two drow scouts investigating the recent tremor and unaware of the new inhabitants stumbled on to the creatures. One was petrified instantly. The other drow in an effort to get away stumbled over the stone figure of his friend. Both fell to the ground with the 2nd drow's fleshy body softening the fall of the stone statue. The crushed drow had the mask of illusion in his possession at the time and was killed instantly before he could be made food for the great lizards.

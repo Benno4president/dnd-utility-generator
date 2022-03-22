@@ -1,0 +1,263 @@
+Part 3: Night of the Dead
+
+This chapter begins shortly after the adventurers find the Strionic Resonator in the previous chapter. If the players do not have any intention of locating the artifact, or they still have other intended goals in town, you may choose to start this chapter after the players have had sufficient time to rest, explore Shadowgrange, and restock on supplies.
+
+
+Undead Menace:
+Events are unfolding beyond the scope of the characters' activities: an army of undead are currently on a murderous rampage, laying waste to all the settlements in their way. Shadowgrange is their ultimate target.
+
+
+The Horde's Purpose:
+The army is a mad project crafted by Siegfried, an alchemist that formerly called Shadowgrange his beloved home. Siegfried had devoted his life to defending the village from the horrors that stalk Stensia; most of all, the vampires that kidnapped his neighbours for leisurely meals. Together with his like-minded fiancée, Katarina Brunn, they tried to rally the people to fight back and strengthen their defenses. But with Avacyn's disappearance and the protective wards surrounding the village failing, Siegfried became more and more desperate for answers to save his people.
+Three years ago, Siegfried finally acquiesced to his cousin, Geralf's, suggestion: he began to study necroalchemy, the foul art of bestowing life into stitched together corpses to create unholy abominations called skaabs. The alchemist perfected his craft in secret underneath his shop, waiting for the day that he could drive back the vampire threat with his stitched army.
+When the Voldaren vampires came, murdered the mayor Ralph and kidnapped Katarina, something inside Siegfried snapped. He vowed revenge not only upon the accursed vampires that killed his beloved, but also the cowardly villagers that stood idly as it all happened. The alchemist fled from his home and traveled north to the abandoned Mauer Estate, where he's been working tirelessly to make his dreams of vengeance a reality.
+To defeat his hated vampire foes, Siegfried needs bodies. Lots of them. To this end, the alchemist has teamed up with a young necromancer named Rinelda Smitt. Together, they've raised a zombie horde to ravage the countryside. Rinelda leads the horde, destroying all settlements in her way and sending the corpses of her victims back to Mauer Estate, where Siegfried uses them to construct abominations to challenge the Voldaren vampires. In his twisted mind, the alchemist believes this a fitting end for his fellow countrymen, as their cowardly betrayal in life will be redeemed when they serve him in death.
+
+
+Refugees:
+Word quickly spreads in Shadowgrange that a large group of refugees have arrived from a neighbouring settlement. A group of cathars meets them at the village gate and escorts them to the marketplace, where priests from the chapel (including Flora) arrive to help treat the wounded. Cathars and curious villagers alike crowd around the refugees to find out what happened.
+The refugees hail from Mordov, a settlement one day north of Shadowgrange. Yesterday, Mordov was attacked by an army of walking dead - these twenty-six refugees are the only ones that managed to escape. The refugees distanced themselves from the zombie horde with their three carriages and horses.
+If the characters interview the survivors and voice any of the following statements or questions, the refugees respond as indicated:
+
+What happened? A fog rolled in from the farbog north of Mordov. It was thicker than usual and carried a stiff chill. Many in town knew it to be a bad omen. They were right. Next we heard the screams. The restless dead were upon us. The shambling remains of folk like you and me attacked the living, biting, tearing... Avacyn protect us!
+
+How'd you escape? Us few that survived were the lucky ones standing near the stables when the undead attacked. We took any horses still there, along with the carriages, and rounded up as many folk as we could. Then we made a blind ride out into the fog. Many of us didn't make it...
+
+What attacked your village? The walking dead. Corpses that should be in the ground, peaceful in the Blessed Sleep. They shambled towards us with pitiless eyes. All they wanted to do was tear us apart. Cared for nothing else. How many are there? It was impossible to tell when the attack happened. One moment a fog rolled in, the next they were everywhere. But we saw them again across the valley as we fled. Hundreds of them, definitely.
+
+Where did they come from? When we saw them, they already were all around us. But all the walking dead had dried mud up to their waists. You get muddy like that from walking through the farbog (swamp) north of Mordov, so I reckon that's where they came from.
+
+Was it just zombies? No. It was mostly undead villagers, but I caught a glimpse of two hulking monstrosities lumbering about. They were twice my height and had the strength of ten men - in fact, judging by the number of arms sticking out of the creatures, they very well could've been made of ten men! The abominations were smashing down doors and swatting away cathars like flies. But the worst thing I saw was a human walking amongst these brutes. A teenaged girl chanting and waving a symbol around - I don't know what it was. She was laughing and prancing around as we were being slaughtered left and right. Laughing! It must've been one of those vile necromancers that command the dead. How could something so young be so wicked?
+
+Did you see Siegfried? A man by that name came through our village a few months ago. He was in a foul mood and avoided small talk. He rested, stocked up on supplies, and then headed into the farbog to the north, despite us telling him it was a suicidie mission. Never heard anything of him since then.
+
+Developments
+The refugees have more dire news for the crowd around them: as they fled, the survivors saw brief glimpses of the horde beginning to move south, in the direction of Shadowgrange. At the rate they were moving, they'd reach this village in two days.
+Panic ensues when this information is revealed. Stensians are stoic folk and dealing with horrors is a grim fact of life, but an entire horde of undead bent on their annihilation isn't something they've ever had to face before. The cathars do their best to maintain order amongst the crowd.
+Once she hears about the impending attack, priestess Flora seeks out the adventurers. A meeting of the village leaders is to be called immediately and she asks for the characters to join them.
+
+
+Ill Tidings:
+With rumors of an undead horde approaching, the leaders of Shadowgrange call a council meeting to determine what should be done. As the most capable adventurers in town, the PCs are invited.
+Priestess Flora summons the adventurers to thw town hall at the Visgaud Grounds, where Eckhardt Sheckt (proprieter of the Silver Rose Inn and retired cathar) and Captain Levi (leader of the village militia) are waiting.
+
+You are all gathered in the town hall. Here with you are Eckhardt, the owner of Silver Rose inn; and Captain Levi, leader of Shadowgrange's local cathars. Along with Priestess Flora, these people comprise the Town Council.
+"Well, you all know why we're here," Flora says without preamble. "If what these refugees say is true, there's a horde of undead rampaging through the countryside and they'll be here in a matter of days. We must figure out what is to be done."
+
+There are two main options to discuss: defend the town or evacuate.
+If they defend the town, Captain Levi has 40 cathars under his command and believes he can conscript an additional 100 townsfolk (hunters, farmers, tradesfolk) of varying combat prowess. Priestess Flora and her ten clergy members can provide divine support to the troops, and she can call up ten trained bowyers (the Moontouched Sisters and others) to fight as well.
+If they evacuate, there are smaller settlements south of Shadowgrange within a day's journey. The next biggest settlement is the rancher community called Lammas, two days away. Finally, the greatest military strength nearby is Silbern, a small community built around Silbern Tower. This tower is a lodging and base of operations for a group of cathars called the Silbern Guard, about a hundred trained fighters. Silbern is three days away to the east.
+These are the two options that the council members will argue for, but the characters can come up with different ideas as well.
+This is a chance for the players to throw in their own advice about how Shadowgrange should meet the threat. The council members have their own opinions. 
+Eckhardt: Grim. A seasoned ex-cathar himself, Eckhardt has his doubts that the village walls can hold, and once they're breached, the zombies would easily overrun the village. He advocates evacuation. "We don't have enough cathars to hold off a zombie horde. We need to start evacuating the village and get the people south."
+Levi: Also grim, but more optimistic. Levi points out that the roads south are narrow and dangerous. Trying to protect a thousand evacuating villagers would be next to impossible and there will bound to be casualties. He advocates defending the village. "The gates and walls will hold. If the undead cannot breach out defense, their superior numbers will mean nothing."
+Flora: Stubborn and fatalistic. Flora sees abandoning the village as an ultimate failure. Countless generations are buried in the village crypt, resting eternally in The Blessed Sleep, and they cannot be forsaken. She advocates fighting to the bitter end if need be. "Our destiny is in Avacyn's hands. She would not want us to abandon our ancestors."
+This is an encounter best resolved through roleplaying. Let the characters argue their case for whichever response they favor. If you feel they have argued persuasively, their position should carry the day.
+Since the characters are probably arguing for a position favored by at least one of the council members, all they really need to do is convince the ones that disagree.
+
+Developments
+Once the council has settled on a decision, they quickly go about relaying orders. If the town is to be defended, skip down to "Defending Shadowgrange." For details to evacuate, go to "Evacuation." 
+Hours after the council meeting begins, the scouting group led by Silvia confirms that the zombie horde is indeed traveling towards Shadowgrange from the north. It is comprised of about four hundred zombies, three large stitched abominations, two dozen skeletons, and a female human that seems to be herding them. At their pace, the horde should arrive in two days.
+
+Awarding Experience Points
+Divide 600 XP equally among the characters if the party succeeds in persuading the council to adopt their preferred course of action.
+
+
+Attacking the Horde:
+Bringing the fight to the undead horde would be suicidal. In total, the horde is comprised of 400 zombies, 20 skeletons, 3 skaab goliaths, and a necromancer. The adventurers and any of the townsfolk they'd bring with them would be greatly outnumbered. The only chance of victory in battle is to fight them atop Shadowgrange's walls, where the defenders can utilize their ranged advantage while the horde is kept at bay.
+The characters can employ hit-and-run tactics while the horde travels, however. Executed properly, it can wittle away their numbers before the real engagement at Shadowgrange. But make sure to emphasize the sheer magnitude of undead moving together, so the characters are well aware that attacking head-on would be incredibly foolish and lethal.
+Adventurers leaving immediately northward can easily find the advancing horde within a day's journey (the horde moves slowly as a group, moving at half the speed of traveling adventurers). Riding horses will shave off a few more hours of travel time.
+The horde moves as a loosely organized group herded in the right direction by Rinelda Smitt, a necromancer that stays in the center of the group. Five large wooden wagons are pulled along with the horde by zombies, which are used to collect corpses to send back to Mauer Estate.
+This horde isn't so much an "army" as an abnormally large group of undead wandering in the same direction. They do not have formations or follow complex tactics. Any undead that spots the adventurers will instinctively attack. If they lose sight of the adventurers, or if they stray too far from the herd, they head back.
+Attacking outlying zombies causes some of the closest undead to take notice. If they spot the assailants, the zombies shamble forward to attack. This triggers a domino effect as more and more undead notice what's going on and join the battle.
+The horde comes in waves, with the first wave representing outlier zombies furthest from the horde's center and moves to involve higher concentrations of undead more central to the horde until you get to the fifth wave, the center of the horde where Rinelda resides. The necromancer is nearly impossible to spot in the crowd. When a wave joins the battle, the following wave joins 1d6+2 rounds after.
+
+First Wave
+3 zombies (MM 316) rush forward to attack the characters closest to them. They start by grappling the target. If the target is grappled, they use their slam attack.
+
+Second Wave
+4 zombies arrive using the same tactics as above, along with 1 skeleton (MM 272)that hangs back and fires with its shortbow.
+
+Third Wave
+8 zombies from deeper inside the horde join the fray, along with 2 skeletons. Same tactics as above.
+
+Fourth Wave
+13 zombies, 1 skeleton, and 1 skaab goliath. Same tactics as above, while the goliath wades into battle swinging its morningstar. This is close to the horde's center.
+
+Fifth Wave
+20 zombies, 5 skeletons, 2 skaab goliaths, and Rinelda Smitt. This is the horde's center.
+
+Same tactics as above. Rinelda tries to stay out of melee. She prefers to first cast spiritual weapon and sacred flame on her first turn, and on the following turn try to disable the most threatening adventurer with hold person. If pressed into melee, she casts inflict wounds.
+
+Developments
+Deduct any destroyed undead from the horde's total. Write down which undead were destroyed so you can update the horde's numbers in the upcoming siege.
+If at any point the characters flee, the undead chase for a few rounds before returning to their previous position.
+If Rinelda is defeated, the horde carry out their last command and still march in the direction of Shadowgrange, but fifty zombies wander the wrong way and are deducted from the horde's total.
+Rinelda Smitt insane. The teen lost her parents at a very young age and has survived in the wilderness purely off her talents in necromancy. She is devoid of empathy for her victims, seeing humans as useful only as resources to raid for food, clothing, shelter, and their corpses for undead. The only thing she understands and respects is power. If her life is on the line, she'll explain her partnership with Siegfried, and how she's culling the land to bring him corpses for his experiments (see "The Horde's Purpose"). Rinelda respects Siegfried's talents and hopes to learn everything she can as his apprentice before inevitably murdering him and taking over his residence.
+Rinelda carries basic necessities (clothing, food) along with a ghoulcaller's bell, and a large pouch containing 90 ep and 70 gp. On her person is a note written by Siegfried, reminding the teen to collect everything she can find in his shop's basement, from papers to alchemical supplies.
+
+
+Defending Shadowgrange:
+If the characters choose to defend the town, they can spend the time before the horde arrives by preparing the town's defenses. Let the characters lead the discussion on what to do during this time. The council members respect the opinions of capable adventurers, especially when it comes to battle, and they'll follow the party's initiative for planning.
+Adventurers are a delightfully creative and unpredictable bunch and you should encourage their plans if reasonable. Reward good planning, whatever it may be. In addition to the character's ideas, the council members also voice opinions on what to do. These preparation quests will yield benefits in the battle to come (see "Running the Siege"):
+
+Warding the Walls. Priestess Flora thinks she can re-ignite the holy wards that used to protect Shadowgrange's walls, but she'll need help doing so. Any character with proficiency in Intelligence (Religion) can choose to aid her in performing the holy rituals to infuse the walls with holy energy. If at least one character does, Flora and that character can re-arm the wards by spending eight hours devoted to carrying out the ritual. Each additional character aiding in the ritual reduces the time required by four hours. On success: The walls radiate a faint divine magic. Lesser undead, such as zombies and skeletons, are repelled from getting too close, and the skaab goliaths in "Assault on the Gate" scenario take longer to destroy the gate.
+
+Finding Runners. Captain Levi suggests finding suitable messengers amongst the conscripted townsfolk to relay information between the characters and council members. This way they can better coordinate their defences during the battle. Any character can approach a  townsperson to be a runner. Convincing a person to take the job requires a Charisma (Diplomacy) check DC 10. On success: The characters have messengers to keep them informed of how the battle progresses. In the "Defending the Breach" scenario, they characters can arrive earlier, saving more defenders and are rewarded with an additional influence dice.
+
+Boosting Morale. Eckhardt Sheck knows that the conscripted townsfolk are terrified of the approaching horde. These people are not fighters; they are farmers, shepherds, and tradesmen. They need a confidence boost to have them perform well in battle. Any character can try to raise the hopes of the conscripted townsfolk. They can do so in numerous ways, from a rousing speech, playing up the strengths of the adventurers, showing the commoners how to properly wield their weapons, squashing any talks of hopelessness, or any other reasonable idea the characters come up with. An appropriate skill check DC 15 inspires confidence in the conscripts witnessing this. On success: Defenders that witness the character's actions are inspired, fighting more effectively in the siege, dealing more damage to the skaab goliaths in the "Assault on the Gate" scenario.
+
+More Conscripts. Captain Levi points out that the undead horde still greatly outnumber the defenders. To help increase the chances of survival, a weapon should be put into the hands of any person that can hold it. Levi suggests more aggressively conscripting any person able to wield a weapon, including children and the elderly. It will take convincing on the part of the characters to make this happen, however, as parents will be reluctant to send their young ones to battle. As in the "Boosting Morale" quest, the characters can be creative with their ways and pass an appropriate skill DC to conscript the children and elderly. On success: The characters can conscript up to 50 additional young and elderly commoners. These commoners help deal additional damage to the skaab goliaths in the "Assault on the Gate" scenario.
+
+Add any other quests that you feel are appropriate to the situation.
+As the characters go about preparing, so do the rest of the townsfolk. Shadowgrange's cathars calls upon all able-bodied citizens to take up arms against the oncoming attack. These conscripted commoners gather in the town square bringing whatever weapons they have, from hunting bows to pitchforks, where they await orders.
+The rest of the townsfolk rush to evacuate precious belongings from their outlying homes and farms to the safety of Shadowgrange's walls. Noncombatants are squeezed into the town chapel, which is reinforced with makeshift barricades.
+Once the civilians are accounted for, the cathars and conscripted soldiers will work day and night to reinforce the gate and build makeshift barricades along the main path leading to the market square.
+Free Pots. The clergy members seek out the adventurers. They are well aware that the characters' prowess will play a critical factor in defending the town, so they give them four healing potions for the fight.
+
+Awarding Experience Points
+Divide 900 XP equally among the characters if the party
+aids the town in preparing defenses.
+
+
+Evacuation?
+This adventure assumes most parties will decide to stand their ground and defend Shadowgrange. However, they can choose to flee from the oncoming undead horde. Or perhaps they evacuate the town, lure the undead inside, and then set the place on fire, destroying both the town but also the horde if done correctly. There is no "wrong" way to attack this problem.
+Should the characters choose to flee or evacuate, there are a few settlements not far from Shadowgrange that they can travel to. None have the defensible stone walls of Shadowgrange, but all are encircled by a moat and some sort of physical barrier, such as wooden  palisades or at the very least somewhat defensible trenches. The closest settlement is a day away.
+There are two notable settlements fairly close to Shadowgrange. The first is Lammas, a rancher community stable village two days away. The second is Silbern, a small community built around Silbern Tower, a lodging and base of operations for a local group of cathars called the Silbern Guard. Three days away, this community has the largest concentration of cathars in Stensia, with a little over a hundred trained fighters ready to take up arms.
+It's dangerous to travel through Stensia, as the adventurers probably know already. You may wish to run some of the random encounters from Part 1 while the characters travel to other settlements. Lesser undead, fiends, beasts, and bandits roam preying on travelers.
+The zombie horde is on a rampage through the entire countryside. Their sole purpose is to slay the living and return the corpses back to Siegfried in Mauer Estate. If the characters retreat from Shadowgrange, the horde continues moving south, slaughtering all communities along the way. Any settlement in the outland valleys of Stensia will be attacked eventually. Maybe the adventurers team up with the Silbern Guard and take on the horde at a different location. Roll with the player's ideas and it will all work out in the end.
+
+
+Running the Siege:
+An undead army marches on Shadowgrange and its defenders are prepared to meet them in battle. Keeping track of hundreds of combatants, including their individual stats and rolls, would be impossible. Instead, it's recommended to run the siege by keeping the adventures and their personal action as the focus like any other battle, with the greater battle around them being told mostly through story rather than dice rolls.
+With this method, the battle rages on as a backdrop: the focus is on the fight between the characters and their enemies. The larger conflict takes place "offstage," and is only relevant to the extent that it helps or hinders the characters.
+The adventurers will act as Shadowgrange's elite defense unit in the battle, sent to deal with the toughest, most dangerous missions. The result of these missions will determine the ultimate fate of Shadowgrange itself.
+Don't bother tracking the hit points of the various combatants, except the ones the adventurers are actively fighting. Just describe the carnage as the defenders and horde battle it out, while the characters take on the toughest part of the enemy forces. A short sentence or two at the end of a round or the end of a battle is great to maintain the players' awareness of the ongoing battle around them and keeps them immersed.
+
+Thinning the Numbers
+If the PCs destroyed some of the advancing horde in "Attacking the Horde" or otherwise, deduct the destroyed creatures from the horde's total numbers here. If the adventurers destroyed any of the three skaab goliaths, some of the following encounters need to be changed:
+
+If one goliath was destroyed prior to the siege, then there is no goliath present at the "Defending the Breach" battle, making it much easier.
+
+Any additional skaab goliaths destroyed prior to the siege (up to three) are subtracted from the "Assault on the Gate" battle, which gives a huge advantage to hold the gate.
+
+Horde Tactics
+The undead horde's attack comes during the dead of night, where they can take advantage of their darkvision. Shadowgrange's defenders have at least the light of the stars and the moon to see by, along with torches lining their walls to illuminate anyone beside their defenses. The attack is led by Rinelda Smitt, a necromancer herding the horde towards Shadowgrange.
+The horde's attack is organized into stages, detailed below. The actions of the characters can disrupt these stages; they are presented here as they would play out if the characters weren't on hand to aid in Shadowgrange's defense.
+
+Stage 1: The undead horde advances on Shadowgrange. The majority of zombies, led by two skaabs, shambles forward to break down the gate, while skeleton archers fire at any defenders they see.
+
+Stage 2: A secondary force of undead attacks led by one skaab breaches the wall, away from the main fighting at the gate.
+
+Stage 3: Swarms of undead pour through gaps in the city defenses created by the skaabs and begin wreaking havoc.
+
+Stage 4: The undead horde fully enters Shadowgrange, routing the defenders to the chapel.
+
+Stage 5: Rinelda Smitt personally leads an assault on the chapel, looking to finish off the remaining defenders.
+
+
+Assault on the Gate:
+The horde are traversing the valley and approaching Shadowgrange. It's night, and none of the defenders (except maybe an adventurer) has darkvision to see. Unless the adventurers are attacking, or have provided the other defenders a way to see the approaching horde, Captain Levi orders his crossbowmen and archers to hold fire until they can get a clear shot.
+If the adventurers ride out to attack the approaching horde, use the stats given in "Attacking the Horde" section earlier.
+When the horde arrives at the walls, read or paraphrase:
+
+They arrive in the dead of night: hundreds of shambling humanoids. In the moonlight, their figures silhouettes can be seen, along with glimpses of their rotted faces. As they near the walls, torches illuminate their hideous appearances. The zombies move towards Shadowgrange with a strange urgency; splashing and flailing in the moat's waters, scrambling over each other to reach the walls, lashing at the gate, tearing, ripping, growling.
+Lumbering forward, towering over the other zombies, are two stitched abominations. Six powerful arms and three heads are attached to each mass of muscle. These creatures stride easily through the moat's waters and move towards Shadowgrange's gates, where they start start pummeling it with armor-plated fists, shaking the barricade with each blow. Captain Levi begins to yell and wave a torch to get attention. "Bowmen! Take out those beasts! Now!"
+
+2 skaab goliaths begin leading the attack on the gate. They smash the gate each round, unless something prevents them from doing so. The gate can take 10 hits (or 5 rounds of both hitting) total from the skaabs before being breached. Captain Levi is aware of the danger they pose and barks out orders to take them down. If the adventurers completed the quest "Warding the Walls," the gate instead can take 12 hits total before being breached.
+The defenders on the walls begin raining down crossbow bolts and arrows upon the goliaths, dealing 22 damage per round divided between the two goliaths unless specifically told to aim at one. If the adventurers completed the quest "Boosting Morale" or "More Conscripts," the damage per round is increased by 4 per quest completed.
+To make matters worse, as the order is given to bring down the goliaths, screams can be heard from atop the walls. 20 skeleton archers (MM 272) pepper the bowmen atop the walls, using their darkvision to fire from 40 feet away. The constant barrage hampers the defender's ability to take down the goliaths.
+For every five skeletons the adventurers take out, the defending bowmen can fire more freely, increase their damage on the goliaths by +2 each round.
+
+Developments
+If the skaab goliaths are taken out before the gate is breached by them, then the gate holds. Regular zombies stumble over the fallen goliaths to claw at the gate, but their assault is far weaker than the skaab's.
+If the gate is breached, all is not lost. Eckhardt and his soldiers, a mix of cathars and conscripts, stand ready to meet the surge of undead that rush through the broken gate. Their goal is to drive the undead back long enough to repair the broken gate.
+Regardless of the outcome, a messenger runs over to the adventurers shortly after either the gate is saved/breached. The bloodied soldier comes bearing grim news: one of the far side walls have been breached. The undead are breaking through, and her squadron of soldiers have been taking heavy losses trying to hold their position. Captain Levi will ask the adventurers to reinforce the breach.
+If the adventurers completed the quest "Finding Runners," the messenger is one of the people the characters enlisted as a runner, and they're given an earlier warning that a wall is soon to be breached.
+
+
+Defending the Breach:
+The undead have breached one of the walls and have begun pouring in. Without the adventurers intervening at the breach, that position will almost assuredly be overrun. If the gate has been breached and the adventurers decide to defend it instead, you can configure the following encounter to work for that too.
+Once the adventurers arrive at the breach, read or paraphrase:
+
+The warm glow of fire can be seen over the rooftops ahead of you, where the sounds of fighting can be heard. As you turn the corner, you see two wooden cabins aflame next to the wall, illuminating the scene in front of you. Fighting amidst the bright glow in a tight formation are the cathars, clashing with dozens of undead humanoids. More still pour into the street from a breach in the wall 10 feet wide, clambering over the stone debris and eagerly rushing to the living defenders. "By Avacyn's Might, we hold!" shouts a cathar, even as the soldiers are slowly pushed back.
+
+If the adventurers leave for the breach quickly, then they find a heated battle between the invading undead and the village defenders. A dozen soldiers fight here against ever-increasing numbers of zombies. These eleven cathars statted as guards (MM 347), along with a single clergy member (treat her as a priest [MM 348] without Divine Eminence, no 2nd or 3rd level spells, and only 10 HP). If the adventurers took their time getting here, or didn't complete the "Finding Runners" quest, five of these cathars are dead when they arrive.
+The cathars' goal is to push the undead out long enough to barricade the breach, but they don't have the numbers to do so. Only with the adventurer's help in the fight can they hope to accomplish their task.
+
+Waves of Undead
+In order to hold the line and drive the undead back, the characters must defeat several waves of increasingly dangerous attackers while the cathars fight their own undead foes in the background. Allow each wave's resulting combat to play out, then let the next wave arrive one or two rounds after. This gives the characters a small window to ready themselves for the next fight. Alternatively, if the characters are finding combat too easy, you can have subsequent waves arrive faster.
+
+First Wave
+3 zombies (MM 316) rush forward to attack the characters closest to them, along with 3 skeletons (MM 272) that hang back and fire at the characters with their shortbows. 
+If you are using Influence Dice, remove one of the Enemy Dice after the party defeats the first wave.
+
+Second Wave
+Many undead fall, yet more pour in through the breach. An anguished, unearthly chorus of shrieks is heard from above. Swooping down into the battle is a spectral humanoid figure draped in tattered rags and dangling iron chains. The shrieking emits from large gaping mouths all over its body that glow an intense bright blue.
+
+A shriekgeist, statted as a specter (MM 279), has been lured to the ensuing carnage like a moth to a flame. It attacks the adventurers with incomprehensible hatred.
+2 zombies and 2 skeletons also join the battle using the same tactics as above.
+If you are using Influence Dice, remove one of the Enemy Dice after the party defeats the second wave.
+
+Third Wave
+A low, booming roar is heard from the wall, followed by shouts of surprise and despair as a hulking stitched abomination heaves itself through the breach. It swings morningstar down at the nearest cathar, slamming the poor human deep into the earth with a sickening crunch and a spatter of blood. More zombies squeeze through as the skaab moves forward.
+2 zombies, 1 skeleton, and 1 skaab goliath. Same tactics as above.
+
+Developments
+If the adventurers defeat all three waves, the cathars destroy the remaining undead and have enough time to seal up the breach with a makeshift barricade of wood and stone debris. It's not very strong, but it's enough to deter the undead from entering through here.
+If the adventurers retreat from the battle instead, then the position is quickly overrun by undead. While many more zombies enter through the breach, all is not lost, since the horde as a whole isn't organized enough to take full advantage of this entrance and send more numbers through. Any surviving cathars retreat back to the gate to inform Captain Levi of the situation, which he responds to by leading a group of his best soldiers to launch a counterattack and reclaim the area.
+
+Results
+The location of the next encounter, "Necromancer Confrontation," depends on the adventurer's previous actions:
+
+If both the gate and the breach were successfully defended, a frustrated Rinelda scales the wall and makes a last-ditch attempt to defeat the defenders with her remaining forces.
+
+If either the gate or wall breach was lost, then Rinelda enters through that location with her remaining forces.
+
+If both the gates and the wall breach were lost, then the undead overrun the outer defenses. The defenders are routed, and a messenger comes to the adventurers telling them to regroup at the chapel. The adventurers have enough time for a short rest before an overconfident Rinelda leads the final assault against the chapel, calling out any champions to face her.
+
+
+Necromancer Confrontation
+A messenger arrives from Captain Levi, requiring the party's immediate assistance: a necromancer has arrived and is cutting through his troops. The adventurers are needed to stop her onslaught.
+When the characters arrive, dozens of defenders and zombies are locked in battle. Rinelda Smitt stands out amongst the crowd, squaring off with Captain Levi. The cathar commander, statted as a thug (MM 350; Lawful Good), is barely hanging in there -- he's down to 10 hit points and suffering from 1 level of exhaustion. Rinelda is toying with him using her spiritual weapon (in the form of a spectral dagger) to stab at him.
+If you want to use Influence Dice in this battle, represent the defenders fighting here with two Ally Dice, and the undead two Enemy Dice.
+Rinelda Smitt travels with 3 zombies (MM 316) that she uses as her personal bodyguards. If attacked, she'll use her reaction to shove a zombie in front of the blow if possible. Rinelda prefers to fight at range, casting hold person and sacred flames as appropriate while swinging with her spiritual weapon spell.
+The necromancer has a terrible temper and delusions of immortality, considering how well she's survived all her life so far. She can be coaxed into fighting recklessly, and if pressed into melee, she casts inflict wounds.
+
+Developments
+Rinelda Smitt is insane The teen lost her parents at a very young age and has survived in the wilderness purely off her talents in necromancy. She is devoid of empathy for her victims, seeing humans as useful only as resources to raid for food, clothing, shelter, and their corpses for undead. She offers no remorse because such a feeling is alien to her.
+The only thing Rinelda understands and respects is power. If her life is on the line, she'll explain her partnership with Siegfried, and how she's culling the land to bring him corpses for his experiments (see "The Horde's Purpose"). Rinelda respects Siegfried's talents and hopes to learn everything she can as his apprentice before inevitably murdering him and taking over his residence.
+Rinelda carries basic necessities (clothing, food) along with a ghoulcaller's bell, and a large pouch containing 5 ep and 92 gp. On her person is a note written by Siegfried, reminding the teen to collect everything she can find in his shop's basement, from papers to alchemical supplies.
+
+
+Victory!:
+With Rinelda defeated, the undead briefly falter, looking dazed. A loud cheer erupts from nearby defenders as they see the adventurer's victory. The people fight fiercer with renewed resolve, pushing back the horde and eventually vanquishing them. It takes another two hours to clean up any undead roaming within the town's walls.
+How well the defenders fared depends on the adventurer's accomplishments. If both the gate and wall breach held, then casualties and property damage are shockingly few. The more failed objectives, the worse the death toll and damage to Shadowgrange.
+The townsfolk spend the next day carrying out post-battle activities: clergy members tend to the wounded, cathars dismantle barricades, tradesfolk begin repairing damages, and other people help with gathering the dead to be buried later.
+A group of cathars rides out to cleanse the surrounding valley of any pockets of undead still roaming the land. The few scattered zombies are easily disposed of. When the cathars return, they bring news that some of the zombies were guarding large wooden wagons, some empty and others holding corpses.
+Once all the immediate concerns are taken care of, Priestess Flora invites the characters to a great victory celebration. The celebration begins with a rousing speech by Flora in front of the chapel, where she publicly thanks the characters eachby name. Take the time to play this scene out, and make sure to call out a couple of key actions of bravery or even luck that each character displayed during the battle. Without the party's help, hundreds of people would now be dead and Shadowgrange would have been lost.
+At the end of the speech, Flora motions to bring forth a large chest filled with coins to be given to the adventurers as thanks. Assuming the characters succeeded on each objective, the chest contains 2,100 cp, 1,050 sp, and 260 gp. Reduce the amount of coins depending on how many objectives were failed, as the town will need more money to repair damages incurred in the battle. 
+After the chest is presented and the crowd finishes cheering for the adventurers, Eckhardt approaches them and asks for a word in private. When they move somewhere more quiet, the innkeeper solemnly gifts the party two of the best items from the cathars' armory. If Captain Levi fell in battle, these are his personal items, and Eckhardt explains that the deceased cathar would be honored if his arms continued to slay the wicked. The gifts are a +1 weapon and +1 armor/shield. Customize the weapon and armor to your party: for example, if a Dexterity-focused rogue still needs a weapon and prefers using a rapier, perhaps the weapon is a +1 rapier called Kindness; its handguard decorated in silver filigree in the shape of a thousand feathers; it glows pale blue in the presence of fiends.
+
+
+Defeat!:
+If the characters failed to defeat Rinelda but succeeded in either holding the gate or the wall breach, then the necromancer forces the defenders to retreat to the chapel while the horde overruns the rest of Shadowgrange. Here the adventurers have enough time for a short rest before Rinelda gathers her forces for a final assault. This is the final chance to stop the undead and save the town.
+If the adventurers fail to stop Rinelda at the chapel, then the defenders are broken. Priestess Flora and the rest of the surviving council members rallies what's left of thetownsfolk for one desperate push, fighting their way out of Shadowgrange. They take heavy losses doing so, but eventually the survivors make it out alive. The undead horde is too disorganized to give chase.
+Priestess Flora contacts the characters and thanks them for their aid, but she is unable to hide the bitterness and despair in her voice. There is no ceremony, and this meeting is rushed. Shadowgrange is lost, and its people flee south to neighboring communities as refugees. Word of the horde's rampage travels to Silbern (see "Evacuation") and perhaps the cathars there mobilize enough troops to stop the horde. Or maybe the vampire families step in, destroying the undead to protect their human livestock.
+
+
+Developments:
+After the adventurers have a bit of time to recover from the battle, Priestess Flora contacts them. She explains that her people have never encountered an undead horde like the one they faced. Flora knows that the stitched horrors, the skaabs, are the foul work of necro-alchemists. If the army was built by such people, it may be that the horde they encountered is but a precursor to more attacks to come. For the sake of all Stensia, Flora begs the adventurers to find the source of these undead and stop it once and for all. The refugees from Mordov said that the horde came from the north, and the most notable location north of there is Mauer Estate, a long-abandoned mansion that has housed many residents over the centuries, from ancient royalty to mad wizards.
+If the adventurers mention Siegfried, either their findings in his alchemy shop or the note on Rinelda Smitt, then Priestess Flora agrees that he could be the source. Siegfried was last seen heading in the direction of Mauer Estate, and if they have evidence that he turned to necroalchemy, then it seems like he would be the first one the adventurers should confront.
+
+
+Awarding Experience Points:
+Divide 2,000 XP equally among the characters if the party helps save the townsfolk from the undead horde. If the undead horde is defeated, award another 4,800 XP equally among the characters.
+
+
+Conclusion of Part 3:
+Part 3 begins once the adventurers decide to head north to Mauer Estate, where Siegfried works tirelessly to create even more fearsome threats.
+
+
+Milestone: Level 4!:
+If you are using Milestone Experience, then the characters attain 4th level after the horde has been dealt with.

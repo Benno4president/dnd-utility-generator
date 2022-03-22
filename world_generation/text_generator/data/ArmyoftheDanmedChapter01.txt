@@ -1,0 +1,128 @@
+The adventure begins with the player characters on the road, traveling from Thraben to Shadowgrange. The journey took them through the province Gavony into Stensia via the Kruin Pass, a treacherous pass through the mountain range called Geier Reach, which cuts off Stensia from the rest of the provinces. The characters journeyed through Stensia's inner valley and now cross Hofsaddel pass into the outer valley where Shadowgrange resides. Before you begin, have your players introduce their characters. Let them explain why their characters are making the journey from Thraben to Shadowgrange, either from one of the preconstructed backgrounds or something they've made up on their own. When you're ready to begin, read or paraphrase:
+
+Your journey from Thraben to Shadowgrange has been relatively safe and mercifully uneventful so far. The road drifted across the rolling hills and heaths that make up the landscape of province Gavony, taking you through small villages and quiet farmlands. A few days ago you entered Geier Reach, the imposing mountain range that cuts Stensia off from its neighboring provinces. The trail through it, called Kruin's Pass, was a long, jagged path that cut up and over the mountainsides, until finally you entered Stensia proper. The last few days had you trek through Stensia's inner valley, passing through the small settlements Silbern, Bourg, and Corsiva, until earlier today when you crossed the threshold into the outer valley via the Hofsaddel Pass.
+The journey continues through Stensia's outland valley along winding stone paths dotted by grim pine trees and flanked by the far-flung mountain ranges whose boney peaks reach into the cloudy sky. Sprouting from one such mountain is a castle with many spires, its imposing structure casting a long shadow down from the stony peaks. A hazey fog looms over the valleys, lightly obscuring objects in the distance. The sky is awash in warm orange-red, with dark purplish-red clouds covering the setting sun.
+
+In this part of the adventure, the players have just entered Stensia's outland valley via Hofsaddel Pass. The castle overlooking the pass is Castle Falkenrath, the home base of the Falkenrath vampire bloodline. Common local knowledge would know of the castle and the need to avoid approaching it closer than necessary.
+The journey to Shadowgrange will take two days.
+
+Road Encounters:
+Along the way, the characters will partake in four of the following events below. These events serve as an introduction into the lands, setting the tone of the world, feeding little bits of lore to the players, and establishing that Stensia is a dangerous place to travel. Choose four of the events, marking when they occur (day/night). Alternatively, roll a D8 and consult the Road Encounters table to determine what the party meets, rerolling 8's and any duplicate results. You may choose to divide the four events into two per day, or randomly distribute them by rolling a D4(-1) to determine which day the event occurs.
+The difficulty of combat encounters and their subsequent XP awards assume a party of four level 1's. If this is not the case in your game, or if you wish to make the combat easier or harder, you may tweak the combat encounters to your desired difficulty with Kobold Fight Club or similar builders.
+
+1. Ancient Devoutees:
+The adventurers come across the ruins of a small roadside chapel, its name long forgotten. Tucked between the road and the mountainside are the dilapidated remnants of a small chapel. The roof had caved in long ago, and the wood and stone foundation are half-covered in dirt and vegetation. Shards of colored glass from what once were stained glass windows litter the ground near the entrance. With Avacyn's presence fading from the world, foul magic has corrupted the earth here, and the dead have been forced to rise. 3 skeletons (MM 272) and 1 skeleton priest (same stats as skeletons, just reskin its shortbow as a magical bolt of nectoric energy) - the remains of the chapel's priest and three cathars that died defending it -- are damned to carry out their last holy prayers for eternity. When the adventurers approach, the skeletons are in the middle of this unending "service." If the PCs look inside, read or paraphrase: 
+Three figures geared in weathered leathers of cathars sit on the rotted wooden pews with their heads bowed in reverence. Standing in front of them, at the far end of the chapel behind a dilapidated podium, is a skeleton garbed in tattered priestly robes, its armed outstretched ceremoniously.
+If the skeletal priest notices the PCs, it will gesture them to join the service and sit. If the PCs take hostile actions or loot the chapel, all the skeletons will attack. If a PC tries to put the skeletons to rest with any reasonable idea (helping lead the ceremony to its conclusion, for example) and succeed a DC 12 Intelligence (Religion) check, the skeletons collapse and spectral images of their former living selves briefly appear, thank the PCs and reward them with the tithe bowl (see below) before fading away. 
+
+Treasure 
+A thorough search of the chapel ruins and a successful DC 12 Wisdom (Perception) check reveals a silver tithe collecting bowl buried in rubble beside the altar. The bowl contains 17 cp, 14 sp, and 2 gp, while the ornate container itself is worth 15 gp to jewelers or employees of the Church.
+While most of the skeletons' possessions are too rusted and decayed, one of the skeletons still grips a silver-inlaid dagger.
+
+Awarding Experience Points
+Divide 150 XP equally among the characters if the party defeats the skeletons.
+
+
+2. Cloud of Teeth
+3 swarms of skeletal bats are flying in the adventurer's direction. They roam the road with the singular motive of ripping apart any traveler unfortunate
+enough to come across them. Characters with a passive Wisdom (Perception) 16 or higher can sense the swarm's approach 200 ft. away as they round the bend. A passive Perception of 14 or higher notices them 120 ft. away, and a 12 or higher notices them 60 ft. away. Finally, all can hear/see the swarm emerging from the fog ahead of them 30 ft. away. 
+You hear a cascading sound of high-pitched chirps and screeches coming from somewhere up ahead. It's faint at first, but slowly rising in volume. There's a dark blotch in the mists in front of you, and now you can hear the screeching more clearly, along with the flapping of many tiny wings. The dark blotch grows and takes form - it's a cloud of skeletal bats!
+The swarms attack any living beings in their way mercilessly with tiny razor-sharp bites. Each swarm moves to a character, enters their square, and begins attacking. They fight to the death.
+
+Awarding Experience Points
+Divide 150 XP equally among the characters if the party defeats the skeletal bats.
+
+
+3. Explosive Summons
+A group of Skirsdag cultists have been conducting a ritual inside a roadside cave to summon demons into the world. The ritual reaches its explosive conclusion as the party approaches.
+The quiet valley is suddenly filled with a thunderous booming sound that rumbles through the earth. A chorus of otherworldly screams are heard off in the distance, an eerie cry of pain, horror, and celebration. Moments later, a large, dark humanoid figure emerges from the mountainside up ahead, taking to the air with broad, leathery wings. Black smokes streams up into the sky from where the figure emerged.
+Shilgengar, the demonlord of ashmouth, emerges from the cave where the summoning ritual took place, 450 ft. away from the approaching adventurers. He hasn't seen the characters on the road and begins flying off north to Mauer Estate. The demon shouldn't take notice of the characters unless the adventurers take very foolish steps to grab his attention. The adventurers may encounter Shilgengar again in Chapter 4.
+The cave is not far from the path the adventurers are taking. Wisps of black sulfurous smoke streams from the cave's mouth. The stone surfaces inside the cave are badly scorched from the fiery summoning. The cave is dimly lit by numerous wax candles littering the walls and floor, most knocked over from the explosion. Charred corpses of several cultists are on the floor, the palms of their hands ritually slashed open, their blood used to paint a wide red circle on the floor. The stone floor in the middle of the bloody circle has fallen through, now a gaping chasm that spews heat and sulfurous black smoke. The bottom of the chasm is lost in darkness.
+When the adventurers investigate the cave or pass it by, 2 hellriders riding 2 ashmouth hounds emerge from the chasm and attack on sight. They fight to the death.
+
+Leaping out of the chasm with a howl is a monstrous fiery hound, its razor-sharp claws and teeth crowned with flame. Riding atop this large dog is a small impish humanoid with long backswept horns and hard, chitin-like dark red skin. The fiend grins wide, revealing rows of needle-like teeth, its red eyes burning bright with anticipation as it yanks the iron reigns of its steed, urging it faster towards you. 
+
+Characters investigating the chasm find that the earth has resealed the bottom. No more demons will emerge from it -- at least until another summoning occurs.
+A thorough search of the cultist bodies, along with a DC 10 Wisdom (Perception) check, notices that each cultist had been stabbed in the chest. A follow-up DC 10 Intelligence (Investigation) check notes that each cultist was ritually stabbed in the heart with a dagger with no signs of struggle, and a check result of 15 or higher notes that the killing strokes were delivered hours before the ritual completed. The ritual dagger is nowhere to be found.
+
+Developments
+While most of the cultists that participated in the summoning ritual stuck around for its explosive conclusion, a Wisdom (Perception) check DC 12 reveals two pairs of humanoid footprints that left the cave only hours ago. The footprints arrive at a horses' prints and an Intelligence (Nature) check DC 10 confirms that they rode off in the direction of Shadowgrange.
+These two surviving cultists are Shadowgrange residents Otto and Magda Botler. They ritually killed the other willing cultists to complete the summoning and left before the ritual finished. The characters may encounter these two in the next chapter.
+If characters loot the cultist bodies, they'll find a total of 25 cp, 18 sp, and 12 gp.
+
+Treasure
+One of the cultists also carries a gilded ram's horn. It's worth 25 gp to the right (shady) buyer. Etched on its side is a symbol that characters can identify with an Intelligence (Religion) check DC 15 -- the symbol of the archdemon Griselbrand, the most venerated demon of the Skirsdag.
+
+Awarding Experience Points
+Divide 250 XP equally among the characters if the party defeats the hellriders and ashmouth hounds.
+
+
+4. Fiendish Hecklers
+3 smoke mephits (MM 217) follow the characters as they journey through the valley.
+
+You hear snickering and cackling coming from your left, echoing off the mountain range. A raspy, shrill voice calls out, "you don't want to go that way! You'll die too soon and spoil our fun!" Looking left, you notice three black figures hovering in the air. The small impish creatures billow smoke from their hazy bodies.
+
+The mephits keep out of the party's attack range, defaulting to a distance of about 100ft. from the adventurers. They flee if attacked, only to sneak back with their Stealth +4. They'd much rather verbally attack the adventurers than get physical.
+The elementals try to mislead the adventurers to make them go the wrong way or doubt themselves. They could "warn" them of a dead-end up ahead, or of a powerful demon preying on the road, always fabrications.
+The mephits constantly mock the characters at every opportunity. They'll insult the studious wizard's intelligence, call the strong barbarian weak, and complain about the bard's terrible music. They love getting a rise out of characters, even if they are destroyed in the process.
+If the adventurers are preoccupied fighting in a different combat encounter and seem to be winning, one of the mephits will sneak up to an adventurer furthest from his or her allies (typically a ranged character) and use its Cinder Breath before flying away, cackling. Smoke mephits are total jerks like that.
+
+Developments
+The mephits stalk the adventurers relentlessly until all of them are destroyed or the party reaches Shadowgrange (maybe even longer!).
+
+Awarding Experience Points
+Divide 150 XP equally among the characters if the party defeats the mephits.
+
+
+5. Into Darkness
+At night, 2 shadows (MM 269) begin to stalk the party. They will try to make a Dexterity (Stealth) check to hide in the party's shadows, waiting until they are split up or sleeping before attacking. The shadows are drawn to the characters that radiate the most goodness in terms of lifestyle, attitude, and personality. For example, they will prioritize attacking the good-aligned paladin over the neutral wizard.
+
+Awarding Experience Points
+Divide 200 XP equally among the characters if the party defeats the shadows.
+
+
+6. Ominous Bridge
+The land ahead drops off into a dark, stony ravine. A dilapidated bridge offers the most obvious way over. Aside for the chunks of missing stone and its ruinous appearance, the bridge is sturdy enough. That is not the true danger, however. A giant spider (MM 328) and giant wolf spider (MM 330) lay in wait on the bridge's underbelly. Thin strands of nearly invisible webbing coating the bridge alerts the spiders to any movement on top. The spiders instinctively attack anything that disturbs their webs, but flee if taken below half their health points. A Wisdom (Perception) check DC 15 notices the thin webbing on the bridge. An Intelligence (Nature) check DC 10 confirms the webbing to belong to giant spiders. Taking a peek under the bridge (hopefully not too close!) can spot the spiders lurking in the shadows with a Wisdom (Perception) check DC 20.
+Webs. Thin webs cover the surface of the bridge. The squares are difficult terrain, and a creature trying to move through them must succeed on a DC 10 Strength (Athletics) check. On a failure, the creature is restrained in the webs. A snared creature can take an action each round to attempt to break free with a DC 12 Strength check, or it can try to cut its way free by using a light weapon that deals slashing damage. The webs have AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+
+Developments
+Characters can choose to avoid the bridge and spiders entirely and navigate down into the ravine and back up the other side, adding several hours to their journey. It takes a Strength (Athletics) check DC 10 to climb up or down the ravine walls.
+
+Treasure
+Three web cocoons are stuck on the bridge's underside. Adventurers looking under the bridge can notice the cocoons tucked into shallow pits with a Wisdom (Perception) check DC 20. Reaching the cocoons is another challenge altogether. If they come up with a way to do so and loot the dessicated corpses, they'll find 30 cp, 27 sp, and 8 gp in coins, emerald-encrusted earings and a gold necklace with a tear-shaped ruby together worth 30 gp total, and a potion of healing.
+
+Awarding Experience Points
+Divide 250 XP equally among the characters if the party defeats the giant spiders or goes around them.
+
+
+7. Wolf in Sheep's Clothing
+The party arrives at a roadside shrine. Before, these shrines provided travellers a safe haven, its protective magics warding the immediate area from evil creatures. But with the archangel Avacyn's disappearance, the holy magic of the shrine has gone dormant.
+
+The jagged stone road curves around a stony peak. As you round the bend, you see an alcove in the mountainside. In the middle of the alcove, bursting through the rocky ground, is a wide pine tree stump. Carved from what used to be its trunk and rising up from its stump is the symbol of the Church: Avacyn's Collar. Wild flowers, wooden trinkets, and prayer beads adorn the shrine.
+Kneeling in prayer in front of the shrine is a pale sweaty human wearing dirty, torn shepherd's clothing.
+
+The praying man is Anton Wepper, a shepherd from the village Lammas. Anton carries a dark secret: a few nights ago he was bitten by a werewolf and cursed with lycanthropy (MM 206). Fearing for the safety of his loved ones, he left his home and is making the trek to Shadowgrange, hoping to pick up supplies there and then continue on to the farbog to live in isolation. Anton has been praying ceaselessly to Avacyn hoping not to let the curse take hold, but unknown to him, tomorrow night is a full moon, which will cause him to involuntarily transform into a werewolf.
+Anton is initially fearful of the PCs but can be calmed down if they prove they aren't vampires or other monsters. If Anton finds out that they're going to Shadowgrange, he begs to come along, as the road is dangerous. He tells them that he's stopping by Shadowgrange to start a new life, which is vague but true. If pressed about his motives, he lies, saying that he inherited land near Shadowgrange and he is traveling to sign papers. He's also willing to provide any local knowledge about Stensia, basic information about important locations, rumors, dangers on the road, and other bits of local knowledge.
+A Wisdom (Insight) check DC 13 can notice that the nervous shepherd is withholding information. A Wisdom (Perception) check DC 15 notices a burn mark in the shape of Avacyn's Collar on his wrist (Anton hides it under his sleeve). An Intelligence (Religion) check DC 13 confirms that the signs point to lycanthropy. An Intelligence (Nature) check DC 13 confirms the next full moon for tomorrow night. Getting Anton to speak truly about his curse can be done through diplomacy, intimidation, and other methods.
+
+Developments
+The shrine's divine magic lays dormant. A character can spend an hour performing the proper holy rituals with an Intelligence (Religion) check DC 15 to reactivate the divine magic. Doing so grants anyone resting at the shrine an Inspiration Point, and evil creatures are compelled not to approach the shrine's immediate vicinity.
+Anton is a good man but afraid to die. If the party figures out his curse, he begs them to help, swearing that he is faithful to Avacyn and doesn't want to hurt anyone. He needs them to escort him to Shadowgrange where he can pick up supplies and escape north into the swamps, away from human civilization.
+If he feels his life is threatened, Anton will make a desperate attempt to defend himself. He is a commoner (MM 345) with a light crossbow.
+The next night, when the full moon rises, he transforms into a werewolf (MM 211), losing all self-control and goes on a murderous rampage.
+
+Treasure
+Anton carries a small sack of coins holding 15 cp, 4 sp, and 1 gp. In the shepherd's coat pocket is his most treasured possession, an avacyn collar. Anton can no longer wear it as blessed silver burns his flesh. If the characters agree to let him travel with them, he gives them the chain as thanks before parting ways.
+
+Awarding Experience Points
+Divide 300 XP equally among the characters once they've dealt with Anton any way they choose. In the event that they defeat him once he's transformed into a werewolf, instead divide 600 XP.
+
+
+Conclusion of Part 1
+On the end of the third day of travel, the party arrives at Shadowgrange, where the adventure continues in part 2.
+
+Awarding Experience Points
+Reaching the village of Shadowgrange completes a story milestone. Divide 300 XP equally among the characters. This should provide enough XP for the characters to attain 2nd level.
+
+Milestone: Level 2!
+If you are using Milestone Experience, then the characters attain 2nd level once they reach Shadowgrange..

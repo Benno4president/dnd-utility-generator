@@ -1,0 +1,233 @@
+Part 2: Shadowgrange
+
+Shadowgrange is one of the oldest human settlements in Stensia. Most of the villagers are farmers, the majority being shepherds. The rest of the villagers work in trades that support the farmers by spinning wool, weaving clothes, shoeing horses, milling grain, and the like. Some merchants move goods from Shadowgrange to other settlements such as Lammas, but shipments move less frequently these days as the roads become more dangerous.
+In the last two years, Shadowgrange has experienced a swell of new citizens that sought refuge behind the village's fortifications. Most of these folk come from smaller remote villages that have been destroyed by
+over-indulgent vampires, mindless undead, or sadistic ghoulcallers. With Avacyn's presence missing from the
+land, the protective holy wards of these villages are failing, and creatures of the night are making bolder attacks. Shadowgrange's moat and stone walls make it one of the best defended villages in the area, but many villagers secretly believe that this settlement will eventually fall just like the rest.
+When characters first arrive in Shadowgrange, read or paraphrase:
+The valley dips downward and you see dozens of sheep flocks roaming the thin, wispy hills, with shepherds watching over them. Beyond, nestled in a corner beside the jagged mountain range, is Shadowgrange. The dirt path swings around farms and wooden cottages until it reaches the village's moat, where sheep gather round for a drink. Beyond the drawbridge over the water stands an iron-reinforced wooden gate flanked by two guards, the only way through Shadowgrange's stone walls. A small grove of hawthorn trees grows near the moat and more branches can be seen poking over the village walls.
+2 guards (MM 347), twin brothers Lars and Sven, stand watch outside of the village gates. These cathars hail the adventurers as they approach over the drawbridge. In a cold formal tone, they check to see if the characters are fiends by asking them to give them the palm of their hand, which they touch with an avacyn collar made of blessed silver.
+Once satisfied that the characters aren't supernatural abominations, the guards, Lars animates dramatically, tossing aside his formal speech and tries to chum it up with the newcomers, much to the bemoaning of Sven, who deems this "unprofessional." Lars is a lighthearted and curious fellow, rarely seeing strangers in the area, and the adventurers intrigue him. The twins are willing to provide local knowledge to the characters and point them in the direction of wherever they need to go.
+
+
+Encounters in Shadowgrange:
+The party will probably want to freshen up after their long journey to Shadowgrange. They can rest at the inn, restock their supplies at the general shop, acquire new weapons at the blacksmith, and receive divine blessings at the village church. The party's goals will then lead them to one or more of the following locations:
+
+Haunted House. All adventure hooks involving Katarina Brunn or the holy relic lead to the haunted house of the former mayor. Villagers questioned about these things direct the PCs to Priestess Flora at the chapel where they can get more information.
+
+Alchemist's Shop. Siegfried's alchemy shop has been abandoned ever since he left Shadowgrange. The villagers are concerned about Siegfried's disappearance, and that the hawthorn tree growing in the center of the shop is mysteriously dying. Any inquiries about the shop are directed to Captain Levi at the visgaud grounds.
+
+Saint Traft's Memorial. Inside Shadowgrange's chapel is a statue commemorating the local saint, Traft. One of the greatest cathars to have ever lived, it's said that his spirit occasionally bestows blessings on worthy visitors. Characters making pilgrimage to Traft's memorial will be pointed here.
+
+
+Important NPCs:
+Here is a quick summary of the most important NPCs in Shadowgrange, and their relevance to the adventure:
+Eckhardt Sheck             Innkeeper
+Magda Botler               Owns a trading post; secretly a Skirsdag cultist; has a cursed item for the party
+Flora Mayweather           Head priestess of Shadowgrange's chapel; has a quest for the party
+Marcus Ritter              Blacksmith; has a quest for the party
+Silvia Wintsch             Fletcher; has a quest for the party
+Captain Levi               Captain of the local militia; has a quest for the party
+
+
+Roleplaying Shadowgrange NPCs:
+The humans of Shadowgrange are stoic folk, neither expressive nor demonstrative people. Countless generations of hardship and proximity to the vampire strongholds - lost children, lost neighbors - have taught them to guard their hearts. They are proud and fervent in their beliefs but seem brusque or even cold to outsiders.
+Times have been particularly rough these past few seasons with the disappearance of Avacyn. The holy wards protecting humanity are losing power, and the villagers are becoming more paranoid and fearful as attacks from creatures of the night become bolder and more frequent. Shadowgrange is becoming more crowded as they take in refugees from neighboring villages that have fallen to darkness, and the stress of accommodating more people to protect and mouths to feed is worsening their tempers.
+Spirits are at an all-time low with the murder of the mayor four months ago. The villagers stood frozen in fear as Voldaren vampires strolled into their village, murdered their mayor, and kidnapped Katarina (See "Background"). That event really drove home the knowledge that the people of Shadowgrange are truly helpless in the face of the horrors around them. Fear and shame have kept them from even clearing out the mayor's haunted house.
+People feel a little resentment towards Thraben, the seat of the Avacynian Church. They believe the high priesthood isn't doing enough to protect Stensians, instead getting wealthy off tithes and living in safety behind Thraben's walls while places like Shadowgrange suffer.
+Martial and magical prowess is highly prized in humanity's fight for survival. Villagers are initially wary of the characters but the adventurers quickly earn their respect and admiration if they prove to be protecting them -- clearing the haunted house, for example. Gruff "off you go then" goodbyes turn into "Avacyn's blessings upon you, heroes."
+
+
+Town Description:
+Most of the villagers live on their farms outside of Shadowgrange's walls. The tradesfolk and wealthier citizens live inside. Each cottage is built around a hawthorn tree, with the tree's trunk in the center of the common room and its branches poke above the rooftop. This provides residents centralized access to living wood as a defense against vampires. Every cottage also features a mirror on the outside of the front door to dissuade vampires from approaching, and often have prayers to Avacyn engraved on the door frame to repel evil spirits.
+The following section detail specific locations in town.
+
+
+Silver Rose Inn:
+Silver Rose Inn is a popular destination in the evening for villagers taking a break after a long day's work. Most folk head back home before nightfall, however, as the roads are far more dangerous once the sun goes down. There are eight rooms available for rent. If the characters decide to stay here, see "Food, Drink, and Lodging" in the Player's Handbook for pricing (PHB 158).
+The innkeeper, Eckhardt Sheck, is a former cathar (statted as a Neutral Good thug [MM 350]). Although in his mid 50's with thin greying blonde hair, he is remains an imposing figure; his thick, muscled, hairy arms look like they could snap a regular man in two, or at least they could if he had a right hand instead of a grasping hook -- he lost it fighting off a swarm of ghouls, nasty business. His permanent scowl and gruff attitude hides his kind heart.
+If asked about Katarina Brunn, the artifact from the Avacynian Church, or Saint Traft's memorial, Eckhardt tells them to speak with priestess Flora at the village church, saying that she would know more about those things than anyone else.
+Rumors. Spending a little time in the common room and chatting up the townspeople can provide the characters with a number of good leads to explore around the village. NPCs present in the Silver Rose Inn and the rumors they pass on include:
+
+Gerold, an old farmer: "Priestess Flora is still looking for tough folks to try and purge the spirits in the old mayor's house."
+Lena, a shepherd: "The hawthorne tree the alchemist shop is built around looks to be dying. Someone needs to check out what's killing it."
+Merle, a cathar: "I placed an order for a blessed silver longsword months ago. Marcus, the blacksmith, says there's a shortage though."
+Carsten, a priest: "Last week I prayed at Saint Traft's memorial in the chapel, and I swear by Avacyn's Light, I saw his spirit!" 
+Martin, village idiot: "Old man Otto at Bountiful Heron General Store keeps complaining that there's no one to talk to about the ‘R' canes. Where do you think those grow, anyway?"
+Helga, innkeeper's wife: "Silvia, the fletcher, told me yesterday she needs a certain type of wild herb, but she hasn't had the time to go get it."
+
+
+Bountiful Heron General Store:
+Bountiful Heron is the biggest trading post in Shadowgrange. Its shelves are stocked with ordinary goods and supplies. Characters can buy adventuring gear here, with the exception of items worth over 25g. Characters in need of metal weapons or armor are pointed to The Tempered Bull, and ranged weapons or leathers inquiries are nudged towards Fleeting Fox Provisions (see their respective sections).
+The owners are an old married couple, Otto and Magda Botler. They are kind to the characters, Magda often calling them "dear" or "sweetie." Otto sits behind the counter fussing over old scrolls and tomes of arcane knowledge. Magda works the counter, feebly moving over to get anything the characters ask for with trembling hands. Their feeble movements and kindness are a ruse, however. A DC 25 Wisdom (Insight) check notices that their actions aren't entirely sincere - Magda and Otto have honed their "kind old people" act for over a decade. If confronted about it, the couple tries to laugh it off, saying pretending to be feeble gets people to do things for them.
+Otto and Magda are secretly two Skirsdag cultists. Magda is a cult fanatic (MM 345) and Otto a mage (MM 347). The two came to Shadowgrange to steal Elbrus, the Binding Blade from Saint Traft's Memorial. Now with the dagger in their possession, they work tirelessly to release the demon lord Withengar from the dagger. They recently made a trek outside of Shadowgrange to help perform a demon summoning ritual alongside fellow cultists (see "Explosive Summoning" in Chapter 1).
+Arcane Appreciation. Otto takes special note of any character clearly showing arcane talents - casting an arcane spell, carrying an arcane spellbook, etc. Few folks around here have knowledge of the arcane, and Otto excitedly peppers the character(s) with questions about their background, studies, and goals in their pursuit of arcane knowledge. If the character is proficient with Intelligence (Arcane), allow him or her to roll an Arcane check during their talk with Otto, provided they are willing to answer his questions. On a result of 10 or higher, Otto gifts them a scroll of comprehend languages, saying that he hasn't had a use for it and hopes it may help the budding spellcaster; on a 15 or higher he is so impressed with the character's knowledge that he also gifts them a scroll of burning hands and a scroll disguise self.
+An Innocent Gift. Otto and Magda know that Elbrus, the Binding Blade requires many souls to awaken Withengar. It would be very difficult to kill enough people to unleash the demon lord without blowing their cover. The adventurers arriving in town presents a unique opportunity to pass the blade off to professional killers that will surely fulfill the dagger's soul quota and unleash Withengar for them. Otto will take any good opportunity to put Elbrus in the party's hands, either by initially offering to sell them it for 50 gp, or later by gifting the characters it after they aid the village in some significant way, such clearing out the mayor's house or helping the people during the zombie attack.
+Elbrus takes the innocent looking form of the Shapeshifter's Blade. Otto describes it as a weapon that changes form based on the user's thoughts (which is true), and that he picked it up along his travels but never had a use for physical weapons (also true).
+
+Awarding Experience Points
+Divide 200 XP equally among the characters if a party member talks arcane magics with lonely old Otto.
+
+
+The Tempered Bull:
+Physical danger is a fact of life for Stensians, and most villagers have weapons ready to protect themselves from the creatures of darkness. Shadowgrange's forge runs hot from the crack of dawn until late into the night, smithing new weapons and repairing damaged ones.
+Marcus Ritter, the head blacksmith, is busy tempering a blade, assisted by six apprentices. The black-haired, silver-eyed man is remarkably young for his position. An exceptional smith, his apprenticeship was cut short when the previous blacksmith was found burnt to a crisp; rumor has it that he cremated his late wife and she returned to take vengeance upon him as a fiery geist. Marcus was given the position shortly after. Characters can buy metal arms and armor here.
+
+Quest: Blessed Silver Shortage. Marcus used to create weapons of blessed silver with the help of the late mayor, Ralph Brunn. With his death months ago, however, no one else in the village knows the holy ritual to bless the silver as the weapons are being forged. Marcus has asked for help from Thraben but has received no response. Without new blessed silver weapons, the village is ill-prepared to defend themselves against supernatural horrors. The blacksmith asks if any of the characters know how to perform the ritual.
+A character that has proficiency in Intelligence (Religion) can attempt a DC 15 check to see if they can perfectly recall the holy ritual. If they do, the character can assist Marcus in creating a batch of blessed weapons, which takes 10 hours uninterrupted.
+If they are successful, Marcus gifts the character one of the weapons as thanks. The character can choose any metal weapon as their gifted blessed silver weapon.
+Characters can purchase additional blessed silver weapons for the standard price of silver weapons (weapon price + 100 gp for silver). Marcus is thankful for their help, but the blacksmith cannot give his weapon stock away for free, since this is the livelihood of him and his apprentices.
+
+Awarding Experience Points
+Divide 200 XP equally among the characters if a party member helps Marcus craft blessed silver weapons.
+
+
+Fleeting Fox Provisions:
+Three sisters, a fletcher named Silvia, a bowyer named Emma, and a leatherworker named Sybille, are co-owners of this shop. They keep the village's hunters armed and protected to venture into the dangerous wilderness. Not only do they run the shop, but these sisters are also the most talented hunters in the village. The silver-haired women move with an uncanny grace, and despite their advanced age (all in their 50's), they retain the youthful appearance of women half their age. For these reasons, the trio have earned the nickname "Moontouched Sisters." Characters can buy ranged weapons, ammo, and leather armors here. 
+
+Quest: Find the Lotus. Silvia asks that if the party finds themselves in the farbog to the north, to keep an eye out for a plant called Sanguine Lotus. She has a recipe that uses the plant's flower to create a healing salve called life's blood. The lotus only flowers for a few weeks this time of year, and she doesn't have the time to venture out and collect them herself. She will pay gold for them, along with some of the salve. Characters proficient in Intelligence (Nature) will be prompted to make a DC 12 Wisdom (Perception) check while traveling through the farbog in Chapter 4. On success, they'll find sanguine lotus. If they characters bring the lotus back to Silvia, she will grind the flowers into life's blood, giving the party two vials of it along with 50 gp.
+
+Awarding Experience Points
+Divide 200 XP equally among the characters if the party retrieves sanguine lotus for Silvia.
+
+
+Visgaud Grounds:
+The sturdiest building in Shadowgrange is this old stone house built near the village gates. Visgaud Grounds serves as the town hall, courtroom jail, and Town Guard headquarters, housing twenty of the militia that protect the village (the rest have small cabins of their own in and around town).
+Beside the building is the cathars' training grounds, where off-duty militia train on target dummies or in
+practice duels with wooden swords.
+Captain Levi(statted as a Lawful Good thug [MM 350]) is the leader of Shadowgrange's militia, being promoted to that position shortly after Katarina's kidnapping. A middle-aged veteran fighter trained in Elgaud Grounds in Nephalia, Levi is a strong and capable leader charged with protecting the village as best he can.
+Alchemy Shop Investigation. Levi is aware that some townsfolk are concerned about the mysteriously dying hawthorn tree at the center of the abandoned alchemy shop. He considers it a nonissue and doesn't want to deal with it, arguing his time is better spent on more pressing issues, like training new recruits and other administration work. If a PC asks to investigate the shop, or if they have the deed to the shop, Levi is happy to let them check it out.
+
+
+Armory:
+A small stone tower adjacent to Visgaurd Grounds, about 30 feet tall, the armory holds arms and armor for the town militia -- spears, light wooden shield, leather armor, studded leather amor, and a few old longswords and crossbows. Most of the arms have already been issued to the members of the militia.
+An ancient hawthorn tree with an unusually thick trunk grows beside the armory. Villagers call it the Eldentree. The cathars maintain the tree and diligently carve the outline of stakes and spears into its trunk. In times of need, these weapons are cut out of the Eldentree, which function as weapons of living wood for the next two days.
+
+
+Chapel:
+Shadowgrange's chapel is the focal point of the village. Most villagers worship here several times per week, and many pass by the church on a daily basis for a blessing of safety. Mandatory tithes and payments for blessings keep the church's coffers always full.
+Priestess Flora, a priestess (MM 348), oversees the day-to-day administration at the church with the help of a few lower-ranking clergy members. She is usually busy throughout the day, leading the morning and evening sermons, blessing the villagers, and performing divine rituals to reinforce Shadowgrange's protective wards. An old, oddly talkative woman, Flora stands out amongst the majority of Stensians by being outwardly warm and welcoming.
+If asked about Katarina Brunn or the artifact, Flora will take the characters aside and tell them the story of what happened to the mayor's daughter -- paraphrase the information from "Background: Voldaren's Lesson," leaving out information about the artifact itself. She knows that Katarina was studying something of grave importance for the high priests, but she doesn't know what the artifact is, only that it would've been kept somewhere in the house.
+Saint Traft's Memorial. Flora is happy to show Saint
+Traft's memorial to any inquiring character. She fondly
+recalls the saint's story; how he reached Sainthood in life,
+how even angels would fight under his command, and
+his heroic death single-handedly fighting cultists and the
+demon-lord Withengar to protect a single innocent life.
+
+Inside this small room is Saint Traft's memorial, dimly lift by dozens of wax candles. In the middle of the room is a statue of Saint Traft. He appears as a strong, valiant middle-aged man taking a knee in prayer while steadying a greatsword in hand. Soaring above him with outstretched feathery wings is an angel in a silken gown, holding an ornate spear high above her head as if to rally those that look up at her. A silver plaque at the base of the statue reads, "Here lies Saint Traft, champion of Avacyn, hero of Shadowgrange."
+On the back wall of the room is a display case made of glass and iron, surrounded by etchings on the walls, hymns and prayers to Avacyn. Inside the case rests a bone dagger with black engravings along its blade. A small plaque on the case reads, "A hero's sacrifice: may the foul demon Withengar suffer for an eternity in this prison."
+
+Saint Traft's restless spirit manifests throughout Stensia, protecting innocents and vanquishing fiends much as he did in life. The powerful aura of fate hanging onto the adventurers is likely to draw his attention.
+The display case is locked; a DC 20 Dexterity (Sleight of Hand) is required to open it. It is watched over by Flora, who replenishes the holy wards around it and keeps a permanent Alarm spell cast on the case to be alerted if anyone opens it. Flora does not permit anyone to touch the dagger, explaining that it holds the bound essence of the demon lord Withengar and is not something to be tampered with.
+The dagger inside is Elbrus, the Binding Blade - or at least it was, until Otto and Magda Botler stole it and replaced it with a forgery (see "Bountiful Heron General Store"). It's such a convincing duplicate that Flora has never noticed the switch. The only big giveaway is that the duplicate is a mundane item, while the real thing radiates magic, something a character may notice with the Detect Magic spell or similar.
+
+Quest: Saint Traft's Favor. Traft's spirit takes note of the adventurers when they visit his shrine. The spirit senses that these characters will play a pivotal role in restoring balance to the land and seeks to aid them. At some point later in the adventure of your  choosing, Traft appears to one of the characters of your choice in their dream. The spirit chooses a character that pays respect at the shrine, or one that is most likely to wield a spear in battle, or that acts in a Lawful and/or Good manner. 
+When that character next sleeps, read or paraphrase:
+
+The spectral figure of a noble human approaches you in your dream. His blue wispy form is perpetually shifting, as if being buffeted by an unfelt breeze. The ghostly human's features matches exactly the statue of Saint Traft you saw before: it must be his spirit.
+"I sense the heavy mantle of fate resting on the shoulders of you and your allies," the spirit in an oddly comforting tone, "you shall play a role in bringing balance to this world. Unfortunately, my hold on the mortal world is weak during these dark times, but I shall help you how I can."
+A statuesque angel in a silken gown lands beside you and hands you a silvery spear.
+"This weapon shall aid you. Stay strong, traveler. We'll meet again."
+Traft and the angel fade back into the darkness.
+When the adventurer wakes up, they find the moonsilver spear from their dream gripped in hand.
+
+Quest: Haunted House. If not approached with any hooks, Flora instead seeks out the characters herself. She has a job for them: rid the mayor's house of its evil presence. Regardless of how they solve the problem, Flora rewards them with 200 gp and, if they haven't been awarded possession of the alchemy shop already, she offers them to take anything they find in there.
+
+
+Alchemist's Shop:
+Hanging above the front door of this small cabin is a wooden sign with a potion painted on it. Like most of the buildings here, a hawthorn tree pokes out of the cabin's roof in the center, but its barren branches and greying bark signals that it's dying.
+
+This shop has been abandoned ever since its owner, the alchemist Siegfried Reinholdt, fled from the village after Katarina's kidnapping (see "Background" for details).
+The shelves around the shop are stocked with alchemical reagents. Semi-precious gems, pickled animal body parts such as newt eyes, and many plants can be found here, though most of the once-live vegetation has withered and died due to months of neglect. In total, there's about 350 gp worth of alchemical materials that can be used for crafting potions.
+Along the counter is a smattering of devices, among them ten empty vials and stoppers, a herbalism kit, and alchemist's supplies.
+Hanging on the back wall is a shelf with potions. Some of the liquids have expired, but there are four vials of acid, three potions of healing, and two alchemist's fire.
+There is a fireplace with various iron mixing pots hanging over the pit. Inside one of the pots is a muddy liquid that has little bits of scales, pink flesh, a small claw, and hair. A DC 15 Intelligence (Nature) reveals it to be a potion of animal friendship (DMG 187).
+
+Developments
+A DC 12 Intelligence (Investigation) check notices some hastily concealed ashen footprints leading from the fireplace and out the door. A DC 15 Intelligence (Investigation) check examining the fireplace notices a hidden lever. Pulling the lever slides a hidden door in the fireplace, revealing a narrow spiraling staircase that leads to the Alchemist's Basement.
+
+Alchemist's Basement
+The hidden stone staircase is a short flight of stairs, revealing the alchemist shop's basement. It's pitch black here; the characters will need a light source or darkvision to see. Assuming vision, they see this:
+
+The short flight of stairs ends just under the shop.The withering roots of the hawthorn tree takes up the center of the room and sprawls all across the floor. The roots are covered in vines and dead shrubbery.
+Along the walls on both your sides are strange alchemical devices, glass bottles of various shapes and sizes filled with strange liquids, tubes connecting them with each other and others burying themselves amid the tree's roots.
+Beside the back wall is a wooden desk with piles of papers covering its surface along with a leather-bound book. Beside the desk is a humanoid figure laying down on a metal platform with dozens of utensils littering its sides.
+
+That's no ordinary vegetation growing amongst the roots; it's actually comprised of 5 twig blights and 1 vine blight (MM 32). These plant monsters were part of Siegfried's experiments to create effective weapons against vampires, as they are, in a sense, walking living wood.
+The blights lay motionless on the ground, making them indistinguishible from normal vegetation. They patiently wait until the characters are distracted searching the room (or they're discovered) and then attack. The plants are hungry, having already devoured most of the nutrients from the hawthorn tree while locked down here, and fight until destroyed.
+
+Developments
+A leather-bound book rests on the desk; Siegfried's journal. The entries describe his love of his Stensian countrymen, praising their bravery and perserverence. and above all, his love of Katarina, the light of his life. He outlines dozens of plans to protect his people from the horrors of the night, especially from the horrible vampires that prey on humanity like cattle. Siegfried devoted his life to this endeavor, discarding what didn't work and always trying out new ideas. The final entries note Siegfried's increasingly desperate situation now that Avacyn disappeared and her protective magics fail; the horrors grow bolder and more of his people die. He ultimately resolves to pursue the foul "art" of necro-alchemy, believing it to be a necessary evil to protect his loved ones.
+The desk is covered with a seemingly endless amount of pages discussing necro-alchemy; the art of creating undead abominations called "skaabs." Standing out amongst the notes is one opened letter. The letter is encoded: deciphering the requires Letter Frequency Analysis to break the code; for example, wherever the letter "z" appears it should be replaced with the letter "a," replacing each letter this way reveals the hidden message. 
+You can run this puzzle multiple ways:
+The players figure out and translate the entire letter themselves.
+The players figure out and translate a portion of the letter, then hand them the fully decoded version.
+Let the characters make an Intelligence (Investigation) DC 15 check to crack the code
+
+The letter is written by Siegfried's cousin, a man that goes by "Stitcher Geralf." The cousin voices his support of Siegfried's decision to finally study necro-alchemy and suggests he move his operations to a place called Mauer Estate.
+On the metal platform rests a well-preserved human corpse -- or rather, many pieces of human corpses stitched together. Copper plates with silver-inlaid runes scribed on them have been woven into the creature, the rune-bonds used to join the various anatomical features. The strange liquid in most of the glass bottles is the vital fluid, the "blood" of the skaab, made of lamp oil with a pinch of angel blood. Siegfried had this test skaab properly built, but he never uttered the incantation to awaken it.
+
+Treasure
+Sitting in a corner of the basement is an alchemy jug (DMG 150). Siegfried used the jug to produce the oil needed for the skaab's vital fluid.
+The various necro-alchemical equipment that Siegfried amassed in the basement could be worth 500 gp to fellow stitchers, but commoners and members of the Church of Avacyn would be hostile to anyone found carrying such items.
+
+Awarding Experience Points
+Divide 325 XP equally among the characters if the party destroys the blights.
+
+
+Mayor's House:
+The mayor's house is a one of the larger and more comfortable homes in the village. The two-story building is built atop a small hill not far from the chapel and has a large hawthorn tree sticking up through its roof.
+The house seems ordinary enough until you come close and notice that the mirror placed on the wooden door has been shattered. Holy protection prayers to Avacyn engraved on the door frame have been scratched out with a blade, and the door is slightly ajar. The square-framed windows reveal nothing on the inside; the house is pitch black.
+A DC 12 Wisdom (Perception) check notices about a dozen humanoid footprints moving to and from the entrance. The vampires smashed the mirror and scratched out the holy wards before entering the house. A dark presence has gripped the house ever since the night the vampires attacked (see "Background: Voldaren's Lesson").
+Magical Darkness. The insides of the house is enveloped in a pitch-black magical darkness that functions as the Darkness spell, except that light sources do work to an extent, offering dim light within a radius of 15ft. - beyond that is total darkness. If the darkness is dispelled, by Daylight or something else, it returns 1d6 rounds later.
+Spooky Stuff. In addition to the magical darkness, feel free to add any flourishes to this haunted house as you see fit. For example, a wall may suddenly begin to bleed, the eyes of portraits may follow the PCs, a random PC might hear voices or see figures for a brief moment before they disappear. Have fun with it!
+
+The Restless Spirit
+The late mayor's restless spirit now haunts the house as a poltergeist (MM 279). Putting him to rest is the only way to rid of the house's haunting.
+Ralph senses the character's intrusion and stalks them as they explore the house. Though he moves in complete silence and is permanently invisible, the characters feel his presense; the air grows cold, a chill runs up their spine, and they feel they're being watched.
+Ralph will make his displeasure known if the party attempts to loot or otherwise disrespect his home by telekintetically shaking or throwing furniture.
+Characters can possibly avoid the spirit's ire by convincing Ralph that they are trying to help. By explaining that they're here on behalf of the Church, or that they want to help the people of Shadowgrange, or other compelling arguments that they can think of, they may be able to get Ralph's spirit to back down and maybe even stop haunting the house. If they make a reasonable argument, allow a character to make a DC 15 Charisma (Persuasion) check to get Ralph to back down.
+Spooky Mirrors. While Ralph is permanently invisible to the naked eye as a poltgergeist, his spectral reflection still appears in the dozens of mirrors littering the walls.
+
+Ground Floor
+Inside, assuming the characters have a light source:
+Shards of glass and dried blood litter the entryway floor. A hallway leads to two rooms ahead. A bloody handprint trails along the wall out of the closest room and onto the staircase's handrail, which spirals up around the large hawthorn tree growing in the center of the house and up to the second floor.
+The two rooms on the main floor are the kitchen in the back and the common room. The kitchen has been untouched, but the common room is (quite literally) a bloody mess. There are clear signs of battle such as slashed furniture and scorch marks. Blood splatters cover the walls and ceilings. It was here the vampires clashed with Ralph and Katarina.
+Slumped beside one of the walls is the decaying corpse of Ralph Brunn, the source of all the blood. The vampires had some "fun" with him. The mayor's body still wears his mithral chain shirt (DMG 187) underneath his clothes -- not that it helped him in the end.
+
+Second Floor
+The staircase leads up to the second floor. The hallway to the right leads to two bedrooms: Ralph's and Katarina's. To the left is the music room, where the hand-smeared 1trail of blood leads to. Ralph's bedroom has everything you'd expect in a well-off village leader's room. Underneath his bed is a sturdy, unlocked wooden chest holding some emergency savings. It contains 60 sp, 40 gp, and a silk pouch containing five tiger eyes (10 gp each) and two moonstones (50 gp each). Amongst the nice variety of clothing in his closet are two pairs of priestly cloth-of-gold vestments with Avacyn's Collar embroidered on the front and back, each worth 25 gp.
+Katarina's bedroom is also fairly mundane. Her wardrobe contains a set of battle-worn cathar leathers, the uniform of holy warriors of the Church of Avacyn and functions as studded leather (see "Armor" in the rule book). Unlike her father, Katarina's closet lacks an array of regal clothing; she was more interested in fighting and doing in practical clothing instead of playing politics in pretty dresses.
+There is an unsealed letter tucked into a book on Katarina's desk, which can be found with a thorough search of the room and a DC 10 Intelligence (Investigation) check. The letter is written by her and is addressed to her uncle, Hanns Reinhart. In it, Katarina begs her uncle to come to Shadowgrange at once, as she needs his expertise on silver and the moon to unlock a puzzle of "great importance." Apparrently Hanns has disappeared for years now, but Katarina is convinced that he is still alive somewhere, and this letter is the last of many sent to all the safe houses of his that Katarina knows of.
+
+Music Room
+The hallway opens up into a large ornate room with an arched ceiling. Paintings line the wall, along with smashed mirrors. In each corner of the room are instruments: a piano with a pile of sheet music placed on it, a violin on a stand, a harp, and a bloody flute on the floor next to a knocked over music stand.
+There are a few music instruments in this room: a piano, a bloody flute, a harp, and a violin of banishing light. There are also three paintings: one depicts a canary sitting in a rusted bird cage beside a locked chest, another shows a flight of angels driving back demons emerging from a fiery chasm, and the last one is a portrait of a regal looking man with a handlebar mustache; Bernard Brunn, grandfather of Ralph Brunn.
+After messily murdering Ralph, a few vampires sauntered upstairs for a little entertainment. The bloody-handed vampire played on the flute for a bit before they got bored and left. They also smashed the mirrors so they didn't have to look at their own monstrous reflections.
+
+Music Puzzle
+The following is a puzzle using sheet music as props. You can run the puzzle multiple ways:
+If a a player can read sheet music, let them figure it out.
+Bard characters can automatically read sheet music
+Characters proficient in a musical instrument can automatically read sheet music
+Silvia, the fletcher at Fleeting Fox Provisions, is known in town to be a talented violinist. If the characters ask around for someone that can read sheet music, they are pointed to her.
+
+The piles of sheet music on the piano are mostly of popular songs known to Innistrad natives, but a thorough search of the room and an Intelligence (Investigation) check DC 15 notices that two sheets of music buried in piles of paper stand out from the rest. Both have been hurriedly written on with ink (Katarina wrote on them right before the impending vampire attack). One says "READ," the other says "PLAY." Neither of them are songs that a local would recognize.
+The "PLAY" sheet has a song on it that wants to be played. Any song will do, but the song used during this adventure's playtest was Pan's Labyrinth: Lullaby. If anyone starts playing the song, either on an instrument, singing, or humming, characters feel a sudden compulsion to pick up the violin of banishing light. If they do, they find out that they can play the song even if they have no experience with a violin before. Playing the song activates the violin's magical properties, flooding the room with light as the Daylight spell, and driving back the darkness. The Daylight spell ends as soon as the character stops playing.
+The "READ" sheet has music notes that, when you look at the corresponding letters, spell out "AGED CAGE". One of the paintings on the wall is of a canary sitting in a rusted bird cage - an aged cage. Saying, "aged cage," out loud opens the chest in the painting with an audible creak. Once opened, a character can reach into the painting (which now acts as a portal to a tiny pocket plane) and retrieve from the chest the Strionic Resonator. The artifact is not whole: the tuning fork is missing one of its prongs (tines). It was cleanly removed; Katarina gave the piece to Siegfried for safekeeping the night the vampires attacked, gambling that the Voldarens may find one piece, but not both.
+
+Developments
+When Ralph's ghost is either destroyed or appeased, the darkness shrouding the house disappears. Priestess Flora happily pays the party what they're owed (see "Chapel") and gives them the key to the alchemist's shop. Word quickly spreads throughout the village of the party's deeds. Villagers will be much friendlier to the characters, thankful to have strong adventurers in their midst during these bleak times.
+None of the villagers know what the artifact is, otherthan pointing out that it looks like a tuning fork with a piece missing. Flora knows that Katarina was experimenting with something on behalf of the Church, and that the only other people that may have known about it would be her father, Ralph (dead), and her fiancee, Siegfried (fled). If the characters aren't tight-lipped about the artifact, word about it could spread and may catch the attention of dangerous folk (the Skirsdag or worse) that would be more than happy to "relieve" the adventurers of their new-found item.
+
+Awarding Experience Points
+Divide 450 XP equally among the characters if the party deals with Ralph's spirit. Divide 1,250 XP equally among the characters if the party recovers the Strionic Resonator.
+
+
+Conclusion of Part 2
+Part 3 begins after the adventurers retrieve the Strionic Resonator. You may choose to delay Part 3 if the adventurers still intend to explore the town further, as this may be their final opportunity to do so.
+
+
+Milestone: Level 3!
+If you are using Milestone Experience, then the characters attain 3rd level as you move to Part 3.

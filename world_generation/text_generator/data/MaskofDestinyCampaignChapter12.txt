@@ -1,0 +1,106 @@
+At this point in time there are several possible outcomes. Either the PCs have defeated Shar and they have the masks or Shar has the masks. Lets look at both possibilities.
+
+Current Situation in the Story: Shar has kept the Mask of Divination around her neck under her clothes at all times since she took it from the PCs. Only she knows of this secret. She had a duplicate mask made with a fake magical aura. She placed this fake in her personal trapped chest with the other masks. With the mask of divination she can always find the other masks if they are stolen. All of the remaining masks at this point are in the hands of Baron Ganth. He has spent a lot of resources recovering all the masks. Shar detected the next mask nearby because Ganth is setting a trap for her outside the dig site. Blackthorn has been tracking the party which led him to Shar.
+
+OUTCOME #1 The PCs Recover the Mask of Illusion for Shar: After the PCs recover the mask of illusion, Shar wants to secure all the masks, pay the workers, and leave the dig site. The first thing Shar will do is to place the new found mask in her chest (she has the only key) and place a dozen trusted guards in and around her tent and the chest. She will then tell Proth to pay off the workers and remaining guards in the camp. She will go over to where the PCs are being held and advise them they are free to go. When asked about Elan and Omar she will tell them that they are safe and somewhere in the camp. She tells them to search for themselves. This buys her some time to leave the camp.
+
+If the PCs threaten her or attack here she will yell out at 1st opportunity "kill the prisoners" as she fights. Her henchmen and extra guards will arrive within 6 rounds. Shar will fight defensively till then. Shar will not hesitate to kill all the PCs if threatened.
+
+Assuming Shar is not attacked she will return to her tent finding the two guards protecting the chest asleep and the chest missing. She will summon all the Marauders to her tent to discern where the chest is. Even the PCs will be taken in here. As a DM I would suggest you call out the names of all the Marauders in the tent except Phantasm. During Shar's rounds in the camp Phantasm made his move, slept the guard, and stole the whole chest using spells and illusions. Shar will begin a search party for Phantasm at once. She will still let the PCs go as they would only hinder her efforts.
+
+If the PCs don't search for Phantasm then Shar will return to camp, finish packing up, and leave the camp. She will pursue the masks on her own unless questioned or stopped. if the PCs let all this happen then they are on their own from here.
+
+Unfortunately for Phantasm he will run into trouble escaping through the woods. Blackthorn and his men have tracked the PCs to the dig site and kept close surveillance on what's going on. He and his men will ambush Phantasm in the forest. The PCs should think it upon themselves to try and find Phantasm or help Shar find him. Eventually both will find what remains. Have PCs and Shar find the ambush site within 2 minutes of one another. Read this to the PCs
+
+"You come upon a small clearing of trees. In the center of this clearing is the clothes of Phantasm, pierced and slashed. The strange mage's clothes seems to have suffered at least a dozen wounds although no blood or corpse can be found. Surrounding the mage's clothes are five scattered corpses of armed soldiers. None with any physical injury or harm on their body. Only their faces give away their demise, twisted and contorted in terror. They were literally scared to death it seems. By the markings on the ground there was a struggle of at least twelve other men with the arcane mage. A large rectangular depression appears in the dirt close to the remains of Phantasm from where the chest was dropped. Within the depression is a note with Phantasm's dagger stabbed through it. "All good things come to those who wait." signed Blackthorn.
+
+When Shar arrives at the site of Phantasm's last battle her fury at the betrayal will be very apparent. She will not focus her anger on the PCs as it was not their fault but if provoked she may punch one. Any PC with tracking will be able to verify the battle, and the number of men involved.
+
+OUTCOME #2 The PCs Recover the Mask of Illusion themselves: Shar may be dead or alive for this situation. If she and her group have been killed by the PCs then they have all the masks. If they only got away with the mask of illusion then Baron Ganth will attack the camp and ambush the PCs at the same time. In the end he will have all the masks or most of them.
+
+After the PCs leave the camp they will be followed by Blackthorn and his men. Blackthorn will send one of his men ahead to the Baron's army so they may set a trap for capturing the PCs. Even though the masks are supposedly indestructible Baron Ganth wants to take no chances and orders his army to disable and capture the PCs. As the DM make this happen. The wizards below are part of Ganth's army along with the 300 men to ambush the PCs. Several of the wizard spells are to be used to disable the PCs. If need be use more spell casters and tricks to make sure the PCs go down, beat them into unconsciousness.
+
+Brazke, male human WIz7
+Wizards, male human Wiz7: CR 7; Size M (5 ft., 3 in. tall); HD 7d4+14; hp 36; Init +1 (+1 Dex); Spd 30 ft.; AC 11 (+1 Dex); Attack +2 melee, or +4 ranged; SV Fort +4, Ref +3, Will +7; AL N; Str 9, Dex 13, Con 14, Int 14, Wis 10, Cha 11.
+
+Equipment: Dagger, robes, cloak, Wand of Hold Person (12 charges, at 10th level)
+
+Languages Spoken: Common
+
+Skills and feats: Concentration +12, Craft +11, Disguise +1, Hide +1, Innuendo +1, Knowledge (arcana) +13, Knowledge (Xoth history) +11, Listen +0, Move silently +1, Ride +6, Scry +3, Spot +0; Craft magic arms and armor, Craft wondrous item, Heighten spell, Iron will, [Scribe scroll], Skill focus (knowledge (arcana)).
+
+Wizard Spells Known (4/5/4/2/1):
+0th: All.
+1st: Change Self, Feather Fall, Identify, Mage Armor, Magic Missile, Shield, Shocking Grasp, Spider Climb.
+2nd: Blindness/Deafness, Blur, Knock, Levitate, Summon Monster II, Web.
+3rd: Dispel Magic, Fireball, Hold Person, Magic Circle against Evil, Slow, Stinking Cloud.
+4th: Charm Monster, Improved Invisibility, Polymorph Other, Wall of Fire, Wall of Ice.
+
+Trimbue, male human WIz7
+Karim, male human Wiz7: CR 7; Size M (5 ft., 11 in. tall); HD 7d4+7; hp 27; Init +3 (+3 Dex); Spd 30 ft.; AC 13 (+3 Dex); Attack +4 melee, or +6 ranged; SV Fort +3, Ref +5, Will +6; AL N; Str 12, Dex 16, Con 13, Int 18, Wis 13, Cha 8.
+
+Equipment: Staff, Robes, Gem of Seeing (1 charge)
+
+Languages Spoken: Common, Orc
+
+Skills and feats: Alchemy +12, Appraise +5, Bluff +2, Hide +3, Intimidate +2, Knowledge +13, Knowledge (religion) +13, Listen +1, Move silently +3, Open lock +5, Profession +8, Scry +10, Spot +5; Heighten spell, Maximize spell, Quicken spell, [Scribe scroll], Spell penetration, Still spell.
+
+Wizard Spells Known (4/5/4/3/2):
+0th: All.
+1st: Change Self, Charm Person, Enlarge, Identify, Mage Armor, Magic Missile, Shield, Shocking Grasp, Silent Image, Sleep, Spider Climb.
+2nd: Blindness/Deafness, Invisibility, Knock, See Invisibility, Summon Monster II, Web.
+3rd: Evard's Black Tentacles, Fireball, Haste, Hold Person, Slow, Stinking Cloud.
+4th: Confusion, Improved Invisibility, Polymorph Other, Wall of Fire..
+
+Ulek, male human WIz7
+Svatt, male human Wiz7: CR 7; Size M (6 ft., 0 in. tall); HD 7d4+21; hp 44; Init +2 (+2 Dex); Spd 30 ft.; AC 12 (+2 Dex); Attack +5 melee, or +5 ranged; SV Fort +5, Ref +4, Will +7; AL N; Str 15, Dex 15, Con 17, Int 18, Wis 14, Cha 14.
+
+Equipment: Staff, robes
+
+Languages Spoken: Common, Gnome, Elf
+
+Skills and feats: Alchemy +13, Craft +13, Hide +2, Knowledge +14 (history), Knowledge (magic) +14, Knowledge (religion) +13, Listen +2, Move silently +2, Profession +9, Scry +16, Spot +2; Empower spell, Leadership, Quicken spell, [Scribe scroll], Skill focus (scry), Still spell.
+
+Wizard Spells Known (4/5/4/3/2):
+0th: All.
+1st: Charm Person, Chill Touch, Color Spray, Feather Fall, Identify, Magic Missile, Obscuring Mist, Shield.
+2nd: Alter Self, Levitate, Melf's Acid Arrow, Mirror Image, Tasha's Hideous Laughter, Web.
+3rd: Dispel Magic, Fireball, Invisibility Sphere, Slow, Stinking Cloud. Summon Monster III.
+4th: Crushing Despair, Fear, Globe of Invulnerability (Lessor), Summon Monster IV, Wall of Ice.
+
+300 soldiers, male human War1
+Soldiers, male human War1: CR 1; Size M (5 ft., 10 in. tall); HD 1d8+1; hp 8; Init +5 (+1 Dex, +4 Improved initiative); Spd 30 ft.; AC 16 (+1 Dex, Chainmail); Attack +3 (+1 Focus, +1 Base, +1 Str) melee, or +2 (+1 Base, +1 Dex) ranged; (longsword 1d8 +1, crossbow 1d8) SV Fort +3 (+2 Base, +1 Con), Ref +1 (+0 Base, +1 Dex), Will +0 (+0 Base); AL N; Str 12 (+1), Dex 12 (+1), Con 12 (+1), Int 11 (0), Wis 10 (0), Cha 10 (+0).
+
+Skills and feats: Hide +2 (+1 Rank,+1 Dex), Intimidate +4 (+4 Rank), Listen +0, Move silently +1 (+1 Dex), Ride +3 (+2 Rank, +1 Dex), Spot +0; Weapon Focus (longsword), Improved initiative.
+
+EQ: chainmail, dagger, longsword, light crossbow, 20 bolts.
+
+After the PCs are subdued they will be tied up chained to one another, spell casters will be gagged, and they all will be closely guarded so they do not escape. 3 Wizards and 25 soldiers will be assigned to guard them. The PCs have enough chain to walk at 1/4 their normal speed at best. If they try to escape the guards and wizards will have no worries about killing them. The PCs are stripped of their gear of course.
+
+As soon as the last of the PCs is awake one of the guards will leave. Within 3 minutes a man of nobility will enter the tent keeping his distance from any attempt at his life. Around his neck is the mask of abjuration. He introduced himself as Horatius Ganth, Baron of the lands of Ganth. "I was such a fool chasing after each mask. I expended resources and men in the pursuit of them and you. I finally realized that all I had to do is follow you. You would eventually find the masks and I would eventually take them from you all at once. It is a pity about all of you. You are resourceful, intelligent, and full of surprises, qualities I find in myself. I would love to have you working for me, but we both know that is not possible." The Baron sighs. "So the only thing left to wonder is what to do with all of you. I suppose that all I can do is let you go." With that the Baron leaves the tent. He will politely answer questions if asked only telling the truth when it serves him. After a few questions he will say he has other duties to perform and leave.
+
+In truth the Baron will not let the PCs live. About 20 minutes after the Baron leaves the 3 wizards and 15 of the men will politely escort the PCs to a clearing and tell them that the Baron wants to make sure they leave in the opposite direction of his army. They will not untie the PCs but tell them to start walking and they will watch till they are out of site. At the other end of the clearing on a tree lies their key to freedom from the chains.
+
+When the PCs get about 50' away any party spell caster will hear the chanting from the 3 wizards, a fireball spell. Give the PCs half action to react to the threat of being triple fire balled, no save. Of course there is no action they can take to prevent their demise. After they have done their actions read them this passage.
+
+"All three wizards in unison unleash their fiery spell. Three small beads appear from their hands and begin to take flight toward you. Knowing your end is within moments, fear and frustration quickly take hold knowing there is nothing you can do to prevent this demise… Only a miracle can save you now…. As quick as each fire bead began its journey so it ends. The beads of fire explode within just a few feet from the spell casters and soldiers. Screams of burning men echo in your ears as you watch what seems to be the impossible happen, a miracle."
+
+At this point an old man will step out from a wooded part of the forest into the clearing complaining about the underbrush and branches hitting him in the face, it is Charilus. "All that work and you end up losing the masks!" He looks very annoyed as he glances at everyone. He continues complaining about how the PCs lost the masks and all that wasted time spent trying to gain them. After a few seconds Elan runs up to her father and hugs him teary eyed thankful that he is alive. Charilus quickly stops complaining and hugs his daughter back. He finally calms down.
+
+Charilus and Outcome #2 where the PCs are captured by Baron Ganth: Charilus was keeping an eye on the PCs from a distance when he realized they left the camp with the masks. He caught up with them after they were captured. He used an invisibility spell to stay nearby trying to find a spot to rescue them. He knew that he could not take out all those men and 3 wizards with a single spell. He might disable or kill some but they would eventually overpower him, so he waited. Once Charilus overheard the 3 wizards discuss how they were going to execute the PCs he figured out how to take out all the men and wizards with a single spell. Just before the fireballs went off Charilus cast a wall of force, from a distance, between the wizards and the PCs. Since a wall of force is invisible and a fireball explodes when they come into contact with something solid… well you can figure out what happened. If the 3 fireballs had not taken out the group Charilus would have cast his own the next round. If you wish you may add this to the scenario for effect.
+
+If Shar was ambushed in her camp Charilus will point out that she is resting near one of the trees. He found her half dead during the battle and dragged her off to safety. The rest of the Marauders are dead. After healing her a bit he realized she had the mask of divination on her. Since the mask was bounded to her she would be able to use it the quickest. He decided to bring Shar with him to rescue the party. Shar is very injured at this point and has only 5 HPs left. Shar will insist on going with the party to recover the masks.
+
+If Shar and the Marauders are alive (Phantasm stole the masks and got killed) then they will make an attempt on their own to recover the masks unless the PCs can convince them otherwise.
+
+If Shar is dead then the Baron will have all the masks and their task will be much harder to defeat Xoth.
+
+If the PCs ask about Charilus's demise after the encounter with Xoth he will explain that the power of his own magic and the magic of the masks possibly allowed Xoth to form and go after them. He decided to keep in hiding researching more on the masks and staying away from the PCs. But now that all or almost all the masks are with the Baron there is no need for him to stay hidden.
+
+Charilus has discovered more history on the masks. He knows of the binding spell needed to form the masks and bring back Xoth to mortal form. He does not know of the phylactery within the mask of alteration.
+
+Now the PCs must stop the binding spell from being performed or they will have to face Xoth in human form. The binding spell will return Xoth back to life and place the Baron's soul within the phylactery.
+
+When playing Shar remember her goals and mission. Use judgment with her to justify her actions. There are only two possibilities. She is alone and wants to go with the PCs to recover the masks or her and her Marauder's lost the masks and will recover them alone. Play her accordingly depending on how the PCs interact with her. In the end the PCs should try to incorporate Shar into the plans. It will only help them in the end.
+
+The PCs will find that there are two of the Baron's wagons left behind at the camp. Ten soldiers were left guarding them waiting upon the arrival of the group sent to dispose of the PCs. In this wagon will be their equipment.

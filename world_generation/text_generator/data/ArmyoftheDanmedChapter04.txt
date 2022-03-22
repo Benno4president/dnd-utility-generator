@@ -1,0 +1,221 @@
+Part 4: Into the Farbog
+
+In this part of the adventure, the characters travel to Mauer Estate, located at the northern edge of Stensia's outer valley. To do so, they will need to journey through a large bog that divides the southern part of the valley from its northern tip.
+Depending on which NPCs the characters met and which quests or clues they picked up, some or all the following information might be known to them:
+
+Priestess Flora wants the characters to travel to Mauer Estate and uncover the source of the undead.
+
+Rinelda Smit can confirm that Siegfried is the creator of the undead armies and is working at Mauer Estate.
+
+Silvia Wintsch wants the characters to bring her any sanguine lotus they find in the bog.
+
+Siegfried holds the missing piece of the Strionic Resonator, which some of the characters may have been tasked to retrieve for the Church of Avacyn.
+
+
+Farbog Superstitions:
+If the characters agree to Priestess Flora's request to check out Mauer Estate, she thanks them for their courage and commitment to righteousness. Flora warns them to be careful while traversing the farbog (Innistrad's fancy term for bog/swamp) that the adventurers must pass through to reach the estate. In particular, she warns them about hellhounds: "I know you're strong and capable adventurers, but trust me, if you come across a hellhound... run." This warning is particularly important to give the characters, as it sets up the "Hounds of Baskerville" encounter.
+Once the characters accept Flora's mission, word spreads around town of the character's impending journey through the farbog (Flora tells her clergymen, they tell friends and relatives, and it spreads). Helpful, but superstitious townsfolk approach the party members and offer advice on how to stay safe. The suggestions range from reasonably insightful to ignorance. Some suggestions include:
+
+Never stare into a hellhound's eyes or it will devour your soul.
+
+Eat wormwood and other bitter herbs; it will make you less palatable to things that roam the night (the townsfolk that suggests it offers the character some of the aforementioned herb).
+
+Travel by day and rest at roadside shrines by night.
+
+If you hear howling at midnight, someone close to you will die.
+
+Be quiet while traversing the ancient grafs (Innistrad's fancy term for "crypt") inside the farbog, lest you wake the dead.
+
+Pale ghosts are the friendly kind, except when they're not.
+
+Travel by night and rest at roadside shrines by day.
+
+If a black cat crosses the road in front of you, it's asign of bad luck. 
+
+If the characters ask about the farbog itself, they can find out from various townsfolk that it's a treacherous swamp that people avoid if possible. One prominent rumor is that the farbog used to be a beautiful forest with one of the most influential settlements in all of Innistrad, but an evil tainted the forest, turning it into the farbog it is now.
+The bog has a well-known reputation for being the residence of hellhounds, though it's also said that few folk are lucky enough to see one and live to tell the tale. Others mention that ancient grafs dissolve into the muck, causing the restless dead to stir as geists (spirits) and ghouls.
+
+
+Traveling to the Swamp:
+It takes one day of traveling north through the outer valley to reach the farbog. A few abandoned communities can be found in between Shadowgrange and the bog; the undead horde passed through these settlements on their way to Shadowgrange, killing most of the inhabitants and sending their corpses back to Mauer Estate. None of these communities are remarkable: each is comprised of outlying farms and cabins huddled together, with a modest chapel for prayer. If you wish, you can place one of these villages in the path of the characters, offering the opportunity to explore the wreckage. Perhaps a few people managed to survive the undead's rampage and still live here. Or maybe some undead still linger in the area, hungering for the living.
+The zombie horde left Mauer Estate and trekked south, through the farbog, through the small villages, all the way to Shadowgrange. Their footprints are easy to spot and follow back to the estate. In addition to footprints, heavy wagon wheels can be followed. These wagons were carried by the horde and filled with corpses. Once filled, the wagon would be hauled back to Mauer Estate, where Siegfried would use them in his experiements.
+
+
+The Farbog:
+Once the adventurers enter the farbog, read or paraphrase:
+
+The grassy plains of the valley dampens into inky black muck as you enter the farbog. Barren pine trees sink into the mud at odd angles, creating a tangle of dead trunks. A dreary grey mist envelopes the area.
+
+The farbog is muddy, damp, and stinks of rotting vegetation. A mist surrounds the area; it doesn't impede nearby vision, but anything beyond 300 feet disappears behind the grey curtain.
+The ground is a mix of muddy earth and shallow bog. Traveling through here is considered difficult terrain. The zombie horde mostly stuck to the main road that passes through the swamp; adventurers following the main road or zombie horde can easily track hundreds of shambling footprints and heavy wagon wheels dragged through the muck.
+Following the main road, which runs north to south, is the easiest way to journey through the swamp towards Mauer Estate.
+
+
+Swamp Encounters:
+Traveling through the swamp takes one day. Along the journey through the farbog, the characters will partake in three of the following events below (though feel free to run as many events as you wish!).
+Choose three of the events, marking when they occur (day/night). Alternatively, roll a D6 and consult the Swamp Encounters table to determine what the party meets, rerolling any 6 or duplicate results.
+The difficulty of combat encounters and their subsequent XP awards assume a party of four level 4's. If this is not the case in your game, or if you wish to make the combat easier or harder, you may tweak the combat encounters to your desired difficulty.
+
+
+1-The Hounds of Baskerville:
+This encounter works best if the characters have been previously warned about hellhounds in the swamp (See "Farbog Superstitions").
+As the characters journey through the swamp, they pass by the sunken remains of a long-forgotten village called Baskerville. What little remains of the crumbling and sunken village structures is barely recognizable in the overgrowth and muck. The skeletal remains of many of the villagers can be found littered around the area. A Wisdom (Medicine) DC 12 reveals none of them died from physical violence. A Wisdom (Insight) DC 15 check indicates that the people appear to have all died in a state of absolute terror.
+The area filled with gloomgas mushrooms. These mushrooms release spores with hallucinogenic properties as the characters pass through. The spores fill the air and mixes invisibily with the surrounding fog.
+The gloomgas mushrooms grow at the base of the surrounding pine trees, blending perfectly with the bark. The spore clouds are released with a low rumbling sound that echoes throughout the area and is almost impossible to pinpoint its origins. Characters can spot one of these mushrooms with a DC 25 Perception check. A Nature DC 20 can identify a spotted gloomgas mushroom.
+Every round that a character is exposed to the spores, they must make a DC 15 Constitution check or be poisoned by the spore's hallucinogenic properties. Characters that don't breathe or are immune to poison are unaffected. Since the characters traveling through this part of the swamp are likely exposed to the spores for minutes or longer, it can be assumed that anyone not immune is eventually poisoned.
+A poisoned character gradually begins to hallucinate. Read or paraphrase for them:
+
+The fog grows cloyingly thick and surrounds you utterly. The pine trees seem taller here, leaning over you as if to snatch you with gnarled, claw-like branches. The muck you trek through sucks down your foot more with each step you take, making it harder to move. The world is closing in on you. 
+Then you hear it: a low rumbling growl that emanates all around you. The growling gets louder; its tone is of sheer malice.
+
+The growling sound is a perversion caused by the hallucination: it is actually the rumbling sound of the gloomgas mushrooms, but when heard by someone hallucinating from the spores, it sounds like a monstrous hound growling. This is the origin of the hellhound rumor. Give the poisoned characters a moment to react to the sound. Afterwards, read or paraphrase for them:
+
+You spot them out of the corner of your vision: twin fiery red orbs burning through the cloak of fog. They move closer, and you see the rest of the figure emerge - a monstrous hound, as tall as a human, stepping forward on thick, muscular legs. As it growls, the beast exhales embers from its open maw filled with razor-sharp teeth and revealing a hot glow emanating from its throat.
+You hear more growling from behind. Turning around, you see a second fiendish hound approaching from the opposite direction. Suddenly, the two beasts rush toward you in a full sprint, their eyes blazing with unbridled hatred.
+
+These 2 hellhounds are actually hallucinations caused by the gloomgas mushroom's spores. Only characters hallucinating from the spores can see, hear, or be affected by them. The hounds circle around and strike at the weakest looking character, using their pack tactics to eliminate the target quickly before moving to the next. They use their Fire Breath if they can hit two or more characters with it. All damage dealt by the hounds to hallucinating characters looks like physical wounds, but in fact the characters are unknowingly taking psychic damage instead.
+There are a few ways for a poisoned character to recognize the illusion. When a character is damaged for the first time by a hellhound, they must make a DC 15 Wisdom saving throw. On a success, they notice something "off" about the hellhound - its features are hazy and blurred, it leaves no footprints, there's no weight to its attacks, etc. After this success, they can spend an action to concentrate on the hound, making a DC 10 Wisdom saving throw. On this success, the character shakes off the hallucination and the hellhounds disappear for them.
+Alternatively, a character not hallucinating can help a poisoned ally shake off its effects by convincing the person that no hell hounds exist. They can stand in the same spot as where the "hellhound" stands, or try to explain that they are hallucinating, or anything else they can come up with. Doing so takes an action. When this is done, the ally can immediately make a DC 10 Wisdom saving throw.
+
+Awarding Experience Points
+Divide 1,400 XP equally among the characters if the party defeats the hell hounds and/or shake off the hallucination.
+
+
+2-Whispers of Hope and Doom:
+As you journey through the bog, you hear a shrill scream emanating from all around you. A dark red mist emerges from the ground all around you, mixing with the pervasive fog, thickening like a blood clot. The red mist envelopes the area, so thick that you can barely see your hand in front of you. Your entire body is quickly covered by a thin layer of this bloody substance, and the air smells of fire and brimstone.
+The adventurers walk through a part of the farbog that is home to a colony of hellscream fungi that thrive on the rotting vegetation languishing in the muck. The fungi release a cloud of spores as the adventurers pass by, enveloping the surrounding area in a thick bloody red 200 ft. radius "fog" that smells similar to fire and brimstone. The opaque fog heavily obscures vision. The spores coat exposed surfaces -- including the adventurers -- but are otherwise harmless. The fungi can be identified with a successful DC 20 Intelligence (Nature) check. The spore cloud disperses after an hour.
+Unfortunately for the adventurers, the spore cloud is the least of this area's hazards. As they wander through the spore cloud, a will-o'-wisp (p301) approaches them.
+
+You see an orb of warm light pierce through the red fog. As it bobs up and down excitedly, you hear a faint whisper that says, "Follow me, travelers. You are grave danger here. Hurry!"
+
+Technically, the wisp does not lie: the adventurers are in grave danger. But the wisp is the danger. An adventurer that does not trust the wisp can roll a Wisdom (Insight) check against the wisp's Charisma (Deception) check (+0) to gauge its intent.
+In truth, the wisp aims only to distract the adventurers and lead them in circles inside the spore cloud, because this is the hunting ground of its master, a grell. If attacked, the wisp goes invisible and backs away, content to watch its master feed hile it hisses taunts at the adventurers. If the grell is killed however, the wisp lashes out in a rage, spitting curses and vile phrases as it fights to the death. (Note that the wisp's vision is heavily obscured by the spore cloud.)
+Meanwhile, the grell tries to sneak up behind the group. With its blindsight, the aberration isn't affected by the spore cloud at all. If all the adventurers are effectively blind then the grell automatically succeeds in sneaking up, as it makes no sound while flying and the adventurers can't see it. Otherwise, roll a Stealth check (+6) against the Passive Perception of adventurers that can see through the spore cloud. The aberration attacks anyone that gets separated from the group. If no opportunity arises, it attacks an adventurer that stands at the back of the group. The grell tries to grapple and paralyze its prey and then float away back to its lair with the character paralyzed character in its clutches.
+
+Developments
+The grell lairs in a makeshift treehouse made of petrified wood up in the strong, sprawling branches of a nearby oak tree. The treehouse is a single room that houses the grell's nest made up of twigs and small branches. There are no ropes or ladders to reach the house, but an adventurer can climb up to it with a DC 10 Strength (Athletics) check.
+If the grell manages to sneak off with a paralyzed adventurer, it brings them here before knocking them unconscious to be a meal for later.
+
+Treasure
+Scattered inside the treehouse is a small collection of items the grell kept from its previous victims. Rummaging through the nest will uncover 30 cp, 15 sp, 5 gp, a bag of holding (DMG p153), and a wizard's spellbook with the following spells written inside: alarm, color spray, thunderwave, unseen servant, arcane lock, rope trick.
+In addition, there is a small ribbed glass bottle with a sparkling silvery gas floating inside. This is a message bottle. Uncorking the bottle releases the gas, and all in the immediate area hear the voice of the will-o'-wisp begin to speak, "it killed me... I watched it devour my body while I could do nothing... NOTHING! This damned beast! I hate it! It is invulnerable, cannot be killed, my master..." With that, the silvery gas dissipates.
+The will-o'-wisp was once a traveler that was killed by the grell. With an all-consuming need for revenge, it assaulted the grell, only to find out that the aberration was completely immune to its electricity attack. The wisp was slowly driven insane by this revelation, and in a cruel irony, its shattered psyche came to love the grell that murdered it, helping the creature feed on passing travelers.
+
+Awarding Experience Points
+Divide 1,250 XP equally among the characters if the party defeats the grell and the will-o'-wisp.
+
+
+3-Deadly Lotus:
+Before running this event, it's important that you as the DM know what the party's marching order is. Specifically, you need to know who is marching in front and how close people are following behind. This is a good habit to know in general, but this particular event requires it.
+
+Your dulled senses trekking through the dreary swamp suddenly perk up as you notice sharp, vibrant patches of red that practically glow in the muck ahead of you: beautiful red lotus flowers floating in the shallow water.
+
+A DC 15 Wisdom (Perception) check spots the remnants of lotus flowers around the area, but they have been trampled and destroyed by the zombie horde. A dozen of the flowers up ahead are untouched, however, as there are no footprints around them.
+A DC 15 Intelligence (Nature) check correctly identifies these as the rare sanguine lotus, whose petals are used to create powerful healing potions. If the adventurer has the quest "Find the Lotus" from Silvia, then they automatically identify the plant. The sanguine lotus are harmless and pose no threat to the characters.
+The quicksand that the lotus petals float in, however, is definitely a threat. The patch of quicksand is 20 feet in diameter. A DC 15 Survival check tells a character in advance that something is not right with the patch of ground containing the quicksand, but the character must actively be searching for such dangerous ground. Running or charging characters have no chance to detect the quicksand before falling prey to it.
+Any character marching in front that isn't aware of the quicksand will step in it. If one or more adventurers fall into the quicksand, read:
+
+Your walk comes to an abrupt halt as you notice your feet have become stuck in a pool of silty water. Your feet don't budge, and a moment later you start to feel a crushing weight on them as you slowly begin getting sucked down into the muck.
+
+Once a creature has set foot in quicksand, its natural tendency is to struggle to free itself. Any type of struggle will actually have the opposite effect. Moving any portion of the body that has been submerged causes the sand to shift from underneath the moved body part, thus sucking it deeper into the morass. The best way to escape quicksand is to simply lie still. Once a creature stops struggling, it will naturally float just as it would if it were in a pool of still water, albeit rising more slowly due to the weight of the sand.
+
+Effects of Quicksand: Characters in quicksand must make a DC 10 Swim check every round to simply tread water in place, or a DC 15 Swim check to move 5 feet. Failing these checks by 5 or more results in sinking and the very real possibility of drowning.
+
+Rescue: Pulling out a character trapped in quicksand can be difficult. The rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a DC 15 Strength check to successfully pull the victim, and the victim must make a DC 10 Strength check to hold onto the branch, pole, or rope. If both checks succeed, the victim is pulled 5 feet closer to safety. If the victim fails to hold on, he must make a DC 15 Swim check immediately to stay above the surface.
+
+The quicksand isn't the only danger here, however. A lumberknot (statted as a shambling mound) lies dormant nearby, perfectly blended into the undergrowth. When an adventurer falls into the quicksand, the lumberknot comes to life and lurches towards the party to consume them.
+
+Suddenly the undergrowth near the quicksand rises from the ground. A rotting heap of oak looms up half again as tall as a human, its midsection bursting open to reveal a cruel gaping "maw" crowned by rows of savage, stake-like "teeth." It shambles towards you, the roots and vines wrapped around its figure animating and stretching out in your direction.
+
+The lumberknot moves at a slow 20 feet, so adventurers not stuck in quicksand can potentially outrun it. If brought below 30 hit points, the treefolk feigns death, collapsing into a rotting heap of inanimate vegetation. If not subsequently killed, the central root-stem, the lumberknot's "brain," beds down in its remains to slowly regrow its full body.
+
+Developments
+The adventurers can collect up to a dozen sanguine lotus if they can retrieve them from the quicksand. The lotus petals last for a week before rotting. If they are returned alive to Silvia, she pays the adventurers 50 gp (-5gp for each missing lotus) and gives them three vials of life's blood.
+
+Awarding Experience Points
+Divide 1,800 XP equally among the characters if the party defeats the lumberknot.
+
+
+4-A Little Girl's Plea:
+As the adventurers travel through the farbog, or perhaps while they stop to rest, they are approached by a geist (spirit).
+
+A voice calls out to you: it sounds like a little girl, but the voice is strange, warped, like hearing the message through the end of a long metal tube. "Please, misters. Please help me! Mum and dad are hurting and left me. Will you bring them back to me?" Looking around, you notice a small humanoid figure, her features hidden under silken sheets. The spirit's translucent body emits a soft pale glow.
+
+The ghost is of Anna Helmvin, a little girl that died here long ago in a time when the barren swamp held a thriving community. She poses no threat to the characters, but follows them for a while, begging them to help her. If attacked, she turns invisible and runs away sobbing. 
+Anna will freely answer any questions the adventurers have, but her knowledge is restricted by when she was "awake" and is filtered through her child psyche. Here is a list of things she knows that the characters may ask about:
+
+This place was once a village. People were happy.
+
+Anna and her parents died when their house burned down. Anna died in her room, her parents died trying to save her.
+
+Her parent's spirits were really sad and angry for not saving Anna, but eventually all of them found peace in the Blessed Sleep when the villagers buried them
+
+Anna doesn't know what happened around here while she was sleeping.
+
+Anna and her parents woke up recently when "bad men" dug up their graves.
+
+Anna can lead characters to the graves, and point them in the direction that the "bad men" fled to.
+
+The grave site is located on a small hill not far from where the adventurers meet Anna. The three graves have been dug up and the shovels used for the digging have been left on the ground beside them. The remains of Anna and her parents are still in their graves, however a DC 15 Intelligence (Investigation) reveals to anyone searching the bodies that jewelery -- rings, necklaces, braclets -- have clearly been ripped off the skeletons, with bits of gold, silver, and a pearl left over. The shovels left here, the hurriedly removed jewelery, and the running footprints leaving the area point that the robbers were fleeing.
+Adventurers can track the footprints or follow where Anna pointed (she cannot venture too far from her grave). Along the way, they come across a charred corpse clutching a pearl necklace missing a bead. This was one of the robbers, and it looks like he was burned alive.
+The characters can continue following the track until they come across a roadside shrine where the second robber is staying.
+
+Up ahead the muddy swamp floor abruptly gives away to a circle dry earth. Sprouting in the midst of this circle is a wide pine tree stump. Carved from what used to be its trunk and rising up from its stump is the symbol of the Church: Avacyn's Collar.
+Sitting beside the shrine is a human clothed in mudcaked wools and leathers. He cautiously holds a light crossbow in his hands, his tired eyes constantly scanning the swamps around him.
+
+The second robber, Bran Halfhelm (a commoner), has stayed at this road shrine for two days now. He is a refugee from Mordov (see "Refugees"). Him and his brother, Rickard, managed to escape the slaughter by running deep into the farbog. They hoped to cross the swamp and seek shelter at one of the northern villages. Fleeing with just the clothes on their backs, they happened upon Anna's grave site and decided to rob it for a chance to have enough money to pay for a hot meal and a place to stay once they reached a village.
+Unfortunately for Bran and Rickard, their grave robbery awoke the spirits, and two fiery geists (Anna's parents) chased them down. Rickard was caught and burned alive, but Bran managed to reach the safety of this roadside shrine, where the angry spirits cannot reach him. He is certain that the geists are waiting for him to leave the circle to kill him.
+Bran begs the adventurers to protect him from the geists. At first, he does not mention that he robbed the graves, only that angry geists chased him here and killed his brother. If the adventurers press him, Bran will reveal the truth, but stress that he was desperate, having lost everything to the zombie horde, and needs the money to pay for basic needs if he ever gets out of the swamp (which is true). He argues that the dead don't need jewelery.
+If the adventurers convince Bran to hand over his stolen jewlery, he gives them a gold ring with etchings of soaring herons on its outside (worth 25gp), and a silver bracelet with a sapphire stylishly embedded into its center (worth 20gp). The gold ring is one of two wedding rings -- Bran withholds the second one, though an appropriate Intelligence check can figure out that there should be two wedding rings, or a Wisdom (Insight) check notices that Bran might be holding something back. Though he's desperate for some money, Bran values his life above all else, so he'll hand over the final item if pressured to.
+
+Developments
+The ghosts of Anna's parents cannot enter the shrine's circle, so they patiently wait. If Bran leaves 300 feet from the shrine's circle, they materialize as two fire geists and attack him relentlessly. If Bran dies, they will then attack anyone else holding their wedding rings.
+Defeating the geists does not satisfy Anna, who says that her parents are still hurting, and they'll just come back later. She thinks that "putting their stuff back" will be the only way her parents will go back to sleep.
+Returning the wedding rings back to the parent's graves is the only way to return their spirits to the Blessed Sleep. If this is done:
+
+You feel a soothing breeze pass by you. Anna appears
+in front of you, no longer shrouded in silks but a happy,
+beaming girl in a dress. Standing right behind her parents,
+smiling at nodding at you. "You gave me back my mommy
+and daddy. Thank you!" The three spirits then fade away.
+
+Awarding Experience Points
+Divide 1,400 XP equally among the characters if the party defeats the two fire geists. Divide an additional 1,000 XP equally among the characters if the party puts the spirits to rest.
+
+
+5-Corpse Wagons:
+Run this encounter only if the adventurers have been following the zombie horde's tracks.
+While the horde's tracks move south away from Mauer Estate, some wagon tracks are spotted moving north, back toward the estate. These are the wagons that were filled with corpses and sent back to Siegfried.
+As the adventurers follow the tracks, they come across one of these wooden corpse wagons sitting in their path. The wagon is filled with corpses. The four zombies that were pulling the wagon are found on the ground just in front of it. They have been cut down neatly into a pile of body parts. A DC 10 Intelligence (Investigation) check while observing the bodies notes that they were cut down with clean, precise cuts from a sharp weapon, possibly a sword. Additionally, characters can spot new footprints near the zombies: human bootprints, two pairs. A DC 15 Intelligence (Investigation) check notes that these boots are plate greaves, part of a set of plate armor. The bootprints appeared a few paces from the zombies and approached them; there's signs of brief struggle, then the bootprints walked a few paces and mysteriously vanish.
+In truth, this was the work of vampires. House Falkenrath has become worried about Siegfried's activities. When they found out that the necro-alchemist was collecting bodies, they sent some of their kin to intercept the corpse wagons to deprive Siegfried of supplies. These two vampires landed at the wagon, quickly dispatched of the zombies pulling it, and then flew away.
+If the adventurers continue following the zombie horde's tracks for another hour, they come to a second wagon just as the zombies escorting it are being cut down. Hans and Franz, two vampire spawn warriors, quickly dispatch the zombies with little effort.
+
+As you continue walking, you spot the hazy form of a wagon about three hundred feet away at the mist's edge. It is slowly moving north, being pulled by three humanoids. Suddenly, two humanoids with large pale wings appear in the sky above, plunging through the mist to the wagon. There are brief sounds of a commotion; staggered groans, then silence again.
+
+The vampires linger beside the wagon for a few minutes to chat. Hans complains about their assignment, saying this is grunt work, that his new boots are caked in mud, the bog reeks, and that there's a small hamlet not far from here they can stop by to "get a bite to eat." Franz scolds Hans, telling him to take the assignment seriously and stop complaining, that he needs to exercise more and isn't "pumped up" enough.
+If the adventurers do not approach or are not spotted, the two vampires fly away after a few minutes.
+If the vampires notice the adventurers and aren't immediately attacked, they try to strike up conversation:
+
+The two figures turn to you. Both wear fine red silken clothes under their armor; red enameled plate with gold trim. Both have strange, wondrous eyes, golden irisis swimming in pools of black sclera. Their pale faces wear very different expressions: one man a cold grimace, the other man a haughty smirk.
+"It seems we have company, Franz," the man says, "a band of seasoned looking fellows, heading north... oh! You must be the ‘Heroes of Shadowgrange!' Such an honor!" he says, performing a mock bow.
+
+Hans wants to banter with the adventurers, as he's bored  and looking for entertainment. Franz, however, is a no-nonsense kind of vampire and wants to finish taking out the corpse wagons so that they can head home.
+Franz is tight-lipped when dealing with the adventurers, while Hans does entertain questions, albeit with mocking sarcasm. For example, if asked what the vampires are doing here, he replies, "taking a stroll, of course. The farbog is lovely this time of year." He does congratulate the adventurers, however, saying that the Falkenraths are happy they aided Shadowgrange and "protected the cattle." The vampires are just as opposed to the zombie horde -- and Siegfried's other machinations -- as everyone is, because the vampires rely on healthy, thriving human settlements as food.
+If asked to help defeat Siegfried, Hans explains that the alchemist is holed up in the Mauer Estate and that the building has a protective holy ward that prevents the vampires from attacking directly. He is willing to help the adventurers if they deal with Siegfried for the vampires; for example, he's willing to find out what happened to Katarina and relay that information to them, after the estate's holy wards are taken down.
+The vampires defend themselves if attacked or provoked enough, but they are under strict orders not to kill the characters, a fact that Franz must remind Hans. The Falkenrath know of the adventurers' quest and would like to see the party do the dirty work of disposing Siegfried for them. If one vampire is killed, the other attempts to flee, swearing revenge (maybe returning with other vampires to attack the party in a future adventure).
+
+Awarding Experience Points
+Divide 1,050 XP equally among the characters if the party speaks with the vampires. If they manage to defeat the vampires, divide 3,600 XP instead.
+
+
+Conclusion of Part 4:
+On the end of the second day of travel, the party reaches the end of the swamp.
+
+You leave the black muck of the farbog behind and are greeted with a fresh breeze to the open valley ahead of you. Soft rolling hills cascade ahead of you, flanked by the jagged stone valley walls.
+Up a few miles ahead is a grove of greenery rising up from the short grass. Poking up from its center, high above the forest ceiling, is a twisting stone tower adorned by glistening metal contraptions. The tower shimmers with wisps of pale lights, like ribbons dancing in the breeze.
+Angry dark clouds gather over the valley. They seem to concentrate over the grove, as if nature's wrath was winding up to smite the tower. Quick flashes of lightning pop from inside the restless clouds. A storm is coming...
+
+The adventurers have nearly reached the end of their journey: Mauer Estate stands defiantly in front of them. They need only cross the valley, descend into the thicket's center, and enter.
+
+Awarding Experience Points
+Crossing the farbog completes a story milestone. Divide 1,200 XP equally among the characters. There is no milestone level up for this Chapter.

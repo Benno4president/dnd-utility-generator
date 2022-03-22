@@ -1,0 +1,112 @@
+here Be Dragons is intended for four characters with an average party level (APL) of 10. Characters who complete this adventure should earn enough experience to reach halfway to 11th-level. A dragon cult has been plaguing the village of Hornsmeet. This campaign takes place in Arden, although it can be set in your own world. Any party composition should be able to finish the adventure with intelligent play.
+
+Background
+Ulthurus, an adult white dragon, has recently made its lair in the remains of Icefang Fortress in the Bladespine Mountains. From its new roost, it's been accosting traveling caravans and nearby villages leaving icy destruction in its wake. To make matters worse, a tribe of kobold zealots have come to worship Ulthurus and have begun raiding settlements and attacking passersby in the hopes of acquiring more wealth for their new master. Recently, a prized relic was stolen from the house of the mayor of Hornsmeet by a small group of the kobolds and the mayor desperately wants it back... along with the head of the dragon before it freezes his village solid. In exchange, he's offered 5,000 gp along with whatever the dragon has in its hoard, aside from the relic.
+
+Adventure Hooks
+A Former Nemesis. The characters have encountered Ulthurus or the band of kobold zealots previously, but they managed to escape. Now, upon learning of their new lair, the characters are eager to finish what they started. Shapes in the Sky. The characters were travelling to Hornsmeet on unrelated business when they saw something massive flying overhead. Luckily, it didn't see them, but now they can't shake the feeling that something bad is about to happen. Coins for Killing. The characters heard about the bounty on the dragon's head and have come to Hornsmeet to collect on it, although the bounty probably pales in comparison to what's in the dragon's hoard.
+The Whimsical Pig Tavern
+You find yourselves seated at a table inside The Whimsical Pig tavern in the village of Hornsmeet. Recently, the village has been plagued by raids from a band of rather brave kobolds wearing bone armor. The last raid occurred only a few nights ago and resulted in the theft of the town's prized artifact, the Horn of Valhune. He believes they might be gathering treasure for the hoard of a white dragon that's been spotted in the area attacking towns and caravans and has put out a call for adventurers to reclaim the horn, deal with the kobolds, and, if his suspicions are correct, slay their dragon master. The sun is beginning to set by the time the characters settle in for a meal and a cold pint of ale. Many of the townsfolk have gathered in the common room of the establishment and the mayor, a dwarven male named Felwad Stonehammer, is addressing the crowd. Anyone who succeeds on a DC 14 Wisdom (Perception) check or approaches the crowd can hear the following. Kobolds have been raiding the town and approaching caravans for anything shiny and valuable. They've ransacked the outlying buildings and the mayor's home. When confronted, they don't flee, but instead stand their ground and fight to the death if need be. The mayor is offering 5,000 gp to anyone who can put an end to the raids. As you listen in, you suddenly hear a scream as a villager bursts into the common room. "They're back again! The kobolds are back!" he shouts before collapsing on the floor, his back riddled with bloody, frosty bruises. Encounter: Kobolds in the Dark. There are six kobold bonemasters and two kobold shamans in the raiding party. They approach the tavern and pelt it with frozen sling stones while a smaller band of regular kobolds ransack the other buildings. The bonemasters and the shamans are trying to keep the townsfolk from interfering with their looting and will engage anyone who exits the tavern or attacks from its windows. The bonemasters are fanatics so they'll fight to the death, while the shamans will flee if reduced to 10 hp or fewer. Once the kobolds have all been slain or driven off, the townsfolk emerge from the tavern and begin taking stock of their missing goods. If the characters haven't met or spoken with Mayor Stonehammer yet, he'll seek them out after the battle and thank them for their assistance before requesting they take on his quest to deal with the creatures and bring back his stolen artifact, the Horn of Velhune. He believes they're holed up in the old abandoned Icefang Fortress and can provide the characters with directions to reach it if they accept his offer.
+
+The Road to Icefang
+Fortress
+The road to Icefang Fortress is long and arduous, climbing up through the hills and into the mountains proper. The road that once connected it to the outside word has long since vanished beneath nature's reclamation leaving naught but a worn trail in its place. Small footprints can be seen here and there as the path makes its way up towards the fortress itself. The path is dangerous and littered with traps and hazards. The characters have the following encounters on their way to the fortress. Feel free to run them in whichever order you prefer. Icy Climb. The characters arrive at a crumbled staircase that once connected the lower road to a higher plateau approximately 100 feet up. The cliffside where the staircase once existed can be climbed, however, the hand holds are icy. Climbing up the icy face of the cliff requires a DC 15 Strength (Athletics) check. If the characters don't use tools or other gear to make the climb easier, they roll at disadvantage. Failure means they get halfway up before they fall suffering 5d6 bludgeoning damage and falling prone.
+A successful DC 18 Wisdom (Perception) check reveals a bucket, rope, and pulley system the kobolds have rigged up around the side of the cliff hidden behind some brush and a copse of trees. It can ferry up to 200 pounds at a time from the bottom of the cliff to the top. Any more weight and the rope snaps once the bucket has lifted off the ground. Once someone has scaled the cliffside, they can see the pulley system from the top. Collapsed Tunnel. The characters find themselves standing before a partially collapsed tunnel. Currently, the only way forward is to proceed through the tunnel or spend hours climbing through rough terrain around it. The remaining space in the tunnel is large enough for a small creature to crawl through without issue. If a larger creature tries to navigate the passage, roll 1d100. On a result of 20 or less, the passage collapses on them pinning them under the rubble. They take 8d6 bludgeoning damage and become, blinded, deafened, prone, and restrained and begin to suffocate. A creature can attempt a DC 16 Strength saving throw to dig themselves free. A creature outside the passage can spend their action to attempt a DC 15 Strength (Athletics) check to dig out a trapped creature. There is a much more rugged path that leads around the tunnel and through harsh terrain. Whereas the tunnel would take 15 minutes to traverse, it takes over two hours to go around it and any creature that does so gains one level of exhaustion.
+Windy Canyon. The characters find themselves battling powerful gusts in an attempt to make their way up a steep incline in a natural wind tunnel. The characters can attempt to force their way up the path and brace against the powerful winds. Doing so requires them to succeed on a DC 14 Constitution saving throw. Failure means the characters reach the top, but gain a level of exhaustion. Success means they reach the top without issue.
+There is also a series of caves that wind their way up through the mountainside, the opening of which can be noticed with a DC 14 Wisdom (Perception) check. Navigating them requires a DC 14 Intelligence check. Failure means the characters get lost in the maze-like passageways and gain a level of exhaustion before finally finding their way out at the top of the canyon. Success means they reach the exit at the top of the canyon without issue.
+Trapped Field. The characters come across a large field they need to cross in order to continue on to the fortress. Unbeknownst to them, the kobolds have littered the field with rusty iron hunter's traps. Have each character make a DC 15 Wisdom (Perception) check. Failure means they step on a trap taking 4d4 piercing damage and their speed is reduced to 0 until they can pass a DC 12 Strength saving throw. Each time they fail the saving throw they take an additional 1d4 piercing damage. In lieu of a saving throw, the trapped creature or another creature can attempt a DC 15 Dexterity (Sleight of Hand) check to disable the trap. Failure means the trapped creature takes the additional piercing damage as above.
+Roadside Ambush
+As you make your way further and further into the mountains, you slowly begin to see the fortress coming into view. The structure appears to wind its way up through a large mountain peak and terminate at an outcropping big enough for a roc to make a nest in. Ahead, the path dips down into a small canyon, the bottom of which is partially blocked by large boulders that seem to have fallen from the canyon walls above. Have the characters make DC 16 Wisdom (Perception) checks. If they all fail, they're surprised by a group of kobolds who have taken up position on the ridges above them.
+Encounter: Kobolds on the Rise. There are six
+kobold bonemasters, three on either side of the canyon the characters are currently navigating. They have halfcover due to the elevation (30 feet up) and rely on their frozen slings to pelt the characters. If a character manages to climb the canyon walls (requiring a DC 14 Strength (Athletics) check), the kobolds will swap to their scimitars. As before, these zealots will fight to the death.
+Icefang Fortress
+The imposing fortress stands before you now, its main doors smashed open and left broken on the ground. A long, wide stone staircase leads up into the complex. Icefang Fortress was once a dwarven surface stronghold. Designed to utilize the outcropping above as a vantage point to watch for advancing enemy forces, it was abandoned when the dwarven house responsible for its upkeep was slaughtered in a previous war and no one was left to man it. The fortress has the following features unless noted otherwise. Ceilings. The ceilings are made of stone and rise 30 ft. above the floor. Floors and Walls. The floors are made of neatly cut stone while the walls are made of a cobbled granite. Doors. The doors are made of solid oak with metal reinforcements. They're all unlocked unless otherwise stated. Lighting. The fortress is pitch black. Unusual Features. There are numerous barricades setup throughout the complex. Trying to cross one of them results in a creature taking 2d4 piercing damage. They are also treated as difficult terrain.
+1. Entrance Hall
+The stone steps wind up and to the north into a hall with six large and imposing statues of dwarven warriors. Beyond them, a partially collapsed passageway leads north. There is a slot in the eastern wall that leads to room 8. A small creature could squeeze through with a DC 15 Dexterity (Acrobatics) check. The way north is partially collapsed. Any creature medium size or larger treats the rock filled spaces as difficult terrain. Trap: Ballista. There is a trip wire going across the top of the first staircase. It can be spotted with a DC 16 Wisdom (Perception) check. If tripped, the ballista in room 8 fires and everyone in the path of the bolt must succeed on a DC 16 Dexterity saving throw or take 4d10 piercing damage and be knocked prone.
+2. Storage Room
+This massive chamber has 60 foot tall vaulted ceilings. Broken pots and containers litter the floor and large crates and casks line the walls. In the corner a large mound of stone sits motionless. Encounter: Stone Golem. The mound of stone is a stone golem. It was left behind by the dwarves when the place was abandoned and now it guards this room just as it always has. It will not attack a dwarf, unless one attacks it first, but is openly hostile to any other type of creature that enters the room. Treasure: Old Goods. The chest at the northern end of the room contains a set of horseshoes of a zephyr and 300 gp in a saddlebag.
+3. Library
+This large room contains various bookshelves and desks for studying. The smell of mold is pervasive. Secret Door. Most of the books in the library have succumbed to mold and moisture and deteriorate as soon as they're touched. There are nine pristine books on the shelves, however, that seem to be magical in nature. The small bookcase on the eastern wall has nine slots where books can be placed. If all nine books are placed into these slots, the secret door behind the bookcase opens revealing room 4.
+4. Hidden Archives
+This small dusty chamber contains two small, cobweb covered bookcases. Treasure: Books and Scrolls. There are 100 pounds worth of rare books here. Each pound of books is worth 50 gp. There is also an 8th-level spell scroll of incendiary cloud.
+5. Main Barricade
+Rows and rows of spiked wooden barricades and sandbags block off this section of the hallway. Behind them, a large ballista stands loaded and pointed at you. Encounter: Lone Kobold. There is a single kobold manning the ballista. He has three-quarters cover from the barricades and ballista. He can fire it once every other turn and it deals 4d10 piercing damage on a hit and knocks a target of large size or smaller prone. He's not a fanatic, in fact, he just fell in with these zealots because his own tribe got wiped out. If the characters offer to let him leave, he'll gladly abandon his post, scurry over the barricade unharmed, and flee the fortress.
+6. Western Barracks
+This room contains six beds, two tables, and four latrines. A large plush, and slightly moldy, rug sits on the floor. Encounter: Kobolds. There are four kobold bonemasters and two kobold shamans in this room. The bonemasters fight to the death, but the shamans will flee if reduced to 10 hp or fewer, heading deeper into the complex to try and warn their companions.
+7. Eastern Barracks
+This room contains six beds, two tables, and four latrines. A large plush, and slightly moldy, rug sits on the floor. Encounter: Kobolds. There are four kobold bonemasters and two kobold shamans in this room. The bonemasters fight to the death, but the shamans will flee if reduced to 10 hp or fewer, heading deeper into the complex to try and warn their companions.
+8. Defensive Turret
+This small chamber contains a massive ballista pointed at the entrance of the complex. A wire can be seen running from the trigger of the device out to the hall beyond. If someone cuts the wire, it disables the trap in room 1.
+9. Ale Storage
+This room contains the remains of four large kegs of what once was ale. An odd smell permeates the room. Encounter: Jellies. There are two ochre jellies hiding on the ceiling in this room. They drop down and attack anyone who enters. They lack any sense of selfpreservation and pursue anyone they can perceive.
+10. Mess Hall
+This large chamber was once a grand mess hall, based on the tables and stools you can see. A large fireplace sits against the northern wall, long since extinguished. Scraps of food can be seen lying about. The kobolds use this area to eat. Besides their leftovers, there is nothing else of note in this room.
+11. Kitchen
+This room was once a kitchen. Now, its cupboards lie bare. The kobolds don't cook their food, preferring to eat it raw. There is nothing of note in this room.
+12. Pantry
+This room is covered in dust and cobwebs. Various crates and barrels sit about in various states of disrepair. Treasure: Chest. There is a chest hidden in the corner of this room under a tarp of some kind. It can be noticed with a DC 12 Wisdom (Perception) check. It contains one potion of supreme healing.
+13a. Collapsed Hallway
+This hallway appears to have partially collapsed. A small passageway has been made using wooden planks and small stones. Trap: Crossbow. A creature medium size or larger needs to crouch walk to get through this passage. On the other side is a trip wire. It can be noticed with a DC 14 Wisdom (Perception) check. If tripped, the crossbow to the west of the passage's exit fires. The creature who tripped the trap must succeed on a DC 14 Dexterity saving throw or take 3d10 piercing damage. Once tripped, the trap becomes inert.
+13b. Massive Door
+A massive 30 ft. tall door stands before you. Reinforced with multiple metal bands and a large lock, it looks impregnable. This door can only be opened with the key found in room 16.
+14. Armory
+Various weapon racks and armor stands fill this small room. The characters can find 3d6 martial weapons in this room and 2d4 suits of chainmail.
+15. Elite Barracks
+This room contains a handful of beds and some latrines. Another room can be seen on the other side of a dividing wall. Encounter: Kobold Zealots. Six kobold bonemasters are in this room. They're currently sleeping. If disturbed, they fight to the death.
+16. Captain's Quarters
+This large bedroom contains a fireplace, assorted bookshelves, a large bed, and a footlocker. It appears as though someone has been staying here, although the room is quite filthy.
+This room is where the kobolds' leader sleeps. He's currently talking to Ulthurus when the characters arrive. There is a key in the footlocker that opens the massive door at area 13b.
+Secret Door. There is a secret door behind the small bookshelf to the north. It can be located with a DC 18 Wisdom (Perception) check and opened with a DC 14 Intelligence (Investigation) check.
+17. Hidden Shrine
+This small room is oddly bright. A dozen or so candles burn bright surrounding an altar, upon which a shield rests. The candles are all lit with continual flame spells. Treasure: Shield. The shield is a +2 shield. It bears a relief on the front of a dwarven face shouting a war cry.
+18. The Dragon's Lair
+A vicious wind whips at you from across this frozen outcropping. In the center of it all, you see a large pile of gold and gems, upon which a large white dragon currently sits. Before him, shouting over the wind, is a small kobold with a helmet made of bone. The frozen ice is very slippery. Any creature that moves more than half its speed must succeed on a DC 12 Dexterity (Acrobatics) check or fall prone at the end of their movement.
+Encounter: Ulthurus. The dragon is Ulthurus the adult white dragon. The kobold before him is Grickt the kobold shaman and leader of this tribe of kobolds. If Ulthurus or Grickt notice the characters, they assume an offensive posture, but don't immediately attack. Ulthurus isn't very bright, but he is curious. He enjoys torturing his prey and drawing out their suffering. If he thinks the characters could ammuse him in some way, he'll entertain them, but as soon as he gets bored he attacks. If the characters tell him that the kobolds are all dead and there's no one to bring him anymore treasure, he can possibly be persuaded to leave this place. It would require a successful DC 25 Charisma (Persuasion) check and would result in him devouring most of his hoard before taking off and leaving in search of a new lair.
+Aftermath
+If the characters slayed Ulthurus, they find his entire hoard ripe for the taking. They locate the Horn of Valhune as well as the following.
+14,000 gp
+200 pp
+9x 500 gp gemstones
+a suit of mithral half-plate
+a blue sapphire elemental gem
+a periapt of health
+When they return to the village of Hornsmeet, they receive a heroes' welcome along with the promised reward of 5,000 gp (if they return the horn, that is). If the characters convince Ulthurus to leave, they're left with only part of his hoard. They locate the Horn of Valhune as well as the following.
+1,345 gp
+27 pp
+9x 500 gp gemstones
+a suit of mithral half-plate
+a blue sapphire elemental gem
+a periapt of health
+When they return to the village of Hornsmeet, they receive a heroes' welcome along with the promised reward of 5,000 gp (if they return the horn, that is). receive a heroes welcome along with the promised g p receive a heroes welcome along with the promised reward of 5,000 gp (if theyreturn the horn, that is).
+g p
+reward of 5,000 gp (if they return the horn, that is).
+Kobold Bonemaster
+Small humanoid (kobold), lawful evil
+Armor Class 17 (bone armor)
+Hit Points 40 (9d6 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 16 (+3) 12 (+1) 8 (-1) 7 (-2) 8 (-1)
+Senses darkvision 60 ft., passive Perception 8
+Languages Common, Draconic
+Challenge 3 (700 XP)
+Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+Actions
+Bone Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+Frozen Sling. Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 11 (3d6) cold damage.
+Kobold Shaman
+Small humanoid (kobold), lawful evil
+Armor Class 13
+Hit Points 40 (9d6 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 16 (+3) 12 (+1) 8 (-1) 14 (+2) 8 (-1)
+Senses darkvision 60 ft., passive Perception 12
+Languages Common, Draconic
+Challenge 1/2 (100 XP)
+Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+Spellcasting. The shaman is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The shaman has the following cleric spells prepared:
+Cantrips (at will): light, sacred flame, thaumaturgy
+1st level (3 slots): bless, cure wounds, sanctuary
+Actions
+Dagger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. Sling. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
