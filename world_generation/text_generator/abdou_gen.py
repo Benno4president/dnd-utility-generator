@@ -11,10 +11,17 @@ sequence_length = 100
 BATCH_SIZE = 128
 EPOCHS = 50
 # dataset file path
-FILE_PATH = "a_data/shop.txt"
+FOLDER_PATH = os.path.basename('data')
+FILE_PATH = "a_data/wonderland.txt"
 BASENAME = os.path.basename(FILE_PATH)
+FOLDER = True
 # read the data
 text = open(FILE_PATH, encoding="utf-8").read()
+
+if FOLDER:
+    for doc in os.listdir(FOLDER_PATH):
+        text += open(FOLDER_PATH+'/'+doc, encoding="utf-8").read()
+
 # remove caps, comment this code if you want uppercase characters as well
 text = text.lower()
 # remove punctuation

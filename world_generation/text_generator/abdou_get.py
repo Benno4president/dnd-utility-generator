@@ -7,11 +7,11 @@ import os
 
 sequence_length = 100
 # dataset file path
-FILE_PATH = "a_data/shop.txt"
+FILE_PATH = "data/shop.txt"
 # FILE_PATH = "data/python_code.py"
 BASENAME = os.path.basename(FILE_PATH)
 
-seed = "seed"
+seed = "a shop"
 
 # load vocab dictionaries
 char2int = pickle.load(open(f"{BASENAME}-char2int.pickle", "rb"))
