@@ -5,7 +5,7 @@
 
 from __future__ import division
 
-import os, sys, time, urllib.request, random, re
+import os, sys, csv, time, urllib.request, random, re
 
 
 #-------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ def removeHTML(s):
     return s
 
 baseurl = 'http://www.erowid.org/experiences/exp.php?ID=%s'
-maxID = 67000
+maxID = 2 # 67000
 dir = 'text/'
 if not os.path.exists(dir):
     os.mkdir(dir)
@@ -33,6 +33,7 @@ if not os.path.exists(dir):
 print('---------------------------------------------------------------------------------\\')
 print('Downloading Erowid experience reports')
 print('Hit control-C to quit')
+story_dict = []
 for i in range(1, maxID):
     id = i#random.randint(1,maxID)
     url = baseurl % id
@@ -81,7 +82,14 @@ for i in range(1, maxID):
     body = removeHTML(body)
     body = body.strip()
 
-    writeFile(fn, title + '\n\n' + body + '\n')
+    story_dict.append({'title':title, 'story': body})
 
-
-
+    # uncomment to save txt file.
+    #writeFile(fn, title + '\n\n' + body + '\n')
+if True:
+    with open('dict.csv', 'w') as csv_file:  
+        writer = csv.writer(csv_file)
+        for key, value in story_dict:
+            print(key, value)
+            writer.writerow([value[0], value[1]])
+    
