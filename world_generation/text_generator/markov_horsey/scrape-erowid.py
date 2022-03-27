@@ -5,7 +5,7 @@
 
 from __future__ import division
 
-import os, sys, time, urllib.request, random, re, glob
+import os, sys, time, urllib.request, random, re
 
 
 #-------------------------------------------------------------------------------------------
@@ -31,18 +31,17 @@ if not os.path.exists(dir):
 # MAIN
 
 print('---------------------------------------------------------------------------------\\')
-print('Downloading random Erowid experience reports')
+print('Downloading Erowid experience reports')
 print('Hit control-C to quit')
 for i in range(1, maxID):
-    print('-----')
-    time.sleep(1)
     id = i#random.randint(1,maxID)
     url = baseurl % id
 
-    if glob.glob('%s%s *.txt'%(dir,id)):
-        print('We already downloaded that one.  Skipping.')
+    if os.path.exists(dir + 'erowid_' + str(i) + '.txt'):
+        print('We already downloaded that one.  Skipping #'+str(i))
         continue
 
+    print('-----')
     print('Fetching url: %s'%url)
     with urllib.request.urlopen(url) as res:
         page = res.read().decode("ISO-8859-1")
@@ -51,6 +50,9 @@ for i in range(1, maxID):
         print('No report at that ID number.')
         continue
 
+    # sleeping to not get ip banned for spam, after continue calls.
+    time.sleep(1)
+    
     # find the list of substances
     dosechart = page.split('DoseChart')[1]
     lines = dosechart.splitlines()
@@ -62,7 +64,7 @@ for i in range(1, maxID):
             substanceUrl = substanceUrl.split('/')[-2]
             substances.append(substanceUrl)
     substances = sorted(list(set(substances)))
-    fn = dir + 'erowid_' + '-'.join([str(id)]+substances) + '.txt'
+    fn = dir + 'erowid_' + str(i) + '.txt'
     title = page.split('class="title">')[1].split('</div>')[0]
 
     print('Substances: %s'%substances)
