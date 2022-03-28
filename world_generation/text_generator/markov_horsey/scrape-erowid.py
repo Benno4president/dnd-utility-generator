@@ -1,15 +1,30 @@
 #!/usr/bin/env python
 
-# Fetch random Erowid experience reports and save them into the "text/" folder.
-# Runs forever until you hit control-C to quit it
+# configs
+FROMID = 1 
+TOID = 25 # 67000 maybe max. research needed.
+FILTER_BY_WORD_SET = True # all stories will be saved if false, b/c the word list is ignored.
+TARGET_WORD_SET = set([ # don't use spaces, they have no effect.
+    'mushroom', 
+    'mushrooms', 
+    'shroom', 
+    'shrooms', 
+    '$hroom', 
+    '$hrooms', 
+    '\'rooms',
+    'psilocybin',
+    'psilocyn',
+    'magic mush',
+    'boomers',
+    'mushies',
+    'caps'
+    ])
+SAVE_AS_CSV = True # OBS: only saved if code is executed to the end.
+SAVE_EACH_TXT = False
 
-from __future__ import division
 
-import os, sys, csv, time, urllib.request, random, re
-
-
-#-------------------------------------------------------------------------------------------
-# HELPERS AND SETUP
+# IMPORTS, HELPERS AND SETUP
+import os, sys, csv, time, urllib.request, re
 
 def writeFile(fn,data):
     f = open(fn,'w'); f.write(data); f.close()
@@ -21,24 +36,20 @@ def removeHTML(s):
     return s
 
 baseurl = 'http://www.erowid.org/experiences/exp.php?ID=%s'
-maxID = 3 # 67000
 dir = 'text/'
 if not os.path.exists(dir):
     os.mkdir(dir)
 
-
-#-------------------------------------------------------------------------------------------
 # MAIN
-
 print('---------------------------------------------------------------------------------\\')
 print('Downloading Erowid experience reports')
 story_list = []
-for i in range(1, maxID):
+for i in range(FROMID, TOID + 1):
     fn = dir + 'erowid_' + str(i) + '.txt'
-    id = i#random.randint(1,maxID)
+    id = i
     url = baseurl % id
 
-    if os.path.exists(fn):
+    if SAVE_EACH_TXT and os.path.exists(fn):
         print('We already downloaded that one.  Skipping #'+str(i))
         continue
 
@@ -47,12 +58,21 @@ for i in range(1, maxID):
     with urllib.request.urlopen(url) as res:
         page = res.read().decode("ISO-8859-1")
 
+    # sleeping to not get ip banned for spam, after continue calls.
+    time.sleep(1)
+    
     if 'Unable to view experience' in page:
         print('No report at that ID number.')
         continue
+    elif not FILTER_BY_WORD_SET:
+        pass
+    elif not (intrsec := set(page.lower().split()).intersection(TARGET_WORD_SET)): 
+        # this checks if a word from the list is in the page anywhere.
+        print('No search keyword found.')
+        continue 
+    else:
+        print('Matched on:', intrsec) 
 
-    # sleeping to not get ip banned for spam, after continue calls.
-    time.sleep(0.8)
     
     title = page.split('class="title">')[1].split('</div>')[0].replace('\n', '')
     substance = page.split('class="substance">')[1].split('</div>')[0].replace('\n', '')
@@ -73,16 +93,16 @@ for i in range(1, maxID):
     body = removeHTML(body)
     body = body.strip()
 
-    story_list.append({'title':title, 'author':author, 'story': body})
+    story_list.append({'title':title, 'author':author, 'substance':substance, 'story': body})
 
-    # uncomment to save txt file.
-    #writeFile(fn, title + '\n\n' + body + '\n')
+    if SAVE_EACH_TXT:
+        writeFile(fn, title + '\n\n' + body + '\n')
 
-# This converts and saves the data as csv
-if True:
+# This converts and saves the data as csv if true
+if SAVE_AS_CSV:
     with open(f'scraped_{len(story_list)}.csv', 'w') as csv_file:  
         writer = csv.writer(csv_file)
         writer.writerow(list(story_list[0].keys()))
         for story_page in story_list:
-            writer.writerow([story_page['title'], story_page['author'], story_page['story']])
+            writer.writerow([story_page['title'], story_page['author'], story_page['substance'], story_page['story']])
     
